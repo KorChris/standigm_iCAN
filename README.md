@@ -4,6 +4,7 @@
 
 Paper : 
 
+```bibtex
 @preparing{standigm_iCAN,
     title = "iCAN™: an AI-Driven Text Mining System for Automatic Extraction of Gene-Disease Associations from Multiple Documents",
     author = "Chanung Jeong and
@@ -12,3 +13,4 @@ Paper :
     		   Tae Yong Kim and 
     		   Hee Jung Koo"
 }
+```
