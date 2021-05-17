@@ -1,0 +1,510 @@
+entrez_id,gene_text,efo_id,disease_text,label,pmids
+174,maternal serum alpha-fetoprotein|MSAFP|alpha-fetoprotein|AFP,EFO:1000949,gastroschisis|Gastroschisis,Associated,2453005|7524003
+174,maternal serum alpha-fetoprotein|MSAFP|alpha-fetoprotein|AFP,EFO:1000949,gastroschisis|Gastroschisis,Not Associated,6191039|10420042
+2875,GPT1,Orphanet:1243,Best's macular dystrophy|Best's vitelliform macular dystrophy|BVMD|Best vitelliform macular dystrophy,Not Associated,3165727
+2875,GPT1,HP:0007754,macular dystrophy,Not Associated,3165727
+2875,GPT1,MONDO:0000390,Vitelliform macular dystrophy|VMD-1,Associated,3165727
+F802,hCG,EFO:1000949,gastroschisis|Gastroschisis,Not Associated,7524003
+F1158,aquaporin,Orphanet:59306,McLeod syndrome|McLeod neuroacanthocytosis,Not Associated,9371984
+961,CD47,Orphanet:59306,McLeod syndrome|McLeod neuroacanthocytosis,Not Associated,9371984
+358,Colton antigens,Orphanet:59306,McLeod syndrome|McLeod neuroacanthocytosis,Not Associated,9371984
+2532,Duffy antigen,Orphanet:59306,McLeod syndrome|McLeod neuroacanthocytosis,Not Associated,9371984
+F801,glycophorins,Orphanet:59306,McLeod syndrome|McLeod neuroacanthocytosis,Not Associated,9371984
+7504,Kx antigen|XK,Orphanet:59306,McLeod syndrome|McLeod neuroacanthocytosis,Associated,9371984|10343080|11761473
+3386,LW,Orphanet:59306,McLeod syndrome|McLeod neuroacanthocytosis,Not Associated,9371984
+F106,Rh antigen,Orphanet:59306,McLeod syndrome|McLeod neuroacanthocytosis,Not Associated,9371984
+7499,Xga antigens,Orphanet:59306,McLeod syndrome|McLeod neuroacanthocytosis,Not Associated,9371984
+3792,kell blood group antigens,Orphanet:59306,McLeod syndrome|McLeod neuroacanthocytosis,Associated,10343080
+7504,Kx antigen|XK,EFO:0003884,chronic renal failure|chronic kidney disease|CKD|end-stage renal disease|ESRD,Not Associated,10343080
+3792,kell blood group antigens,EFO:0003884,chronic renal failure|chronic kidney disease|CKD|end-stage renal disease|ESRD,Not Associated,10343080
+7504,Kx antigen|XK,Orphanet:791,retinitis pigmentosa,Not Associated,10343080
+3792,kell blood group antigens,Orphanet:791,retinitis pigmentosa,Not Associated,10343080
+7504,Kx antigen|XK,EFO:0000407,dilated cardiomyopathy,Not Associated,10343080
+3792,kell blood group antigens,EFO:0000407,dilated cardiomyopathy,Not Associated,10343080
+F2090,B-UGT|bilirubin uridine-diphosphate glucuronosyltransferase|bilirubin UDP glucuronosyl-transferase,EFO:1000068,acute leukaemia,Not Associated,10472535
+F2090,B-UGT|bilirubin uridine-diphosphate glucuronosyltransferase|bilirubin UDP glucuronosyl-transferase,EFO:0005556,Gilbert syndrome|Gilbert's syndrome|GS,Associated,10472535
+F2090,B-UGT|bilirubin uridine-diphosphate glucuronosyltransferase|bilirubin UDP glucuronosyl-transferase,EFO:0000565,leukaemia,Not Associated,10472535
+6647,Copper/zinc superoxide dismutase|SOD1|CuZn Superoxide dismutase|Cu/Zn superoxide dismutase gene|mSOD1|Cu(2+)/Zn(2+) superoxide dismutase,EFO:0001356,FALS|Familial amyotrophic lateral sclerosis|familial ALS|familial amyotrophic lateral sclerosis,Associated,10486188|15056757|15872021|17043238
+6647,Copper/zinc superoxide dismutase|SOD1|CuZn Superoxide dismutase|Cu/Zn superoxide dismutase gene|mSOD1|Cu(2+)/Zn(2+) superoxide dismutase,EFO:0003782,Motor neuron disease|motor neuron disease|motoneuron disease,Associated,10486188|15056757|15872021|17043238
+6647,Copper/zinc superoxide dismutase|SOD1|CuZn Superoxide dismutase|Cu/Zn superoxide dismutase gene|mSOD1|Cu(2+)/Zn(2+) superoxide dismutase,EFO:0003782,Motor neuron disease|motor neuron disease|motoneuron disease,Not Associated,17114818
+4744,hNF-H|neurofilament heavy|NF-H,EFO:0003782,Motor neuron disease|motor neuron disease|motoneuron disease,Associated,10515233
+4744,hNF-H|neurofilament heavy|NF-H,EFO:0003782,Motor neuron disease|motor neuron disease|motoneuron disease,Not Associated,15170578
+4747,hNF-L|neurofilament light|NF-L,EFO:0003782,Motor neuron disease|motor neuron disease|motoneuron disease,Associated,10515233
+4747,hNF-L|neurofilament light|NF-L,EFO:0003782,Motor neuron disease|motor neuron disease|motoneuron disease,Not Associated,15170578
+4744,hNF-H|neurofilament heavy|NF-H,EFO:0000253,ALS|Amyotrophic lateral sclerosis|amyotrophic lateral sclerosis,Associated,10515233
+4747,hNF-L|neurofilament light|NF-L,EFO:0000253,ALS|Amyotrophic lateral sclerosis|amyotrophic lateral sclerosis,Associated,10515233
+4193,mdm2|MDM2,EFO:1000028,Ependymomas|ependymomas,Associated,10824927
+7157,p53,EFO:1000028,Ependymomas|ependymomas,Not Associated,10824927
+1889,ECE1,MONDO:0000358,familial orofacial cleft|Non-syndromic orofacial cleft|OFC,Not Associated,11415518
+1906,EDN1|Endothelin-1,MONDO:0000358,familial orofacial cleft|Non-syndromic orofacial cleft|OFC,Not Associated,11415518
+1909,EDNRA,MONDO:0000358,familial orofacial cleft|Non-syndromic orofacial cleft|OFC,Not Associated,11415518
+1910,EDNRB,MONDO:0000358,familial orofacial cleft|Non-syndromic orofacial cleft|OFC,Not Associated,11415518
+4137,tau protein|microtubule-associated protein tau|Tau,MONDO:0001627,dementia,Not Associated,11711205
+4137,tau protein|microtubule-associated protein tau|Tau,Orphanet:282,frontotemporal dementias|frontotemporal dementia|frontotemporal lobe degeneration |frontotemporal dementia linked to chromosome 3|FTD-3|FTD|FTD linked to chromosome 3,Associated,11711205|14503643
+4137,tau protein|microtubule-associated protein tau|Tau,EFO:0003782,Motor neuron disease|motor neuron disease|motoneuron disease,Not Associated,11711205
+4137,tau protein|microtubule-associated protein tau|Tau,EFO:0003096,Pick's disease,Not Associated,11711205
+23230,Chorein,Orphanet:399,Huntington's disease,Not Associated,11761473
+23230,Chorein,EFO:0004152,chorea,Associated,11761473
+23230,Chorein,Orphanet:59306,McLeod syndrome|McLeod neuroacanthocytosis,Not Associated,11761473
+23230,Chorein,EFO:0004145,Myopathy,Not Associated,11761473
+23230,Chorein,EFO:0003100,Peripheral neuropathy,Not Associated,11761473
+3064,Huntingtin,Orphanet:399,Huntington's disease,Associated,11761473
+3064,Huntingtin,EFO:0004152,chorea,Not Associated,11761473
+3064,Huntingtin,Orphanet:59306,McLeod syndrome|McLeod neuroacanthocytosis,Not Associated,11761473
+3064,Huntingtin,EFO:0004145,Myopathy,Not Associated,11761473
+3064,Huntingtin,EFO:0003100,Peripheral neuropathy,Not Associated,11761473
+7504,Kx antigen|XK,Orphanet:399,Huntington's disease,Not Associated,11761473
+7504,Kx antigen|XK,EFO:0004152,chorea,Not Associated,11761473
+7504,Kx antigen|XK,EFO:0004145,Myopathy,Not Associated,11761473
+7504,Kx antigen|XK,EFO:0003100,Peripheral neuropathy,Not Associated,11761473
+4137,tau protein|microtubule-associated protein tau|Tau,Orphanet:275872,FTD and motor neuron disease linked to chromosome 9|FTD with motor neuron disease linked to chromosome 9,Not Associated,14503643
+F2084,ubiquitin,Orphanet:282,frontotemporal dementias|frontotemporal dementia|frontotemporal lobe degeneration |frontotemporal dementia linked to chromosome 3|FTD-3|FTD|FTD linked to chromosome 3,Not Associated,14503643
+F2084,ubiquitin,Orphanet:275872,FTD and motor neuron disease linked to chromosome 9|FTD with motor neuron disease linked to chromosome 9,Associated,14503643
+4487,MSX1,Orphanet:99798,Oligodontia,Associated,14630905
+4487,MSX1,Orphanet:280,Wolf-Hirschhorn syndrome,Associated,14630905
+367,Androgen receptor|AR|Androgen receptors|ARs,Orphanet:481,X-linked spinal and bulbar muscular atrophy|SBMA,Associated,15003169
+1387,CREB binding protein|CBP,Orphanet:481,X-linked spinal and bulbar muscular atrophy|SBMA,Associated,15003169
+F1346,Vascular endothelial growth factor|VEGF|vascular endothelial growth factor,Orphanet:481,X-linked spinal and bulbar muscular atrophy|SBMA,Associated,15003169
+367,Androgen receptor|AR|Androgen receptors|ARs,EFO:0003782,Motor neuron disease|motor neuron disease|motoneuron disease,Not Associated,15003169
+1387,CREB binding protein|CBP,EFO:0003782,Motor neuron disease|motor neuron disease|motoneuron disease,Not Associated,15003169
+F1346,Vascular endothelial growth factor|VEGF|vascular endothelial growth factor,EFO:0003782,Motor neuron disease|motor neuron disease|motoneuron disease,Associated,15003169
+1029,ARF|p14|CDKN2A,MONDO:0017795,ameloblastomas,Associated,15078490
+4193,mdm2|MDM2,MONDO:0017795,ameloblastomas,Associated,15078490
+7157,p53,MONDO:0017795,ameloblastomas,Associated,15078490
+627,BDNF|brain-derived neurotrophic factor,EFO:1000028,Ependymomas|ependymomas,Associated,15138791
+627,BDNF|brain-derived neurotrophic factor,MONDO:0016685,low-grade astrocytomas,Associated,15138791
+627,BDNF|brain-derived neurotrophic factor,EFO:0000616,tumour|tumours|neoplasm,Associated,15138791
+2668,GDNF|glial-derived neurotrophic factor,EFO:1000028,Ependymomas|ependymomas,Not Associated,15138791
+2668,GDNF|glial-derived neurotrophic factor,MONDO:0016685,low-grade astrocytomas,Not Associated,15138791
+2668,GDNF|glial-derived neurotrophic factor,EFO:0000616,tumour|tumours|neoplasm,Not Associated,15138791
+4803,nerve growth factor|NGF,EFO:1000028,Ependymomas|ependymomas,Associated,15138791
+4803,nerve growth factor|NGF,MONDO:0016685,low-grade astrocytomas,Associated,15138791
+4803,nerve growth factor|NGF,EFO:0000616,tumour|tumours|neoplasm,Associated,15138791
+11168,p75,EFO:1000028,Ependymomas|ependymomas,Associated,15138791
+11168,p75,MONDO:0016685,low-grade astrocytomas,Associated,15138791
+11168,p75,EFO:0000616,tumour|tumours|neoplasm,Associated,15138791
+4914,TrkA,EFO:1000028,Ependymomas|ependymomas,Associated,15138791
+4914,TrkA,MONDO:0016685,low-grade astrocytomas,Associated,15138791
+4914,TrkA,EFO:0000616,tumour|tumours|neoplasm,Associated,15138791
+9118,alpha-Internexin,EFO:0000249,Alzheimer's disease|Alzheimer's Disease,Associated,15170578
+9118,alpha-Internexin,EFO:0006792,Lewy body diseases,Associated,15170578
+9118,alpha-Internexin,EFO:0003782,Motor neuron disease|motor neuron disease|motoneuron disease,Associated,15170578
+9118,alpha-Internexin,Orphanet:282,frontotemporal dementias|frontotemporal dementia|frontotemporal lobe degeneration |frontotemporal dementia linked to chromosome 3|FTD-3|FTD|FTD linked to chromosome 3,Not Associated,15170578
+9118,alpha-Internexin,DOID:0050890,alpha-synucleinopathies,Not Associated,15170578
+9118,alpha-Internexin,EFO:0005815,tauopathies,Not Associated,15170578
+9118,alpha-Internexin,EFO:0005772,neurodegenerative diseases|Neurodegenerative Disease|NDD,Not Associated,15170578
+9118,alpha-Internexin,EFO:0000618,neurological diseases,Associated,15170578
+4744,hNF-H|neurofilament heavy|NF-H,EFO:0000249,Alzheimer's disease|Alzheimer's Disease,Not Associated,15170578
+4744,hNF-H|neurofilament heavy|NF-H,EFO:0006792,Lewy body diseases,Not Associated,15170578
+4744,hNF-H|neurofilament heavy|NF-H,Orphanet:282,frontotemporal dementias|frontotemporal dementia|frontotemporal lobe degeneration |frontotemporal dementia linked to chromosome 3|FTD-3|FTD|FTD linked to chromosome 3,Not Associated,15170578
+4744,hNF-H|neurofilament heavy|NF-H,DOID:0050890,alpha-synucleinopathies,Not Associated,15170578
+4744,hNF-H|neurofilament heavy|NF-H,EFO:0005815,tauopathies,Not Associated,15170578
+4744,hNF-H|neurofilament heavy|NF-H,EFO:0005772,neurodegenerative diseases|Neurodegenerative Disease|NDD,Not Associated,15170578
+4744,hNF-H|neurofilament heavy|NF-H,EFO:0000618,neurological diseases,Not Associated,15170578
+4747,hNF-L|neurofilament light|NF-L,EFO:0000249,Alzheimer's disease|Alzheimer's Disease,Not Associated,15170578
+4747,hNF-L|neurofilament light|NF-L,EFO:0006792,Lewy body diseases,Not Associated,15170578
+4747,hNF-L|neurofilament light|NF-L,Orphanet:282,frontotemporal dementias|frontotemporal dementia|frontotemporal lobe degeneration |frontotemporal dementia linked to chromosome 3|FTD-3|FTD|FTD linked to chromosome 3,Not Associated,15170578
+4747,hNF-L|neurofilament light|NF-L,DOID:0050890,alpha-synucleinopathies,Not Associated,15170578
+4747,hNF-L|neurofilament light|NF-L,EFO:0005815,tauopathies,Not Associated,15170578
+4747,hNF-L|neurofilament light|NF-L,EFO:0005772,neurodegenerative diseases|Neurodegenerative Disease|NDD,Not Associated,15170578
+4747,hNF-L|neurofilament light|NF-L,EFO:0000618,neurological diseases,Not Associated,15170578
+4741,NF-M,EFO:0000249,Alzheimer's disease|Alzheimer's Disease,Not Associated,15170578
+4741,NF-M,EFO:0006792,Lewy body diseases,Not Associated,15170578
+4741,NF-M,EFO:0003782,Motor neuron disease|motor neuron disease|motoneuron disease,Not Associated,15170578
+4741,NF-M,Orphanet:282,frontotemporal dementias|frontotemporal dementia|frontotemporal lobe degeneration |frontotemporal dementia linked to chromosome 3|FTD-3|FTD|FTD linked to chromosome 3,Not Associated,15170578
+4741,NF-M,DOID:0050890,alpha-synucleinopathies,Not Associated,15170578
+4741,NF-M,EFO:0005815,tauopathies,Not Associated,15170578
+4741,NF-M,EFO:0005772,neurodegenerative diseases|Neurodegenerative Disease|NDD,Not Associated,15170578
+4741,NF-M,EFO:0000618,neurological diseases,Not Associated,15170578
+4780,NRF2,EFO:0001356,FALS|Familial amyotrophic lateral sclerosis|familial ALS|familial amyotrophic lateral sclerosis,Not Associated,15872021
+4780,NRF2,EFO:0003782,Motor neuron disease|motor neuron disease|motoneuron disease,Not Associated,15872021
+2597,GAPDH|glyceraldehyde-3-phosphate dehydrogenase|Ov-GAPDH,EFO:0007402,onchocerciasis,Not Associated,15955451
+10,N-acetyltransferase 2|NAT2,EFO:0005556,Gilbert syndrome|Gilbert's syndrome|GS,Not Associated,16402080
+54658,UGT1A1,EFO:0005556,Gilbert syndrome|Gilbert's syndrome|GS,Not Associated,16402080
+5806,pentraxin|PTX3,EFO:0000569,liposarcoma,Associated,16959485
+5806,pentraxin|PTX3,EFO:0000613,Myxoid and roundcell liposarcomas,Not Associated,16959485
+5806,pentraxin|PTX3,EFO:1001968,Soft tissue liposarcoma,Associated,16959485
+6647,Copper/zinc superoxide dismutase|SOD1|CuZn Superoxide dismutase|Cu/Zn superoxide dismutase gene|mSOD1|Cu(2+)/Zn(2+) superoxide dismutase,EFO:0000253,ALS|Amyotrophic lateral sclerosis|amyotrophic lateral sclerosis,Associated,17043238
+6647,Copper/zinc superoxide dismutase|SOD1|CuZn Superoxide dismutase|Cu/Zn superoxide dismutase gene|mSOD1|Cu(2+)/Zn(2+) superoxide dismutase,EFO:0000253,ALS|Amyotrophic lateral sclerosis|amyotrophic lateral sclerosis,Not Associated,17114818
+6688,PU.1,EFO:0000253,ALS|Amyotrophic lateral sclerosis|amyotrophic lateral sclerosis,Not Associated,17043238
+6688,PU.1,EFO:0001356,FALS|Familial amyotrophic lateral sclerosis|familial ALS|familial amyotrophic lateral sclerosis,Not Associated,17043238
+6688,PU.1,EFO:0003782,Motor neuron disease|motor neuron disease|motoneuron disease,Not Associated,17043238
+7439,hBest1|human bestrophin-1,Orphanet:99000,adult-onset vitelliform macular dystrophy,Not Associated,17065513
+7439,hBest1|human bestrophin-1,Orphanet:1243,Best's macular dystrophy|Best's vitelliform macular dystrophy|BVMD|Best vitelliform macular dystrophy,Associated,17065513
+F176,bestrophin,Orphanet:99000,adult-onset vitelliform macular dystrophy,Associated,17065513
+F176,bestrophin,Orphanet:1243,Best's macular dystrophy|Best's vitelliform macular dystrophy|BVMD|Best vitelliform macular dystrophy,Associated,17065513
+4504,MT-III,EFO:0000253,ALS|Amyotrophic lateral sclerosis|amyotrophic lateral sclerosis,Not Associated,17114818
+4504,MT-III,EFO:0003782,Motor neuron disease|motor neuron disease|motoneuron disease,Not Associated,17114818
+17748,metallothionein-I|MT-I,EFO:0000253,ALS|Amyotrophic lateral sclerosis|amyotrophic lateral sclerosis,Associated,17114818
+17748,metallothionein-I|MT-I,EFO:0003782,Motor neuron disease|motor neuron disease|motoneuron disease,Not Associated,17114818
+F1136,metallothionein|MT,EFO:0000253,ALS|Amyotrophic lateral sclerosis|amyotrophic lateral sclerosis,Not Associated,17114818
+F1136,metallothionein|MT,EFO:0003782,Motor neuron disease|motor neuron disease|motoneuron disease,Not Associated,17114818
+132,adenosine kinase|ADK,EFO:0000474,epilepsy|refractory epilepsy,Associated,21275977
+6720,Sterol regulatory element-binding protein-1c|SREBP-1c,EFO:0000400,diabetes,Associated,22966071
+F2220,acetyl-CoA carboxylase,EFO:0000400,diabetes,Not Associated,22966071
+2194,fatty acid synthase,EFO:0000400,diabetes,Not Associated,22966071
+79071,elongation of long-chain fatty acid family member 6|ELOVL6,EFO:0000400,diabetes,Not Associated,22966071
+9321,TRIP11|Golgi microtubule associated protein 210,Orphanet:93299,ACG1A|Achondrogenesis 1A,Associated,23956106
+8216,LZTR1,Orphanet:93921,schwannomatosis,Associated,25480913
+8216,LZTR1,EFO:0000693,Unilateral vestibular schwannoma|UVS|vestibular schwannoma|schwannoma,Associated,25480913
+4771,NF2,Orphanet:93921,schwannomatosis,Not Associated,25480913
+4771,NF2,EFO:0000693,Unilateral vestibular schwannoma|UVS|vestibular schwannoma|schwannoma,Not Associated,25480913
+6598,SMARCB1,Orphanet:93921,schwannomatosis,Not Associated,25480913
+6598,SMARCB1,EFO:0000693,Unilateral vestibular schwannoma|UVS|vestibular schwannoma|schwannoma,Not Associated,25480913
+3497,IgE,EFO:0010638,Atopic Bronchial Asthma|Atopic Asthma,Associated,26853551
+3497,IgE,EFO:0000270,Nonatopic Bronchial Asthma|Bronchial asthma|asthma,Associated,26853551
+386653,IL-31|Interleukin-31,EFO:0010638,Atopic Bronchial Asthma|Atopic Asthma,Associated,26853551
+386653,IL-31|Interleukin-31,EFO:0000270,Nonatopic Bronchial Asthma|Bronchial asthma|asthma,Associated,26853551
+4254,SCF|Stem cell factor ,EFO:0010638,Atopic Bronchial Asthma|Atopic Asthma,Associated,26853551
+4254,SCF|Stem cell factor ,EFO:0000270,Nonatopic Bronchial Asthma|Bronchial asthma|asthma,Associated,26853551
+468,Activating transcription factor 4|ATF4,EFO:0001073,Obesity|Adiposity,Associated,27993927
+2308,FOXO1,EFO:0001073,Obesity|Adiposity,Associated,27993927
+3229,Hoxc13,Orphanet:79373,Ectodermal dysplasia-9|ED-9,Associated,28011715
+3229,Hoxc13,MONDO:0003037,hypotrichosis,Associated,28011715
+3886,Krt35,Orphanet:79373,Ectodermal dysplasia-9|ED-9,Not Associated,28011715
+3886,Krt35,MONDO:0003037,hypotrichosis,Not Associated,28011715
+8456,Foxn1,Orphanet:79373,Ectodermal dysplasia-9|ED-9,Not Associated,28011715
+8456,Foxn1,MONDO:0003037,hypotrichosis,Not Associated,28011715
+53622,Krt85,Orphanet:79373,Ectodermal dysplasia-9|ED-9,Not Associated,28011715
+53622,Krt85,MONDO:0003037,hypotrichosis,Not Associated,28011715
+F45,alpha-smooth muscle actin|α-SM-actin|α-SMA,EFO:0003914,Atherosclerosis,Not Associated,28386356
+F45,alpha-smooth muscle actin|α-SM-actin|α-SMA,EFO:0000712,Stroke,Not Associated,28386356
+F227,calponin,EFO:0003914,Atherosclerosis,Not Associated,28386356
+F227,calponin,EFO:0000712,Stroke,Not Associated,28386356
+2475,mTOR|p-mTOR|pmTOR,EFO:0003914,Atherosclerosis,Not Associated,28386356
+2475,mTOR|p-mTOR|pmTOR,EFO:0000712,Stroke,Not Associated,28386356
+6696,osteopontin|OPN|secreted phosphoprotein-1|SPP1,EFO:0003914,Atherosclerosis,Not Associated,28386356
+6696,osteopontin|OPN|secreted phosphoprotein-1|SPP1,EFO:0000712,Stroke,Not Associated,28386356
+F1518,p-P70S6K|P70S6K,EFO:0003914,Atherosclerosis,Not Associated,28386356
+F1518,p-P70S6K|P70S6K,EFO:0000712,Stroke,Not Associated,28386356
+F1563,PDGF-BB|Platelet derived growth factor,EFO:0003914,Atherosclerosis,Not Associated,28386356
+F1563,PDGF-BB|Platelet derived growth factor,EFO:0000712,Stroke,Not Associated,28386356
+26291,FGF21|Fibroblast growth factor 21,EFO:0001073,Obesity|Adiposity,Associated,28588304
+5617,Prolactin,EFO:1000496,pituitary adenomas|Prolactinomas,Not Associated,29455199
+1401,C-reactive protein|CRP,EFO:0005741,infectious diseases,Not Associated,29777476
+1401,C-reactive protein|CRP,EFO:0003106,pneumonia,Not Associated,29777476
+3569,IL-6|interleukin-6,EFO:0005741,infectious diseases,Not Associated,29777476
+3569,IL-6|interleukin-6,EFO:0003106,pneumonia,Not Associated,29777476
+F220,PCT|procalcitonin,EFO:0005741,infectious diseases,Associated,29777476
+F220,PCT|procalcitonin,EFO:0003106,pneumonia,Associated,29777476
+673,BRAF,EFO:0003094,ganglioglioma|gangliogliomas,Associated,29880043
+1029,ARF|p14|CDKN2A,EFO:0003094,ganglioglioma|gangliogliomas,Associated,29880043
+2260,FGFR1/2,EFO:0003094,ganglioglioma|gangliogliomas,Associated,29880043
+3845,KRAS,EFO:0003094,ganglioglioma|gangliogliomas,Associated,29880043
+4763,NF1,EFO:0003094,ganglioglioma|gangliogliomas,Associated,29880043
+5728,PTEN,EFO:0003094,ganglioglioma|gangliogliomas,Associated,29880043
+5894,RAF1,EFO:0003094,ganglioglioma|gangliogliomas,Associated,29880043
+673,BRAF,EFO:0000616,tumour|tumours|neoplasm,Not Associated,29880043
+1029,ARF|p14|CDKN2A,EFO:0000616,tumour|tumours|neoplasm,Not Associated,29880043
+2260,FGFR1/2,EFO:0000616,tumour|tumours|neoplasm,Not Associated,29880043
+3845,KRAS,EFO:0000616,tumour|tumours|neoplasm,Not Associated,29880043
+4763,NF1,EFO:0000616,tumour|tumours|neoplasm,Not Associated,29880043
+5728,PTEN,EFO:0000616,tumour|tumours|neoplasm,Not Associated,29880043
+5894,RAF1,EFO:0000616,tumour|tumours|neoplasm,Not Associated,29880043
+23389,MED13L,EFO:0003758,autism,Not Associated,29959045
+23389,MED13L,Orphanet:156207,macroglossia,Associated,29959045
+23389,MED13L,Orphanet:141269,macrostomia,Associated,29959045
+23389,MED13L,MONDO:0004730,speech impairment,Associated,29959045
+23389,MED13L,EFO:0005207,complex congenital heart defect,Not Associated,29959045
+353,Adenine phosphoribosyltransferase|APRT,EFO:0003884,chronic renal failure|chronic kidney disease|CKD|end-stage renal disease|ESRD,Associated,30106368
+353,Adenine phosphoribosyltransferase|APRT,EFO:0004253,nephrolithiasis,Associated,30106368
+353,Adenine phosphoribosyltransferase|APRT,MONDO:0001085,chronic tubulointerstitial kidney disease,Not Associated,30106368
+353,Adenine phosphoribosyltransferase|APRT,Orphanet:976,adenine phosphoribosyl transferase (APRT) deficiency|Adenine phosphoribosyltransferase (APRT) deficiency|APRT deficiency,Associated,30106368
+353,Adenine phosphoribosyltransferase|APRT,EFO:1002048,kidney failure,Not Associated,30106368
+353,Adenine phosphoribosyltransferase|APRT,MONDO:0002492,AKI,Not Associated,30106368
+3762,KCNJ5|Kir3.4,EFO:0000232,adenoma|adenomas,Associated,30569443
+3762,KCNJ5|Kir3.4,MONDO:0006639,adrenocortical carcinoma,Not Associated,30569443
+3762,KCNJ5|Kir3.4,Orphanet:235936,familial hyperaldosteronism,Not Associated,30569443
+3762,KCNJ5|Kir3.4,MONDO:0013359,Familial hyperaldosteronism type III|FH III,Associated,30569443
+3762,KCNJ5|Kir3.4,Orphanet:403,FH I,Not Associated,30569443
+3762,KCNJ5|Kir3.4,EFO:0009148,primary adrenal hyperplasia,Not Associated,30569443
+3762,KCNJ5|Kir3.4,MONDO:0001422,primary hyperaldosteronism,Not Associated,30569443
+80149,MCPIP1|Monocyte chemoattractant protein-induced protein 1,EFO:1001034,mastitis|Mastitis,Associated,30590418
+7124,tumor necrosis factor-alpha-alpha|TNF-alpha,EFO:1001034,mastitis|Mastitis,Not Associated,30590418
+3553,interleukin (IL)-1beta,EFO:1001034,mastitis|Mastitis,Not Associated,30590418
+3569,IL-6|interleukin-6,EFO:1001034,mastitis|Mastitis,Not Associated,30590418
+3576,IL-8,EFO:1001034,mastitis|Mastitis,Not Associated,30590418
+3816,kallikrein-1|KLK1|hKLK1,EFO:0004234,ED|Erectile dysfunction,Associated,30618416
+55384,Maternally expressed gene 3|MEG3,EFO:0003898,Ankylosing spondylitis,Associated,30651794
+55384,Maternally expressed gene 3|MEG3,EFO:0003882,Osteoporosis,Associated,30651794
+55384,Maternally expressed gene 3|MEG3,EFO:0000706,Spondylosis,Associated,30651794
+3356,5-HT2A receptors,EFO:0000249,Alzheimer's disease|Alzheimer's Disease,Not Associated,30673880
+3356,5-HT2A receptors,EFO:0005772,neurodegenerative diseases|Neurodegenerative Disease|NDD,Not Associated,30673880
+3356,5-HT2A receptors,EFO:0002508,Parkinson's Disease,Associated,30673880
+3356,5-HT2A receptors,EFO:0005407,Pyschosis,Associated,30673880
+3356,5-HT2A receptors,EFO:0009267,delirium,Associated,30673880
+43,acetylcholinesterase,EFO:0000249,Alzheimer's disease|Alzheimer's Disease,Associated,30673880
+43,acetylcholinesterase,EFO:0005772,neurodegenerative diseases|Neurodegenerative Disease|NDD,Not Associated,30673880
+43,acetylcholinesterase,EFO:0002508,Parkinson's Disease,Not Associated,30673880
+43,acetylcholinesterase,EFO:0005407,Pyschosis,Associated,30673880
+43,acetylcholinesterase,EFO:0009267,delirium,Associated,30673880
+3209,HOXA13,MONDO:0003295,Intravenous leiomyomatosis|IVL,Associated,30723247
+3209,HOXA13,MONDO:0003061,Uterine myoma|UM,Associated,30723247
+100499483,CCDC180|Coiled-coil domain-containing protein 180,EFO:1000099,ALT|Atypical lipomatous tumor,Associated,30790560
+100499483,CCDC180|Coiled-coil domain-containing protein 180,EFO:0003085,Dedifferentiated liposarcoma,Associated,30790560
+100499483,CCDC180|Coiled-coil domain-containing protein 180,EFO:0000759,Lipoma,Associated,30790560
+100499483,CCDC180|Coiled-coil domain-containing protein 180,EFO:0000736,WDL|WDLs|Well-differentiated liposarcoma,Associated,30790560
+100499483,CCDC180|Coiled-coil domain-containing protein 180,EFO:0000569,liposarcoma,Associated,30790560
+64101,Leucine-rich repeat-containing protein 4|LRRC4,EFO:1000099,ALT|Atypical lipomatous tumor,Associated,30790560
+64101,Leucine-rich repeat-containing protein 4|LRRC4,EFO:0003085,Dedifferentiated liposarcoma,Associated,30790560
+64101,Leucine-rich repeat-containing protein 4|LRRC4,EFO:0000759,Lipoma,Associated,30790560
+64101,Leucine-rich repeat-containing protein 4|LRRC4,EFO:0000736,WDL|WDLs|Well-differentiated liposarcoma,Associated,30790560
+64101,Leucine-rich repeat-containing protein 4|LRRC4,EFO:0000569,liposarcoma,Associated,30790560
+F2221,let-7a,EFO:0005878,Vitamin deficiency,Not Associated,30813413
+407010,miR-23a,EFO:0005878,Vitamin deficiency,Associated,30813413
+407040,miR-34a,EFO:0005878,Vitamin deficiency,Associated,30813413
+4318,matrix metalloproteinase 9|MMP-9,EFO:0000660,PCOS|Polycystic ovary syndrome,Associated,30969784
+4318,matrix metalloproteinase 9|MMP-9,EFO:0001379,endocrine disorder,Associated,30969784
+F1346,Vascular endothelial growth factor|VEGF|vascular endothelial growth factor,EFO:0000660,PCOS|Polycystic ovary syndrome,Associated,30969784
+F1346,Vascular endothelial growth factor|VEGF|vascular endothelial growth factor,EFO:0001379,endocrine disorder,Associated,30969784
+10135,visfatin,EFO:0000660,PCOS|Polycystic ovary syndrome,Associated,30969784
+10135,visfatin,EFO:0001379,endocrine disorder,Associated,30969784
+F94,actin,EFO:0000692,schizophrenia,Not Associated,30972627
+6356,CCL-11,EFO:0000692,schizophrenia,Associated,30972627
+999,E-cadherin,EFO:0000692,schizophrenia,Not Associated,30972627
+3240,haptoglobin|Hp-2|zonulin,EFO:0000692,schizophrenia,Associated,30972627
+100506658,occludin,EFO:0000692,schizophrenia,Associated,30972627
+F2222,talin,EFO:0000692,schizophrenia,Not Associated,30972627
+7414,vinculin,EFO:0000692,schizophrenia,Not Associated,30972627
+3458,IFN-gamma|IFN-Y,MONDO:0024611,adult orbital xanthogranulomatous disease|AOXGD,Associated,30973282
+3458,IFN-gamma|IFN-Y,MONDO:0015531,non-Langerhans histiocytosis,Associated,30973282
+F950,IL-17,MONDO:0024611,adult orbital xanthogranulomatous disease|AOXGD,Associated,30973282
+F950,IL-17,MONDO:0015531,non-Langerhans histiocytosis,Associated,30973282
+3569,IL-6|interleukin-6,MONDO:0024611,adult orbital xanthogranulomatous disease|AOXGD,Associated,30973282
+3569,IL-6|interleukin-6,MONDO:0015531,non-Langerhans histiocytosis,Associated,30973282
+3717,JAK2,MONDO:0024611,adult orbital xanthogranulomatous disease|AOXGD,Associated,30973282
+3717,JAK2,MONDO:0015531,non-Langerhans histiocytosis,Associated,30973282
+6774,STAT3|pSTAT3,MONDO:0024611,adult orbital xanthogranulomatous disease|AOXGD,Associated,30973282
+6774,STAT3|pSTAT3,MONDO:0015531,non-Langerhans histiocytosis,Associated,30973282
+7076,TIMP-1,MONDO:0024611,adult orbital xanthogranulomatous disease|AOXGD,Associated,30973282
+7076,TIMP-1,MONDO:0015531,non-Langerhans histiocytosis,Associated,30973282
+3958,Gal-3|Galectin-3,EFO:0007229,Cryptococcus neoformans|cryptococcosis,Associated,31019001
+3958,Gal-3|Galectin-3,EFO:0007417,P. brasiliensis|P. brasiliensis infection|Paracoccidioidomycosis|PCM,Associated,31019001
+3958,Gal-3|Galectin-3,MONDO:0000256,systemic mycosis,Not Associated,31019001
+673,BRAF,EFO:0006566,OEPLs|oral epithelial precursor lesions|low-grade epithelial dysplasia|high-grade epithelial dysplasia|HD|OEPL,Not Associated,31062130
+673,BRAF,EFO:0000199,oral squamous cell carcinoma|OSCC,Not Associated,31062130
+673,BRAF,MONDO:0043243,leukoplakia|LP,Not Associated,31062130
+3265,HRAS,EFO:0006566,OEPLs|oral epithelial precursor lesions|low-grade epithelial dysplasia|high-grade epithelial dysplasia|HD|OEPL,Not Associated,31062130
+3265,HRAS,EFO:0000199,oral squamous cell carcinoma|OSCC,Not Associated,31062130
+3265,HRAS,MONDO:0043243,leukoplakia|LP,Not Associated,31062130
+3845,KRAS,EFO:0006566,OEPLs|oral epithelial precursor lesions|low-grade epithelial dysplasia|high-grade epithelial dysplasia|HD|OEPL,Not Associated,31062130
+3845,KRAS,EFO:0000199,oral squamous cell carcinoma|OSCC,Associated,31062130
+3845,KRAS,MONDO:0043243,leukoplakia|LP,Not Associated,31062130
+4893,NRAS,EFO:0006566,OEPLs|oral epithelial precursor lesions|low-grade epithelial dysplasia|high-grade epithelial dysplasia|HD|OEPL,Not Associated,31062130
+4893,NRAS,EFO:0000199,oral squamous cell carcinoma|OSCC,Associated,31062130
+4893,NRAS,MONDO:0043243,leukoplakia|LP,Not Associated,31062130
+F1517,pAkt,EFO:0006566,OEPLs|oral epithelial precursor lesions|low-grade epithelial dysplasia|high-grade epithelial dysplasia|HD|OEPL,Not Associated,31062130
+F1517,pAkt,EFO:0000199,oral squamous cell carcinoma|OSCC,Associated,31062130
+F1517,pAkt,MONDO:0043243,leukoplakia|LP,Not Associated,31062130
+F1536,pERK1/2,EFO:0006566,OEPLs|oral epithelial precursor lesions|low-grade epithelial dysplasia|high-grade epithelial dysplasia|HD|OEPL,Associated,31062130
+F1536,pERK1/2,EFO:0000199,oral squamous cell carcinoma|OSCC,Not Associated,31062130
+F1536,pERK1/2,MONDO:0043243,leukoplakia|LP,Not Associated,31062130
+2475,mTOR|p-mTOR|pmTOR,EFO:0006566,OEPLs|oral epithelial precursor lesions|low-grade epithelial dysplasia|high-grade epithelial dysplasia|HD|OEPL,Not Associated,31062130
+2475,mTOR|p-mTOR|pmTOR,EFO:0000199,oral squamous cell carcinoma|OSCC,Associated,31062130
+2475,mTOR|p-mTOR|pmTOR,MONDO:0043243,leukoplakia|LP,Not Associated,31062130
+6774,STAT3|pSTAT3,EFO:0006566,OEPLs|oral epithelial precursor lesions|low-grade epithelial dysplasia|high-grade epithelial dysplasia|HD|OEPL,Not Associated,31062130
+6774,STAT3|pSTAT3,EFO:0000199,oral squamous cell carcinoma|OSCC,Not Associated,31062130
+6774,STAT3|pSTAT3,MONDO:0043243,leukoplakia|LP,Not Associated,31062130
+59,alpha-smooth muscle actin,EFO:0006890,Fibrosis,Not Associated,31072570
+59,alpha-smooth muscle actin,EFO:0003144,Heart failure|HF,Associated,31072570
+59,alpha-smooth muscle actin,EFO:0000407,dilated cardiomyopathy,Not Associated,31072570
+4015,lysyl oxidase,EFO:0006890,Fibrosis,Not Associated,31072570
+4015,lysyl oxidase,EFO:0003144,Heart failure|HF,Associated,31072570
+4015,lysyl oxidase,EFO:0000407,dilated cardiomyopathy,Not Associated,31072570
+6696,osteopontin|OPN|secreted phosphoprotein-1|SPP1,EFO:0006890,Fibrosis,Not Associated,31072570
+6696,osteopontin|OPN|secreted phosphoprotein-1|SPP1,EFO:0003144,Heart failure|HF,Associated,31072570
+6696,osteopontin|OPN|secreted phosphoprotein-1|SPP1,EFO:0000407,dilated cardiomyopathy,Not Associated,31072570
+10631,periostin,EFO:0006890,Fibrosis,Not Associated,31072570
+10631,periostin,EFO:0003144,Heart failure|HF,Associated,31072570
+10631,periostin,EFO:0000407,dilated cardiomyopathy,Not Associated,31072570
+7040,transforming growth factor (TGF)-beta1,EFO:0006890,Fibrosis,Not Associated,31072570
+7040,transforming growth factor (TGF)-beta1,EFO:0003144,Heart failure|HF,Associated,31072570
+7040,transforming growth factor (TGF)-beta1,EFO:0000407,dilated cardiomyopathy,Not Associated,31072570
+F1559,TGF-beta1 receptor kinase,EFO:0006890,Fibrosis,Not Associated,31072570
+F1559,TGF-beta1 receptor kinase,EFO:0003144,Heart failure|HF,Associated,31072570
+F1559,TGF-beta1 receptor kinase,EFO:0000407,dilated cardiomyopathy,Not Associated,31072570
+94025,CA125,EFO:0001065,endometriosis,Not Associated,31374059
+94025,CA125,EFO:0008560,Female infertility,Not Associated,31374059
+723822,mmu-miR-218-5p,EFO:0000270,Nonatopic Bronchial Asthma|Bronchial asthma|asthma,Associated,31520422
+10344,CCL26,EFO:0000270,Nonatopic Bronchial Asthma|Bronchial asthma|asthma,Associated,31520422
+1501,CTNND2|delta-catenin|Ctnnd2,EFO:0000270,Nonatopic Bronchial Asthma|Bronchial asthma|asthma,Associated,31520422
+3596,IL-13,EFO:0000270,Nonatopic Bronchial Asthma|Bronchial asthma|asthma,Not Associated,31520422
+407000,MicroRNA (miR)-218-5p|miR-218-5p,EFO:0000270,Nonatopic Bronchial Asthma|Bronchial asthma|asthma,Associated,31520422
+3558,Interleukin 2,EFO:0007185,Brucellosis,Not Associated,31574230
+6554,NTCP|SLC10A1,EFO:0004210,gallstones,Associated,31574858
+6554,NTCP|SLC10A1,EFO:0001421,liver dysfunction|liver diseases,Associated,31574858
+92,Activin receptor 2A|ACVR2A,EFO:1000557,SC|Synovial chondromatosis|synovial chondrosarcoma,Associated,31589790
+54880,BCOR,EFO:1000557,SC|Synovial chondromatosis|synovial chondrosarcoma,Associated,31589790
+2335,Fibronectin 1|FN1,EFO:1000557,SC|Synovial chondromatosis|synovial chondrosarcoma,Associated,31589790
+4297,KMT2A,EFO:1000557,SC|Synovial chondromatosis|synovial chondrosarcoma,Associated,31589790
+566,Azurocidin,EFO:0006343,Chronic periodontitis|CP|chronic periodontitis,Associated,31608993
+566,Azurocidin,EFO:0000649,periodontitis|PD|Periodontitis,Associated,31608993
+566,Azurocidin,MONDO:0002635,periodontal disease,Associated,31608993
+5290,PIK3CA,Orphanet:306498,PHTS|PTEN hamartoma tumour syndrome,Associated,31630434
+5728,PTEN,Orphanet:306498,PHTS|PTEN hamartoma tumour syndrome,Associated,31630434
+7301,sTyro3|Tyro3,EFO:0002609,JIA|juvenile idiopathic arthritis,Not Associated,31655933
+7301,sTyro3|Tyro3,EFO:0002690,JSLE|Juvenile systemic lupus erythematosus|caSLE|Conjunctivitis associated systemic lupus erythematosus,Associated,31655933
+7301,sTyro3|Tyro3,EFO:1002050,nephritis,Not Associated,31655933
+7301,sTyro3|Tyro3,MONDO:0002462,diffuse proliferative glomerulonephritis,Not Associated,31655933
+718,C3,EFO:0002609,JIA|juvenile idiopathic arthritis,Not Associated,31655933
+718,C3,EFO:0002690,JSLE|Juvenile systemic lupus erythematosus|caSLE|Conjunctivitis associated systemic lupus erythematosus,Not Associated,31655933
+718,C3,EFO:1002050,nephritis,Not Associated,31655933
+718,C3,MONDO:0002462,diffuse proliferative glomerulonephritis,Not Associated,31655933
+720,C4,EFO:0002609,JIA|juvenile idiopathic arthritis,Not Associated,31655933
+720,C4,EFO:0002690,JSLE|Juvenile systemic lupus erythematosus|caSLE|Conjunctivitis associated systemic lupus erythematosus,Not Associated,31655933
+720,C4,EFO:1002050,nephritis,Not Associated,31655933
+720,C4,MONDO:0002462,diffuse proliferative glomerulonephritis,Not Associated,31655933
+1401,C-reactive protein|CRP,EFO:0002609,JIA|juvenile idiopathic arthritis,Not Associated,31655933
+1401,C-reactive protein|CRP,EFO:0002690,JSLE|Juvenile systemic lupus erythematosus|caSLE|Conjunctivitis associated systemic lupus erythematosus,Associated,31819770
+1401,C-reactive protein|CRP,EFO:0002690,JSLE|Juvenile systemic lupus erythematosus|caSLE|Conjunctivitis associated systemic lupus erythematosus,Not Associated,31655933
+1401,C-reactive protein|CRP,EFO:1002050,nephritis,Not Associated,31655933
+1401,C-reactive protein|CRP,MONDO:0002462,diffuse proliferative glomerulonephritis,Not Associated,31655933
+2621,Gas6,EFO:0002609,JIA|juvenile idiopathic arthritis,Not Associated,31655933
+2621,Gas6,EFO:0002690,JSLE|Juvenile systemic lupus erythematosus|caSLE|Conjunctivitis associated systemic lupus erythematosus,Associated,31655933
+2621,Gas6,EFO:1002050,nephritis,Not Associated,31655933
+2621,Gas6,MONDO:0002462,diffuse proliferative glomerulonephritis,Not Associated,31655933
+558,sAxl|Axl,EFO:0002609,JIA|juvenile idiopathic arthritis,Not Associated,31655933
+558,sAxl|Axl,EFO:0002690,JSLE|Juvenile systemic lupus erythematosus|caSLE|Conjunctivitis associated systemic lupus erythematosus,Associated,31655933
+558,sAxl|Axl,EFO:1002050,nephritis,Not Associated,31655933
+558,sAxl|Axl,MONDO:0002462,diffuse proliferative glomerulonephritis,Not Associated,31655933
+10461,sMer|Mer,EFO:0002609,JIA|juvenile idiopathic arthritis,Not Associated,31655933
+10461,sMer|Mer,EFO:0002690,JSLE|Juvenile systemic lupus erythematosus|caSLE|Conjunctivitis associated systemic lupus erythematosus,Associated,31655933
+10461,sMer|Mer,EFO:1002050,nephritis,Not Associated,31655933
+10461,sMer|Mer,MONDO:0002462,diffuse proliferative glomerulonephritis,Not Associated,31655933
+3682,CD103,EFO:0000649,periodontitis|PD|Periodontitis,Associated,31677275
+3682,CD103,MONDO:0002635,periodontal disease,Not Associated,31677275
+3682,CD103,EFO:0006343,Chronic periodontitis|CP|chronic periodontitis,Not Associated,31677275
+3682,CD103,EFO:0000763,viral infection,Not Associated,31677275
+969,CD69,EFO:0000649,periodontitis|PD|Periodontitis,Associated,31677275
+969,CD69,MONDO:0002635,periodontal disease,Not Associated,31677275
+969,CD69,EFO:0006343,Chronic periodontitis|CP|chronic periodontitis,Not Associated,31677275
+969,CD69,EFO:0000763,viral infection,Not Associated,31677275
+F2223,CD3,EFO:0000649,periodontitis|PD|Periodontitis,Not Associated,31677275
+F2223,CD3,MONDO:0002635,periodontal disease,Not Associated,31677275
+F2223,CD3,EFO:0006343,Chronic periodontitis|CP|chronic periodontitis,Not Associated,31677275
+F2223,CD3,EFO:0000763,viral infection,Not Associated,31677275
+1147,IKKa,Orphanet:213,Cystinosis,Not Associated,31709256
+1147,IKKa,EFO:0003086,renal diseases,Not Associated,31709256
+4790,NF-kappaB|p50,Orphanet:213,Cystinosis,Not Associated,31709256
+4790,NF-kappaB|p50,EFO:0003086,renal diseases,Not Associated,31709256
+55655,NLRP2,Orphanet:213,Cystinosis,Associated,31709256
+55655,NLRP2,EFO:0003086,renal diseases,Not Associated,31709256
+F1254,NLRPs|Nod-like Receptor Pyrin domain containing proteins,Orphanet:213,Cystinosis,Not Associated,31709256
+F1254,NLRPs|Nod-like Receptor Pyrin domain containing proteins,EFO:0003086,renal diseases,Associated,31709256
+5970,p65 NF-kappaB,Orphanet:213,Cystinosis,Not Associated,31709256
+5970,p65 NF-kappaB,EFO:0003086,renal diseases,Not Associated,31709256
+3458,IFN-gamma|IFN-Y,EFO:0007229,Cryptococcus neoformans|cryptococcosis,Not Associated,31715319
+3458,IFN-gamma|IFN-Y,EFO:0000764,HIV,Not Associated,31715319
+3458,IFN-gamma|IFN-Y,EFO:0000544,infection,Not Associated,31715319
+3586,IL-10,EFO:0007229,Cryptococcus neoformans|cryptococcosis,Not Associated,31715319
+3586,IL-10,EFO:0000764,HIV,Associated,31715319
+3586,IL-10,EFO:0000544,infection,Not Associated,31715319
+F2224,IL-12|IL-12 p70,EFO:0007229,Cryptococcus neoformans|cryptococcosis,Not Associated,31715319
+F2224,IL-12|IL-12 p70,EFO:0000764,HIV,Associated,31715319
+F2224,IL-12|IL-12 p70,EFO:0000544,infection,Associated,31715319
+3565,IL-4,EFO:0007229,Cryptococcus neoformans|cryptococcosis,Not Associated,31715319
+3565,IL-4,EFO:0000764,HIV,Associated,31715319
+3565,IL-4,EFO:0000544,infection,Not Associated,31715319
+3569,IL-6|interleukin-6,EFO:0007229,Cryptococcus neoformans|cryptococcosis,Not Associated,31715319
+3569,IL-6|interleukin-6,EFO:0000764,HIV,Associated,31715319
+3569,IL-6|interleukin-6,EFO:0000544,infection,Not Associated,31715319
+7124,tumor necrosis factor-alpha-alpha|TNF-alpha,EFO:0007229,Cryptococcus neoformans|cryptococcosis,Associated,31715319
+7124,tumor necrosis factor-alpha-alpha|TNF-alpha,EFO:0000764,HIV,Not Associated,31715319
+7124,tumor necrosis factor-alpha-alpha|TNF-alpha,EFO:0000544,infection,Not Associated,31715319
+3656,IRAK2|interleukin-1 receptor-associated kinase-like 2,EFO:1001034,mastitis|Mastitis,Associated,31722768
+406948,miR-15a,EFO:1001034,mastitis|Mastitis,Associated,31722768
+387129,neuropeptide S receptor gene|NPSR1,EFO:1001872,agoraphobia,Associated,31734525
+387129,neuropeptide S receptor gene|NPSR1,EFO:0004262,panic disorder,Associated,31734525
+387129,neuropeptide S receptor gene|NPSR1,EFO:1001906,panic disorder with agoraphobia|PD/AG,Associated,31734525
+F780,GALK|galactokinase,Orphanet:352,galactosemia|hereditary galactosemia,Associated,31808946
+7360,UGP|UDP-glucose pyrophosphorylase,Orphanet:352,galactosemia|hereditary galactosemia,Associated,31808946
+F1861,5α-reductase,EFO:0000284,Benign prostate hyperplasia|BPH,Associated,31812646
+F1861,5α-reductase,EFO:0003882,Osteoporosis,Not Associated,31812646
+6716,5α-reductase type 2,EFO:0000284,Benign prostate hyperplasia|BPH,Associated,31812646
+6716,5α-reductase type 2,EFO:0003882,Osteoporosis,Not Associated,31812646
+367,Androgen receptor|AR|Androgen receptors|ARs,EFO:0000284,Benign prostate hyperplasia|BPH,Associated,31812646
+367,Androgen receptor|AR|Androgen receptors|ARs,EFO:0003882,Osteoporosis,Not Associated,31812646
+5111,PCNA|Proliferating cell nuclear antigen,EFO:0000284,Benign prostate hyperplasia|BPH,Associated,31812646
+5111,PCNA|Proliferating cell nuclear antigen,EFO:0003882,Osteoporosis,Not Associated,31812646
+354,prostate-specific antigens|PSA,EFO:0000284,Benign prostate hyperplasia|BPH,Associated,31812646
+354,prostate-specific antigens|PSA,EFO:0003882,Osteoporosis,Not Associated,31812646
+F2226,α-adrenergic receptor,EFO:0000284,Benign prostate hyperplasia|BPH,Associated,31812646
+F2226,α-adrenergic receptor,EFO:0003882,Osteoporosis,Not Associated,31812646
+213,A-albumin|AFAM,EFO:0002690,JSLE|Juvenile systemic lupus erythematosus|caSLE|Conjunctivitis associated systemic lupus erythematosus,Associated,31819770
+213,A-albumin|AFAM,MONDO:0017841,connective tissue autoimmune disease,Not Associated,31819770
+1401,C-reactive protein|CRP,MONDO:0017841,connective tissue autoimmune disease,Not Associated,31819770
+F551,enolase,EFO:0002690,JSLE|Juvenile systemic lupus erythematosus|caSLE|Conjunctivitis associated systemic lupus erythematosus,Associated,31819770
+F551,enolase,MONDO:0017841,connective tissue autoimmune disease,Not Associated,31819770
+3043,hemoglobin subunit beta,EFO:0002690,JSLE|Juvenile systemic lupus erythematosus|caSLE|Conjunctivitis associated systemic lupus erythematosus,Associated,31819770
+3043,hemoglobin subunit beta,MONDO:0017841,connective tissue autoimmune disease,Not Associated,31819770
+3507,immunoglobulin heavy constant mu,EFO:0002690,JSLE|Juvenile systemic lupus erythematosus|caSLE|Conjunctivitis associated systemic lupus erythematosus,Associated,31819770
+3507,immunoglobulin heavy constant mu,MONDO:0017841,connective tissue autoimmune disease,Not Associated,31819770
+3659,interferon regulatory factor-1,EFO:0002690,JSLE|Juvenile systemic lupus erythematosus|caSLE|Conjunctivitis associated systemic lupus erythematosus,Associated,31819770
+3659,interferon regulatory factor-1,MONDO:0017841,connective tissue autoimmune disease,Not Associated,31819770
+6289,serum amyloid A2 protein,EFO:0002690,JSLE|Juvenile systemic lupus erythematosus|caSLE|Conjunctivitis associated systemic lupus erythematosus,Associated,31819770
+6289,serum amyloid A2 protein,MONDO:0017841,connective tissue autoimmune disease,Not Associated,31819770
+8639,"VAP-1 |vascular adhesion protein-1|amine oxidase, copper containing 3",EFO:0002690,JSLE|Juvenile systemic lupus erythematosus|caSLE|Conjunctivitis associated systemic lupus erythematosus,Associated,31819770
+8639,"VAP-1 |vascular adhesion protein-1|amine oxidase, copper containing 3",MONDO:0017841,connective tissue autoimmune disease,Not Associated,31819770
+157680,COH1|Vacuolar protein sorting 13 homolog B|VPS13B,EFO:1000670,Anhidrosis,Associated,31825161
+157680,COH1|Vacuolar protein sorting 13 homolog B|VPS13B,Orphanet:193,Cohen syndrome|CS,Associated,31825161
+157680,COH1|Vacuolar protein sorting 13 homolog B|VPS13B,Orphanet:98604,Congenital alacrima|alacrima,Associated,31825161
+157680,COH1|Vacuolar protein sorting 13 homolog B|VPS13B,MONDO:0001475,Neutropenia,Not Associated,31825161
+157680,COH1|Vacuolar protein sorting 13 homolog B|VPS13B,EFO:0001073,Obesity|Adiposity,Not Associated,31825161
+157680,COH1|Vacuolar protein sorting 13 homolog B|VPS13B,EFO:0003839,Retinopathy,Not Associated,31825161
+157680,COH1|Vacuolar protein sorting 13 homolog B|VPS13B,EFO:0004273,Scoliosis,Not Associated,31825161
+368,ABCC6,Orphanet:289176,"ARHR1|autosomal recessive hypophosphatemic rickets, type 1",Not Associated,31843680
+368,ABCC6,EFO:0009666,Enthesopathy,Not Associated,31843680
+368,ABCC6,MONDO:0002185,Hyperostosis,Not Associated,31843680
+368,ABCC6,MONDO:0002933,Hypophosphatemic osteosclerosis,Not Associated,31843680
+368,ABCC6,Orphanet:1653,autosomal dominant dysplasias of dentin,Not Associated,31843680
+368,ABCC6,Orphanet:289157,"vitamin D dependent rickets, type 1",Not Associated,31843680
+368,ABCC6,Orphanet:51608,"generalized arterial calcification of infancy, type 2",Associated,31843680
+368,ABCC6,Orphanet:758,pseudoxanthoma elasticum|PXE,Associated,31843680
+1594,CYP27B1,Orphanet:289176,"ARHR1|autosomal recessive hypophosphatemic rickets, type 1",Not Associated,31843680
+1594,CYP27B1,EFO:0009666,Enthesopathy,Not Associated,31843680
+1594,CYP27B1,MONDO:0002185,Hyperostosis,Not Associated,31843680
+1594,CYP27B1,MONDO:0002933,Hypophosphatemic osteosclerosis,Not Associated,31843680
+1594,CYP27B1,Orphanet:1653,autosomal dominant dysplasias of dentin,Not Associated,31843680
+1594,CYP27B1,Orphanet:289157,"vitamin D dependent rickets, type 1",Associated,31843680
+1594,CYP27B1,Orphanet:51608,"generalized arterial calcification of infancy, type 2",Not Associated,31843680
+1594,CYP27B1,Orphanet:758,pseudoxanthoma elasticum|PXE,Not Associated,31843680
+1758,DMP1|Dentin matrix protein 1|Dentin matrix protein-1,Orphanet:289176,"ARHR1|autosomal recessive hypophosphatemic rickets, type 1",Associated,31843680
+1758,DMP1|Dentin matrix protein 1|Dentin matrix protein-1,EFO:0009666,Enthesopathy,Associated,31843680
+1758,DMP1|Dentin matrix protein 1|Dentin matrix protein-1,MONDO:0002185,Hyperostosis,Associated,31843680
+1758,DMP1|Dentin matrix protein 1|Dentin matrix protein-1,MONDO:0002933,Hypophosphatemic osteosclerosis,Associated,31843680
+1758,DMP1|Dentin matrix protein 1|Dentin matrix protein-1,Orphanet:1653,autosomal dominant dysplasias of dentin,Not Associated,31843680
+1758,DMP1|Dentin matrix protein 1|Dentin matrix protein-1,Orphanet:289157,"vitamin D dependent rickets, type 1",Not Associated,31843680
+1758,DMP1|Dentin matrix protein 1|Dentin matrix protein-1,Orphanet:51608,"generalized arterial calcification of infancy, type 2",Not Associated,31843680
+1758,DMP1|Dentin matrix protein 1|Dentin matrix protein-1,Orphanet:758,pseudoxanthoma elasticum|PXE,Not Associated,31843680
+1834,Dentin sialophosphoprotein|DSPP,Orphanet:289176,"ARHR1|autosomal recessive hypophosphatemic rickets, type 1",Not Associated,31843680
+1834,Dentin sialophosphoprotein|DSPP,EFO:0009666,Enthesopathy,Not Associated,31843680
+1834,Dentin sialophosphoprotein|DSPP,MONDO:0002185,Hyperostosis,Not Associated,31843680
+1834,Dentin sialophosphoprotein|DSPP,MONDO:0002933,Hypophosphatemic osteosclerosis,Not Associated,31843680
+1834,Dentin sialophosphoprotein|DSPP,Orphanet:1653,autosomal dominant dysplasias of dentin,Associated,31843680
+1834,Dentin sialophosphoprotein|DSPP,Orphanet:289157,"vitamin D dependent rickets, type 1",Not Associated,31843680
+1834,Dentin sialophosphoprotein|DSPP,Orphanet:51608,"generalized arterial calcification of infancy, type 2",Not Associated,31843680
+1834,Dentin sialophosphoprotein|DSPP,Orphanet:758,pseudoxanthoma elasticum|PXE,Not Associated,31843680
+6696,osteopontin|OPN|secreted phosphoprotein-1|SPP1,Orphanet:289176,"ARHR1|autosomal recessive hypophosphatemic rickets, type 1",Not Associated,31843680
+6696,osteopontin|OPN|secreted phosphoprotein-1|SPP1,EFO:0009666,Enthesopathy,Associated,31843680
+6696,osteopontin|OPN|secreted phosphoprotein-1|SPP1,MONDO:0002185,Hyperostosis,Associated,31843680
+6696,osteopontin|OPN|secreted phosphoprotein-1|SPP1,MONDO:0002933,Hypophosphatemic osteosclerosis,Associated,31843680
+6696,osteopontin|OPN|secreted phosphoprotein-1|SPP1,Orphanet:1653,autosomal dominant dysplasias of dentin,Not Associated,31843680
+6696,osteopontin|OPN|secreted phosphoprotein-1|SPP1,Orphanet:289157,"vitamin D dependent rickets, type 1",Not Associated,31843680
+6696,osteopontin|OPN|secreted phosphoprotein-1|SPP1,Orphanet:51608,"generalized arterial calcification of infancy, type 2",Not Associated,31843680
+6696,osteopontin|OPN|secreted phosphoprotein-1|SPP1,Orphanet:758,pseudoxanthoma elasticum|PXE,Not Associated,31843680
+3381,integrin-binding sialoprotein|IBSP|bone sialoprotein|BSP,Orphanet:289176,"ARHR1|autosomal recessive hypophosphatemic rickets, type 1",Not Associated,31843680
+3381,integrin-binding sialoprotein|IBSP|bone sialoprotein|BSP,EFO:0009666,Enthesopathy,Not Associated,31843680
+3381,integrin-binding sialoprotein|IBSP|bone sialoprotein|BSP,MONDO:0002185,Hyperostosis,Not Associated,31843680
+3381,integrin-binding sialoprotein|IBSP|bone sialoprotein|BSP,MONDO:0002933,Hypophosphatemic osteosclerosis,Not Associated,31843680
+3381,integrin-binding sialoprotein|IBSP|bone sialoprotein|BSP,Orphanet:1653,autosomal dominant dysplasias of dentin,Not Associated,31843680
+3381,integrin-binding sialoprotein|IBSP|bone sialoprotein|BSP,Orphanet:289157,"vitamin D dependent rickets, type 1",Not Associated,31843680
+3381,integrin-binding sialoprotein|IBSP|bone sialoprotein|BSP,Orphanet:51608,"generalized arterial calcification of infancy, type 2",Not Associated,31843680
+3381,integrin-binding sialoprotein|IBSP|bone sialoprotein|BSP,Orphanet:758,pseudoxanthoma elasticum|PXE,Not Associated,31843680
+56955,matrix extracellular phosphoglycoprotein|MEPE,Orphanet:289176,"ARHR1|autosomal recessive hypophosphatemic rickets, type 1",Not Associated,31843680
+56955,matrix extracellular phosphoglycoprotein|MEPE,EFO:0009666,Enthesopathy,Not Associated,31843680
+56955,matrix extracellular phosphoglycoprotein|MEPE,MONDO:0002185,Hyperostosis,Not Associated,31843680
+56955,matrix extracellular phosphoglycoprotein|MEPE,MONDO:0002933,Hypophosphatemic osteosclerosis,Not Associated,31843680
+56955,matrix extracellular phosphoglycoprotein|MEPE,Orphanet:1653,autosomal dominant dysplasias of dentin,Not Associated,31843680
+56955,matrix extracellular phosphoglycoprotein|MEPE,Orphanet:289157,"vitamin D dependent rickets, type 1",Not Associated,31843680
+56955,matrix extracellular phosphoglycoprotein|MEPE,Orphanet:51608,"generalized arterial calcification of infancy, type 2",Not Associated,31843680
+56955,matrix extracellular phosphoglycoprotein|MEPE,Orphanet:758,pseudoxanthoma elasticum|PXE,Not Associated,31843680

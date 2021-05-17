@@ -1,0 +1,1158 @@
+﻿pmid,disease,gene,label,Statement,disease_id,gene_id
+2453005,gastroschisis,maternal serum alpha-fetoprotein,Associated,Second-trimester maternal serum alpha-fetoprotein levels in pregnancies associated with gastroschisis and omphalocele.,EFO:1000949,174
+2453005,omphalocele,maternal serum alpha-fetoprotein,Associated,Second-trimester maternal serum alpha-fetoprotein levels in pregnancies associated with gastroschisis and omphalocele.,NA,174
+2453005,gastroschisis,MSAFP,Associated,Second-trimester maternal serum alpha-fetoprotein levels in pregnancies associated with gastroschisis and omphalocele.,EFO:1000949,174
+2453005,omphalocele,MSAFP,Associated,Second-trimester maternal serum alpha-fetoprotein levels in pregnancies associated with gastroschisis and omphalocele.,NA,174
+3165727,Best's macular dystrophy,GPT1,Not Associated,NA,Orphanet:1243,2875
+3165727,Best's vitelliform macular dystrophy,GPT1,Not Associated,NA,Orphanet:1243,2875
+3165727,BVMD,GPT1,Not Associated,NA,Orphanet:1243,2875
+3165727,macular dystrophy,GPT1,Not Associated,NA,HP:0007754,2875
+3165727,Vitelliform macular dystrophy,GPT1,Associated,An atypical form of vitelliform macular dystrophy (VMD-1) is linked to GPT1 (theta less than 0.05) ,MONDO:0000390,2875
+3165727,VMD-1,GPT1,Associated,An atypical form of vitelliform macular dystrophy (VMD-1) is linked to GPT1 (theta less than 0.05) ,MONDO:0000390,2875
+6191039,Gastroschisis,alpha-fetoprotein,Not Associated,NA,EFO:1000949,174
+6191039,Omphalocele,alpha-fetoprotein,Associated,"The association between fetal omphalocele and elevated alpha-fetoprotein is significant, and may prompt a search for a small omphalocele that would otherwise be missed on a routine obstetric sonogram.",NA,174
+7524003,Gastroschisis,AFP,Associated,"As reported previously, median AFP levels were significantly higher in pregnancies with gastroschisis and omphalocele compared to unaffected pregnancies (9.42 and 4.18 multiples of the unaffected population median [MoM], respectively)",EFO:1000949,174
+7524003,Omphalocele,AFP,Associated,"As reported previously, median AFP levels were significantly higher in pregnancies with gastroschisis and omphalocele compared to unaffected pregnancies (9.42 and 4.18 multiples of the unaffected population median [MoM], respectively)",NA,174
+7524003,Gastroschisis,alpha-fetoprotein,Associated,"As reported previously, median AFP levels were significantly higher in pregnancies with gastroschisis and omphalocele compared to unaffected pregnancies (9.42 and 4.18 multiples of the unaffected population median [MoM], respectively)",EFO:1000949,174
+7524003,Omphalocele,alpha-fetoprotein,Associated,"As reported previously, median AFP levels were significantly higher in pregnancies with gastroschisis and omphalocele compared to unaffected pregnancies (9.42 and 4.18 multiples of the unaffected population median [MoM], respectively)",NA,174
+7524003,Gastroschisis,hCG,Not Associated,NA,EFO:1000949,F802
+7524003,Omphalocele,hCG,Not Associated,NA,NA,F802
+9371984,McLeod syndrome,aquaporin,Not Associated,NA,Orphanet:59306,F1158
+9371984,McLeod syndrome,CD47,Not Associated,NA,Orphanet:59306,961
+9371984,McLeod syndrome,Colton antigens,Not Associated,NA,Orphanet:59306,358
+9371984,McLeod syndrome,Duffy antigen,Not Associated,NA,Orphanet:59306,2532
+9371984,McLeod syndrome,glycophorins,Not Associated,NA,Orphanet:59306,F801
+9371984,McLeod syndrome,Kx antigen,Associated,"the cloning of the Kx antigen, which is associated with McLeod syndrome",Orphanet:59306,7504
+9371984,McLeod syndrome,LW,Not Associated,NA,Orphanet:59306,3386
+9371984,McLeod syndrome,Rh antigen,Not Associated,NA,Orphanet:59306,F106
+9371984,McLeod syndrome,Xga antigens,Not Associated,NA,Orphanet:59306,7499
+10085286,omphalocele,calreticulin,Associated,Mice homozygous for the calreticulin gene disruption developed omphalocele (failure of absorption of the umbilical hernia) and showed a marked decrease in ventricular wall thickness and deep intertrabecular recesses in the ventricular walls.,NA,F228
+10085286,omphalocele,NF-AT3,Not Associated,NA,NA,4776
+10343080,McLeod syndrome,Kx antigen,Associated,McLeod syndrome is an X-linked recessive disorder on the basis of abnormal expression of the Kell blood group antigens and absence of erythrocyte surface Kx antigen,Orphanet:59306,7504
+10343080,McLeod syndrome,kell blood group antigens,Associated,McLeod syndrome is an X-linked recessive disorder on the basis of abnormal expression of the Kell blood group antigens and absence of erythrocyte surface Kx antigen,Orphanet:59306,3792
+10343080,chronic renal failure,Kx antigen,Not Associated,NA,EFO:0003884,7504
+10343080,chronic renal failure,kell blood group antigens,Not Associated,NA,EFO:0003884,3792
+10343080,retinitis pigmentosa,Kx antigen,Not Associated,NA,Orphanet:791,7504
+10343080,retinitis pigmentosa,kell blood group antigens,Not Associated,NA,Orphanet:791,3792
+10343080,progressive chronic neuropathy,Kx antigen,Not Associated,NA,NA,7504
+10343080,progressive chronic neuropathy,kell blood group antigens,Not Associated,NA,NA,3792
+10343080,dilated cardiomyopathy,Kx antigen,Not Associated,NA,EFO:0000407,7504
+10343080,dilated cardiomyopathy,kell blood group antigens,Not Associated,NA,EFO:0000407,3792
+10420042,Gastroschisis,alpha-fetoprotein,Not Associated,NA,EFO:1000949,174
+10420042,Omphalocele,alpha-fetoprotein,Not Associated,NA,NA,174
+10472535,acute leukaemia,B-UGT,Not Associated,NA,EFO:1000068,F2090
+10472535,acute leukaemia,bilirubin uridine-diphosphate glucuronosyltransferase,Not Associated,NA,EFO:1000068,F2090
+10472535,acute leukaemia,bilirubin UDP glucuronosyl-transferase,Not Associated,NA,EFO:1000068,F2090
+10472535,Gilbert syndrome,B-UGT,Associated,The Gly71Arg mutation of the hepatic bilirubin UDP glucuronosyl-transferase (B-UGT) gene associated with Gilbert syndrome prevails among Japanese and its gene frequency is 0.13.,EFO:0005556,F2090
+10472535,Gilbert syndrome,bilirubin uridine-diphosphate glucuronosyltransferase,Associated,The Gly71Arg mutation of the hepatic bilirubin UDP glucuronosyl-transferase (B-UGT) gene associated with Gilbert syndrome prevails among Japanese and its gene frequency is 0.13.,EFO:0005556,F2090
+10472535,Gilbert syndrome,bilirubin UDP glucuronosyl-transferase,Associated,The Gly71Arg mutation of the hepatic bilirubin UDP glucuronosyl-transferase (B-UGT) gene associated with Gilbert syndrome prevails among Japanese and its gene frequency is 0.13.,EFO:0005556,F2090
+10472535,hyperbilirubinaemia,B-UGT,Not Associated,NA,NA,F2090
+10472535,hyperbilirubinaemia,bilirubin uridine-diphosphate glucuronosyltransferase,Not Associated,NA,NA,F2090
+10472535,hyperbilirubinaemia,bilirubin UDP glucuronosyl-transferase,Not Associated,NA,NA,F2090
+10472535,leukaemia,B-UGT,Not Associated,NA,EFO:0000565,F2090
+10472535,leukaemia,bilirubin uridine-diphosphate glucuronosyltransferase,Not Associated,NA,EFO:0000565,F2090
+10472535,leukaemia,bilirubin UDP glucuronosyl-transferase,Not Associated,NA,EFO:0000565,F2090
+10486188,FALS,Copper/zinc superoxide dismutase,Associated,Dominant mutations in the copper/zinc superoxide dismutase (SOD1) gene have been observed in 15-20% of familial amyotrophic lateral sclerosis (FALS) cases.,EFO:0001356,6647
+10486188,Familial amyotrophic lateral sclerosis,Copper/zinc superoxide dismutase,Associated,Dominant mutations in the copper/zinc superoxide dismutase (SOD1) gene have been observed in 15-20% of familial amyotrophic lateral sclerosis (FALS) cases.,EFO:0001356,6647
+10486188,Motor neuron disease,Copper/zinc superoxide dismutase,Associated,"We investigated the ability of putrescine-modified catalase (PUT-CAT), an antioxidant enzyme that removes hydrogen peroxide and has increased permeability at the blood-brain barrier, to modify the time course of the SOD1 mutation-induced motor neuron disease in these FALS mice.",EFO:0003782,6647
+10486188,FALS,SOD1,Associated,Dominant mutations in the copper/zinc superoxide dismutase (SOD1) gene have been observed in 15-20% of familial amyotrophic lateral sclerosis (FALS) cases.,EFO:0001356,6647
+10486188,Familial amyotrophic lateral sclerosis,SOD1,Associated,Dominant mutations in the copper/zinc superoxide dismutase (SOD1) gene have been observed in 15-20% of familial amyotrophic lateral sclerosis (FALS) cases.,EFO:0001356,6647
+10486188,Motor neuron disease,SOD1,Associated,"We investigated the ability of putrescine-modified catalase (PUT-CAT), an antioxidant enzyme that removes hydrogen peroxide and has increased permeability at the blood-brain barrier, to modify the time course of the SOD1 mutation-induced motor neuron disease in these FALS mice.",EFO:0003782,6647
+10515233,Motor neuron disease,hNF-H,Associated,Previous studies demonstrated that transgenic mice overexpressing human neurofilament heavy (hNF-H) protein develop a progressive motor neuron disease,EFO:0003782,4744
+10515233,Motor neuron disease,hNF-L,Associated,We report here that the motor neuron disease caused by excess hNF-H proteins can be rescued by overexpression of hNF-L in a dosage-dependent fashion.,EFO:0003782,4747
+10515233,Motor neuron disease,neurofilament heavy,Associated,Previous studies demonstrated that transgenic mice overexpressing human neurofilament heavy (hNF-H) protein develop a progressive motor neuron disease,EFO:0003782,4744
+10515233,Motor neuron disease,neurofilament light,Associated,We report here that the motor neuron disease caused by excess hNF-H proteins can be rescued by overexpression of hNF-L in a dosage-dependent fashion.,EFO:0003782,4747
+10515233,Motor neuron disease,NF-H,Associated,Extra neurofilament NF-L subunits rescue motor neuron disease caused by overexpression of the human NF-H gene in mice.,EFO:0003782,4744
+10515233,Motor neuron disease,NF-L,Associated,Extra neurofilament NF-L subunits rescue motor neuron disease caused by overexpression of the human NF-H gene in mice.,EFO:0003782,4747
+10515233,ALS,hNF-H,Associated,"The finding that extra NF-L can protect against NF-H-mediated pathogenesis is of potential importance for ALS, particularly for cases with NF-H abnormalities.",EFO:0000253,4744
+10515233,ALS,hNF-L,Associated,"The finding that extra NF-L can protect against NF-H-mediated pathogenesis is of potential importance for ALS, particularly for cases with NF-H abnormalities.",EFO:0000253,4747
+10515233,ALS,neurofilament heavy,Associated,"The finding that extra NF-L can protect against NF-H-mediated pathogenesis is of potential importance for ALS, particularly for cases with NF-H abnormalities.",EFO:0000253,4744
+10515233,ALS,neurofilament light,Associated,"The finding that extra NF-L can protect against NF-H-mediated pathogenesis is of potential importance for ALS, particularly for cases with NF-H abnormalities.",EFO:0000253,4747
+10515233,ALS,NF-H,Associated,"The finding that extra NF-L can protect against NF-H-mediated pathogenesis is of potential importance for ALS, particularly for cases with NF-H abnormalities.",EFO:0000253,4744
+10515233,ALS,NF-L,Associated,"The finding that extra NF-L can protect against NF-H-mediated pathogenesis is of potential importance for ALS, particularly for cases with NF-H abnormalities.",EFO:0000253,4747
+10515233,Amyotrophic lateral sclerosis,hNF-H,Associated,"The finding that extra NF-L can protect against NF-H-mediated pathogenesis is of potential importance for ALS, particularly for cases with NF-H abnormalities.",EFO:0000253,4744
+10515233,Amyotrophic lateral sclerosis,hNF-L,Associated,"The finding that extra NF-L can protect against NF-H-mediated pathogenesis is of potential importance for ALS, particularly for cases with NF-H abnormalities.",EFO:0000253,4747
+10515233,Amyotrophic lateral sclerosis,neurofilament heavy,Associated,"The finding that extra NF-L can protect against NF-H-mediated pathogenesis is of potential importance for ALS, particularly for cases with NF-H abnormalities.",EFO:0000253,4744
+10515233,Amyotrophic lateral sclerosis,neurofilament light,Associated,"The finding that extra NF-L can protect against NF-H-mediated pathogenesis is of potential importance for ALS, particularly for cases with NF-H abnormalities.",EFO:0000253,4747
+10515233,Amyotrophic lateral sclerosis,NF-H,Associated,"The finding that extra NF-L can protect against NF-H-mediated pathogenesis is of potential importance for ALS, particularly for cases with NF-H abnormalities.",EFO:0000253,4744
+10515233,Amyotrophic lateral sclerosis,NF-L,Associated,"The finding that extra NF-L can protect against NF-H-mediated pathogenesis is of potential importance for ALS, particularly for cases with NF-H abnormalities.",EFO:0000253,4747
+10824927,Ependymomas,mdm2,Associated,"The majority of the ependymomatous samples (96%) showed at least focal immunopositivity for MDM2; however, only 8% of the samples were immunopositive for p53. mdm2 gene amplification was detected in 35% of the samples by differential polymerase chain reaction, all of which overexpressed MDM2. ",EFO:1000028,4193
+10824927,Ependymomas,p53,Not Associated,NA,EFO:1000028,7157
+11415518,familial orofacial cleft,ECE1,Not Associated,NA,MONDO:0000358,1889
+11415518,Non-syndromic orofacial cleft,ECE1,Not Associated,NA,MONDO:0000358,1889
+11415518,OFC,ECE1,Not Associated,NA,MONDO:0000358,1889
+11415518,familial orofacial cleft,EDN1,Not Associated,NA,MONDO:0000358,1906
+11415518,Non-syndromic orofacial cleft,EDN1,Not Associated,NA,MONDO:0000358,1906
+11415518,OFC,EDN1,Not Associated,NA,MONDO:0000358,1906
+11415518,familial orofacial cleft,EDNRA,Not Associated,NA,MONDO:0000358,1909
+11415518,Non-syndromic orofacial cleft,EDNRA,Not Associated,NA,MONDO:0000358,1909
+11415518,OFC,EDNRA,Not Associated,NA,MONDO:0000358,1909
+11415518,familial orofacial cleft,EDNRB,Not Associated,NA,MONDO:0000358,1910
+11415518,Non-syndromic orofacial cleft,EDNRB,Not Associated,NA,MONDO:0000358,1910
+11415518,OFC,EDNRB,Not Associated,NA,MONDO:0000358,1910
+11415518,familial orofacial cleft,Endothelin-1,Not Associated,NA,MONDO:0000358,1906
+11415518,Non-syndromic orofacial cleft,Endothelin-1,Not Associated,NA,MONDO:0000358,1906
+11415518,OFC,Endothelin-1,Not Associated,NA,MONDO:0000358,1906
+11711205,dementia,tau protein,Not Associated,NA,MONDO:0001627,4137
+11711205,frontotemporal dementias,tau protein,Not Associated,NA,Orphanet:282,4137
+11711205,frontotemporal dementia,tau protein,Not Associated,NA,Orphanet:282,4137
+11711205,frontotemporal lobe degeneration ,tau protein,Associated,These findings indicate that the recently reported decreased expression of tau protein in frontotemporal lobe degeneration represents pathogenic mechanism of neurodegeneration detectable only in a special subset of these disorders.,Orphanet:282,4137
+11711205,motor neuron disease,tau protein,Not Associated,NA,EFO:0003782,4137
+11711205,Pick's disease,tau protein,Not Associated,NA,EFO:0003096,4137
+11711205,dementia,microtubule-associated protein tau,Not Associated,NA,MONDO:0001627,4137
+11711205,frontotemporal dementias,microtubule-associated protein tau,Not Associated,NA,Orphanet:282,4137
+11711205,frontotemporal dementia,microtubule-associated protein tau,Not Associated,NA,Orphanet:282,4137
+11711205,frontotemporal lobe degeneration ,microtubule-associated protein tau,Associated,These findings indicate that the recently reported decreased expression of tau protein in frontotemporal lobe degeneration represents pathogenic mechanism of neurodegeneration detectable only in a special subset of these disorders.,Orphanet:282,4137
+11711205,motor neuron disease,microtubule-associated protein tau,Not Associated,NA,EFO:0003782,4137
+11711205,Pick's disease,microtubule-associated protein tau,Not Associated,NA,EFO:0003096,4137
+11761473,Huntington's disease,Chorein,Not Associated,NA,Orphanet:399,23230
+11761473,chorea,Chorein,Associated," The resemblance of McLeod syndrome with Huntington's disease and with autosomal recessive chorea-acanthocytosis suggests that the corresponding proteins--XK, huntingtin, and chorein--might belong to a common pathway",EFO:0004152,23230
+11761473,McLeod neuroacanthocytosis,Chorein,Not Associated,NA,Orphanet:59306,23230
+11761473,McLeod syndrome,Chorein,Not Associated,NA,Orphanet:59306,23230
+11761473,Myopathy,Chorein,Not Associated,NA,EFO:0004145,23230
+11761473,Peripheral neuropathy,Chorein,Not Associated,NA,EFO:0003100,23230
+11761473,Huntington's disease,Huntingtin,Associated," The resemblance of McLeod syndrome with Huntington's disease and with autosomal recessive chorea-acanthocytosis suggests that the corresponding proteins--XK, huntingtin, and chorein--might belong to a common pathway",Orphanet:399,3064
+11761473,chorea,Huntingtin,Not Associated,NA,EFO:0004152,3064
+11761473,McLeod neuroacanthocytosis,Huntingtin,Not Associated,NA,Orphanet:59306,3064
+11761473,McLeod syndrome,Huntingtin,Not Associated,NA,Orphanet:59306,3064
+11761473,Myopathy,Huntingtin,Not Associated,NA,EFO:0004145,3064
+11761473,Peripheral neuropathy,Huntingtin,Not Associated,NA,EFO:0003100,3064
+11761473,Huntington's disease,XK,Not Associated,NA,Orphanet:399,7504
+11761473,chorea,XK,Not Associated,NA,EFO:0004152,7504
+11761473,McLeod syndrome,XK,Associated,"McLeod syndrome is caused by mutations of XK, an X-chromosomal gene of unknown function",Orphanet:59306,7504
+11761473,Myopathy,XK,Not Associated,NA,EFO:0004145,7504
+11761473,Peripheral neuropathy,XK,Not Associated,NA,EFO:0003100,7504
+14503643,frontotemporal dementia linked to chromosome 3,Tau,Associated,possible link between tau and the genetic defect present on chromosome 3 and associated with FTD-3,Orphanet:282,4137
+14503643,FTD-3,Tau,Associated,possible link between tau and the genetic defect present on chromosome 3 and associated with FTD-3,Orphanet:282,4137
+14503643,frontotemporal dementia,Tau,Associated,"Tau, on chromosome 17, is the only gene where mutations have been identified and its involvement in FTD has been firmly established",Orphanet:282,4137
+14503643,FTD,Tau,Associated,"Tau, on chromosome 17, is the only gene where mutations have been identified and its involvement in FTD has been firmly established",Orphanet:282,4137
+14503643,FTDP-17,Tau,Associated,Abnormal aggregates of tau protein characterize the brain lesions of FTDP-17 patients and ubiquitin inclusions have been found in FTD with motor neuron disease linked to chromosome 9,NA,4137
+14503643,FTD and motor neuron disease linked to chromosome 9,Tau,Not Associated,NA,Orphanet:275872,4137
+14503643,FTD linked to chromosome 3,Tau,Associated,possible link between tau and the genetic defect present on chromosome 3 and associated with FTD-3,Orphanet:282,4137
+14503643,FTD with motor neuron disease linked to chromosome 9,Tau,Not Associated,NA,Orphanet:275872,4137
+14503643,frontotemporal dementia linked to chromosome 3,ubiquitin,Not Associated,NA,Orphanet:282,F2084
+14503643,FTD-3,ubiquitin,Not Associated,NA,Orphanet:282,F2084
+14503643,frontotemporal dementia,ubiquitin,Not Associated,NA,Orphanet:282,F2084
+14503643,FTD,ubiquitin,Not Associated,NA,Orphanet:282,F2084
+14503643,FTDP-17,ubiquitin,Not Associated,NA,NA,F2084
+14503643,FTD and motor neuron disease linked to chromosome 9,ubiquitin,Not Associated,NA,Orphanet:275872,F2084
+14503643,FTD linked to chromosome 3,ubiquitin,Not Associated,NA,Orphanet:282,F2084
+14503643,FTD with motor neuron disease linked to chromosome 9,ubiquitin,Associated,Abnormal aggregates of tau protein characterize the brain lesions of FTDP-17 patients and ubiquitin inclusions have been found in FTD with motor neuron disease linked to chromosome 9,Orphanet:275872,F2084
+14630905,Oligodontia,MSX1,Associated,"In fluorescence in situ hybridization (FISH) analysis, the five patients with oligodontia lacked one copy of MSX1, while the other three had two hybridization signals",Orphanet:99798,4487
+14630905,Wolf-Hirschhorn syndrome,MSX1,Associated,"In fluorescence in situ hybridization (FISH) analysis, the five patients with oligodontia lacked one copy of MSX1, while the other three had two hybridization signals",Orphanet:280,4487
+15003169,X-linked spinal and bulbar muscular atrophy,Androgen receptor,Associated,X-linked spinal and bulbar muscular atrophy (SBMA) is an inherited neuromuscular disorder characterized by lower motor neuron degeneration. SBMA is caused by polyglutamine repeat expansions in the androgen receptor (AR).,Orphanet:481,367
+15003169,X-linked spinal and bulbar muscular atrophy,CREB binding protein,Associated,Polyglutamine-expanded AR interferes with CREB binding protein (CBP)-mediated transcription of vascular endothelial growth factor (VEGF) and observed altered CBP-AR binding and VEGF reduction in AR100 mice.,Orphanet:481,1387
+15003169,X-linked spinal and bulbar muscular atrophy,Vascular endothelial growth factor,Associated,"Our results suggest that SBMA motor neuronopathy involves altered expression of VEGF, consistent with a role for VEGF as a neurotrophic/survival factor in motor neuron disease.",Orphanet:481,F1346
+15003169,X-linked spinal and bulbar muscular atrophy,AR,Associated,SBMA is caused by polyglutamine repeat expansions in the androgen receptor (AR).,Orphanet:481,367
+15003169,X-linked spinal and bulbar muscular atrophy,CBP,Associated,Polyglutamine-expanded AR interferes with CREB binding protein (CBP)-mediated transcription of vascular endothelial growth factor (VEGF) and observed altered CBP-AR binding and VEGF reduction in AR100 mice.,Orphanet:481,1387
+15003169,X-linked spinal and bulbar muscular atrophy,VEGF,Associated,"Our results suggest that SBMA motor neuronopathy involves altered expression of VEGF, consistent with a role for VEGF as a neurotrophic/survival factor in motor neuron disease.",Orphanet:481,F1346
+15003169,SBMA,Androgen receptor,Associated,X-linked spinal and bulbar muscular atrophy (SBMA) is an inherited neuromuscular disorder characterized by lower motor neuron degeneration. SBMA is caused by polyglutamine repeat expansions in the androgen receptor (AR).,Orphanet:481,367
+15003169,SBMA,CREB binding protein,Associated,Polyglutamine-expanded AR interferes with CREB binding protein (CBP)-mediated transcription of vascular endothelial growth factor (VEGF) and observed altered CBP-AR binding and VEGF reduction in AR100 mice.,Orphanet:481,1387
+15003169,SBMA,Vascular endothelial growth factor,Associated,"Our results suggest that SBMA motor neuronopathy involves altered expression of VEGF, consistent with a role for VEGF as a neurotrophic/survival factor in motor neuron disease.",Orphanet:481,F1346
+15003169,SBMA,AR,Associated,SBMA is caused by polyglutamine repeat expansions in the androgen receptor (AR).,Orphanet:481,367
+15003169,SBMA,CBP,Associated,Polyglutamine-expanded AR interferes with CREB binding protein (CBP)-mediated transcription of vascular endothelial growth factor (VEGF) and observed altered CBP-AR binding and VEGF reduction in AR100 mice.,Orphanet:481,1387
+15003169,SBMA,VEGF,Associated,"Our results suggest that SBMA motor neuronopathy involves altered expression of VEGF, consistent with a role for VEGF as a neurotrophic/survival factor in motor neuron disease.",Orphanet:481,F1346
+15003169,motor neuron disease,Androgen receptor,Not Associated,NA,EFO:0003782,367
+15003169,motor neuron disease,CREB binding protein,Not Associated,NA,EFO:0003782,1387
+15003169,motor neuron disease,Vascular endothelial growth factor,Associated,"Our results suggest that SBMA motor neuronopathy involves altered expression of VEGF, consistent with a role for VEGF as a neurotrophic/survival factor in motor neuron disease.",EFO:0003782,F1346
+15003169,motor neuron disease,AR,Not Associated,NA,EFO:0003782,367
+15003169,motor neuron disease,CBP,Not Associated,NA,EFO:0003782,1387
+15003169,motor neuron disease,VEGF,Associated,"Our results suggest that SBMA motor neuronopathy involves altered expression of VEGF, consistent with a role for VEGF as a neurotrophic/survival factor in motor neuron disease.",EFO:0003782,F1346
+15056757,Familial amyotrophic lateral sclerosis,CuZn Superoxide dismutase,Associated,"More than 90 point mutations in human CuZn superoxide dismutase lead to the development of familial amyotrophic lateral sclerosis, known also as motor neuron disease",EFO:0001356,6647
+15056757,Motor neuron disease,CuZn Superoxide dismutase,Associated,"More than 90 point mutations in human CuZn superoxide dismutase lead to the development of familial amyotrophic lateral sclerosis, known also as motor neuron disease",EFO:0003782,6647
+15078490,ameloblastomas,ARF,Associated,"Elevated expression of p53, MDM2, and p14(ARF) in benign and malignant ameloblastomas suggests that alteration of the p53-MDM2-p14(ARF) cascade is involved in oncogenesis and/of malignant transformation of odontogenic epithelium.",MONDO:0017795,1029
+15078490,ameloblastomas,MDM2,Associated,"Elevated expression of p53, MDM2, and p14(ARF) in benign and malignant ameloblastomas suggests that alteration of the p53-MDM2-p14(ARF) cascade is involved in oncogenesis and/of malignant transformation of odontogenic epithelium.",MONDO:0017795,4193
+15078490,ameloblastomas,p14,Associated,"Elevated expression of p53, MDM2, and p14(ARF) in benign and malignant ameloblastomas suggests that alteration of the p53-MDM2-p14(ARF) cascade is involved in oncogenesis and/of malignant transformation of odontogenic epithelium.",MONDO:0017795,1029
+15078490,ameloblastomas,p53,Associated,"Elevated expression of p53, MDM2, and p14(ARF) in benign and malignant ameloblastomas suggests that alteration of the p53-MDM2-p14(ARF) cascade is involved in oncogenesis and/of malignant transformation of odontogenic epithelium.",MONDO:0017795,7157
+15138791,ependymomas,BDNF,Associated,"BDNF instead increases in CSF, while the expression of GDNF remains unchanged both in tissues and in CSF. ",EFO:1000028,627
+15138791,low-grade astrocytomas,BDNF,Associated,"BDNF instead increases in CSF, while the expression of GDNF remains unchanged both in tissues and in CSF. ",MONDO:0016685,627
+15138791,tumour,BDNF,Associated,"BDNF instead increases in CSF, while the expression of GDNF remains unchanged both in tissues and in CSF. ",EFO:0000616,627
+15138791,tumours,BDNF,Associated,"BDNF instead increases in CSF, while the expression of GDNF remains unchanged both in tissues and in CSF. ",EFO:0000616,627
+15138791,ependymomas,brain-derived neurotrophic factor,Associated,"BDNF instead increases in CSF, while the expression of GDNF remains unchanged both in tissues and in CSF. ",EFO:1000028,627
+15138791,low-grade astrocytomas,brain-derived neurotrophic factor,Associated,"BDNF instead increases in CSF, while the expression of GDNF remains unchanged both in tissues and in CSF. ",MONDO:0016685,627
+15138791,tumour,brain-derived neurotrophic factor,Associated,"BDNF instead increases in CSF, while the expression of GDNF remains unchanged both in tissues and in CSF. ",EFO:0000616,627
+15138791,tumours,brain-derived neurotrophic factor,Associated,"BDNF instead increases in CSF, while the expression of GDNF remains unchanged both in tissues and in CSF. ",EFO:0000616,627
+15138791,ependymomas,GDNF,Not Associated,NA,EFO:1000028,2668
+15138791,low-grade astrocytomas,GDNF,Not Associated,NA,MONDO:0016685,2668
+15138791,tumour,GDNF,Not Associated,NA,EFO:0000616,2668
+15138791,tumours,GDNF,Not Associated,NA,EFO:0000616,2668
+15138791,ependymomas,glial-derived neurotrophic factor,Not Associated,NA,EFO:1000028,2668
+15138791,low-grade astrocytomas,glial-derived neurotrophic factor,Not Associated,NA,MONDO:0016685,2668
+15138791,tumour,glial-derived neurotrophic factor,Not Associated,NA,EFO:0000616,2668
+15138791,tumours,glial-derived neurotrophic factor,Not Associated,NA,EFO:0000616,2668
+15138791,ependymomas,nerve growth factor,Associated,The expression of NGF decreases both in tumour samples and in the CSF of affected children compared with controls.,EFO:1000028,4803
+15138791,low-grade astrocytomas,nerve growth factor,Associated,The expression of NGF decreases both in tumour samples and in the CSF of affected children compared with controls.,MONDO:0016685,4803
+15138791,tumour,nerve growth factor,Associated,The expression of NGF decreases both in tumour samples and in the CSF of affected children compared with controls.,EFO:0000616,4803
+15138791,tumours,nerve growth factor,Associated,The expression of NGF decreases both in tumour samples and in the CSF of affected children compared with controls.,EFO:0000616,4803
+15138791,ependymomas,NGF,Associated,The expression of NGF decreases both in tumour samples and in the CSF of affected children compared with controls.,EFO:1000028,4803
+15138791,low-grade astrocytomas,NGF,Associated,The expression of NGF decreases both in tumour samples and in the CSF of affected children compared with controls.,MONDO:0016685,4803
+15138791,tumour,NGF,Associated,The expression of NGF decreases both in tumour samples and in the CSF of affected children compared with controls.,EFO:0000616,4803
+15138791,tumours,NGF,Associated,The expression of NGF decreases both in tumour samples and in the CSF of affected children compared with controls.,EFO:0000616,4803
+15138791,ependymomas,p75,Associated,"Gene expression of NGF and its high-affinity receptor (TrkA) are reduced in tumour tissues, whereas the number of cells immunopositive to the low-affinity NGF receptor (p75) is increased.",EFO:1000028,11168
+15138791,low-grade astrocytomas,p75,Associated,"Gene expression of NGF and its high-affinity receptor (TrkA) are reduced in tumour tissues, whereas the number of cells immunopositive to the low-affinity NGF receptor (p75) is increased.",MONDO:0016685,11168
+15138791,tumour,p75,Associated,"Gene expression of NGF and its high-affinity receptor (TrkA) are reduced in tumour tissues, whereas the number of cells immunopositive to the low-affinity NGF receptor (p75) is increased",EFO:0000616,11168
+15138791,tumours,p75,Associated,"Gene expression of NGF and its high-affinity receptor (TrkA) are reduced in tumour tissues, whereas the number of cells immunopositive to the low-affinity NGF receptor (p75) is increased",EFO:0000616,11168
+15138791,ependymomas,TrkA,Associated,"Gene expression of NGF and its high-affinity receptor (TrkA) are reduced in tumour tissues, whereas the number of cells immunopositive to the low-affinity NGF receptor (p75) is increased.",EFO:1000028,4914
+15138791,low-grade astrocytomas,TrkA,Associated,"Gene expression of NGF and its high-affinity receptor (TrkA) are reduced in tumour tissues, whereas the number of cells immunopositive to the low-affinity NGF receptor (p75) is increased.",MONDO:0016685,4914
+15138791,tumour,TrkA,Associated,"Gene expression of NGF and its high-affinity receptor (TrkA) are reduced in tumour tissues, whereas the number of cells immunopositive to the low-affinity NGF receptor (p75) is increased",EFO:0000616,4914
+15138791,tumours,TrkA,Associated,"Gene expression of NGF and its high-affinity receptor (TrkA) are reduced in tumour tissues, whereas the number of cells immunopositive to the low-affinity NGF receptor (p75) is increased",EFO:0000616,4914
+15170578,Alzheimer's disease,alpha-Internexin,Associated,"Small subsets of abnormal neuronal inclusions in Alzheimer's disease, Lewy body diseases, and motor neuron disease also contain epitopes of alpha-internexin.",EFO:0000249,9118
+15170578,Lewy body diseases,alpha-Internexin,Associated,"Small subsets of abnormal neuronal inclusions in Alzheimer's disease, Lewy body diseases, and motor neuron disease also contain epitopes of alpha-internexin.",EFO:0006792,9118
+15170578,motor neuron disease,alpha-Internexin,Associated,"Small subsets of abnormal neuronal inclusions in Alzheimer's disease, Lewy body diseases, and motor neuron disease also contain epitopes of alpha-internexin.",EFO:0003782,9118
+15170578,Neuronal intermediate filament inclusion disease,alpha-Internexin,Associated,The discovery of alpha-internexin in neuronal cytoplasmic inclusions implicates novel mechanisms of pathogenesis in NIFID and other neurological diseases with pathological filamentous neuronal inclusions.,NA,9118
+15170578,NIFID,alpha-Internexin,Associated,The discovery of alpha-internexin in neuronal cytoplasmic inclusions implicates novel mechanisms of pathogenesis in NIFID and other neurological diseases with pathological filamentous neuronal inclusions.,NA,9118
+15170578,neuronal intermediate filament (IF) inclusion disease,alpha-Internexin,Associated,The discovery of alpha-internexin in neuronal cytoplasmic inclusions implicates novel mechanisms of pathogenesis in NIFID and other neurological diseases with pathological filamentous neuronal inclusions.,NA,9118
+15170578,frontotemporal dementia,alpha-Internexin,Not Associated,NA,Orphanet:282,9118
+15170578,frontotemporal dementias,alpha-Internexin,Not Associated,NA,Orphanet:282,9118
+15170578,alpha-synucleinopathies,alpha-Internexin,Not Associated,NA,DOID:0050890,9118
+15170578,tauopathies,alpha-Internexin,Not Associated,NA,EFO:0005815,9118
+15170578,neurodegenerative diseases,alpha-Internexin,Not Associated,NA,EFO:0005772,9118
+15170578,neurological diseases,alpha-Internexin,Associated,The discovery of alpha-internexin in neuronal cytoplasmic inclusions implicates novel mechanisms of pathogenesis in NIFID and other neurological diseases with pathological filamentous neuronal inclusions.,EFO:0000618,9118
+15170578,Alzheimer's disease,NF-H,Not Associated,NA,EFO:0000249,4744
+15170578,Lewy body diseases,NF-H,Not Associated,NA,EFO:0006792,4744
+15170578,motor neuron disease,NF-H,Not Associated,NA,EFO:0003782,4744
+15170578,Neuronal intermediate filament inclusion disease,NF-H,Associated,"Abnormal neuronal aggregates of alpha-internexin and the three neurofilament (NF) subunits, NF-L, NF-M, and NF-H have recently been identified as the pathological hallmarks of neuronal intermediate filament (IF) inclusion disease (NIFID), a novel neurological disease of early onset with a variable clinical phenotype including frontotemporal dementia, pyramidal and extrapyramidal signs.",NA,4744
+15170578,NIFID,NF-H,Associated,"Abnormal neuronal aggregates of alpha-internexin and the three neurofilament (NF) subunits, NF-L, NF-M, and NF-H have recently been identified as the pathological hallmarks of neuronal intermediate filament (IF) inclusion disease (NIFID), a novel neurological disease of early onset with a variable clinical phenotype including frontotemporal dementia, pyramidal and extrapyramidal signs.",NA,4744
+15170578,neuronal intermediate filament (IF) inclusion disease,NF-H,Associated,"Abnormal neuronal aggregates of alpha-internexin and the three neurofilament (NF) subunits, NF-L, NF-M, and NF-H have recently been identified as the pathological hallmarks of neuronal intermediate filament (IF) inclusion disease (NIFID), a novel neurological disease of early onset with a variable clinical phenotype including frontotemporal dementia, pyramidal and extrapyramidal signs.",NA,4744
+15170578,frontotemporal dementia,NF-H,Not Associated,NA,Orphanet:282,4744
+15170578,frontotemporal dementias,NF-H,Not Associated,NA,Orphanet:282,4744
+15170578,alpha-synucleinopathies,NF-H,Not Associated,NA,DOID:0050890,4744
+15170578,tauopathies,NF-H,Not Associated,NA,EFO:0005815,4744
+15170578,neurodegenerative diseases,NF-H,Not Associated,NA,EFO:0005772,4744
+15170578,neurological diseases,NF-H,Not Associated,NA,EFO:0000618,4744
+15170578,Alzheimer's disease,NF-L,Not Associated,NA,EFO:0000249,4747
+15170578,Lewy body diseases,NF-L,Not Associated,NA,EFO:0006792,4747
+15170578,motor neuron disease,NF-L,Not Associated,NA,EFO:0003782,4747
+15170578,Neuronal intermediate filament inclusion disease,NF-L,Associated,"Abnormal neuronal aggregates of alpha-internexin and the three neurofilament (NF) subunits, NF-L, NF-M, and NF-H have recently been identified as the pathological hallmarks of neuronal intermediate filament (IF) inclusion disease (NIFID), a novel neurological disease of early onset with a variable clinical phenotype including frontotemporal dementia, pyramidal and extrapyramidal signs.",NA,4747
+15170578,NIFID,NF-L,Associated,"Abnormal neuronal aggregates of alpha-internexin and the three neurofilament (NF) subunits, NF-L, NF-M, and NF-H have recently been identified as the pathological hallmarks of neuronal intermediate filament (IF) inclusion disease (NIFID), a novel neurological disease of early onset with a variable clinical phenotype including frontotemporal dementia, pyramidal and extrapyramidal signs.",NA,4747
+15170578,neuronal intermediate filament (IF) inclusion disease,NF-L,Associated,"Abnormal neuronal aggregates of alpha-internexin and the three neurofilament (NF) subunits, NF-L, NF-M, and NF-H have recently been identified as the pathological hallmarks of neuronal intermediate filament (IF) inclusion disease (NIFID), a novel neurological disease of early onset with a variable clinical phenotype including frontotemporal dementia, pyramidal and extrapyramidal signs.",NA,4747
+15170578,frontotemporal dementia,NF-L,Not Associated,NA,Orphanet:282,4747
+15170578,frontotemporal dementias,NF-L,Not Associated,NA,Orphanet:282,4747
+15170578,alpha-synucleinopathies,NF-L,Not Associated,NA,DOID:0050890,4747
+15170578,tauopathies,NF-L,Not Associated,NA,EFO:0005815,4747
+15170578,neurodegenerative diseases,NF-L,Not Associated,NA,EFO:0005772,4747
+15170578,neurological diseases,NF-L,Not Associated,NA,EFO:0000618,4747
+15170578,Alzheimer's disease,NF-M,Not Associated,NA,EFO:0000249,4741
+15170578,Lewy body diseases,NF-M,Not Associated,NA,EFO:0006792,4741
+15170578,motor neuron disease,NF-M,Not Associated,NA,EFO:0003782,4741
+15170578,Neuronal intermediate filament inclusion disease,NF-M,Associated,"Abnormal neuronal aggregates of alpha-internexin and the three neurofilament (NF) subunits, NF-L, NF-M, and NF-H have recently been identified as the pathological hallmarks of neuronal intermediate filament (IF) inclusion disease (NIFID), a novel neurological disease of early onset with a variable clinical phenotype including frontotemporal dementia, pyramidal and extrapyramidal signs.",NA,4741
+15170578,NIFID,NF-M,Associated,"Abnormal neuronal aggregates of alpha-internexin and the three neurofilament (NF) subunits, NF-L, NF-M, and NF-H have recently been identified as the pathological hallmarks of neuronal intermediate filament (IF) inclusion disease (NIFID), a novel neurological disease of early onset with a variable clinical phenotype including frontotemporal dementia, pyramidal and extrapyramidal signs.",NA,4741
+15170578,neuronal intermediate filament (IF) inclusion disease,NF-M,Associated,"Abnormal neuronal aggregates of alpha-internexin and the three neurofilament (NF) subunits, NF-L, NF-M, and NF-H have recently been identified as the pathological hallmarks of neuronal intermediate filament (IF) inclusion disease (NIFID), a novel neurological disease of early onset with a variable clinical phenotype including frontotemporal dementia, pyramidal and extrapyramidal signs.",NA,4741
+15170578,frontotemporal dementia,NF-M,Not Associated,NA,Orphanet:282,4741
+15170578,frontotemporal dementias,NF-M,Not Associated,NA,Orphanet:282,4741
+15170578,alpha-synucleinopathies,NF-M,Not Associated,NA,DOID:0050890,4741
+15170578,tauopathies,NF-M,Not Associated,NA,EFO:0005815,4741
+15170578,neurodegenerative diseases,NF-M,Not Associated,NA,EFO:0005772,4741
+15170578,neurological diseases,NF-M,Not Associated,NA,EFO:0000618,4741
+15611611,Lymphatic filariasis,Abundant larval transcript two,Associated,Significant differences in antibody response to the recombinant ALT-2 were observed in endemic populations with differing clinical manifestations of lymphatic filariasis ,EFO:0007272,NA
+15611611,Onchocerciasis,Abundant larval transcript two,Not Associated,NA,EFO:0007402,NA
+15611611,Lymphatic filariasis,ALT-2,Associated,Significant differences in antibody response to the recombinant ALT-2 were observed in endemic populations with differing clinical manifestations of lymphatic filariasis ,EFO:0007272,NA
+15611611,Onchocerciasis,ALT-2,Not Associated,NA,EFO:0007402,NA
+15611611,Lymphatic filariasis,SXP-1,Not Associated,NA,EFO:0007272,NA
+15611611,Onchocerciasis,SXP-1,Not Associated,NA,EFO:0007402,NA
+15611611,Lymphatic filariasis,SXP-1,Not Associated,NA,EFO:0007272,NA
+15611611,Onchocerciasis,SXP-1,Not Associated,NA,EFO:0007402,NA
+15872021,familial ALS,Cu/Zn superoxide dismutase gene,Associated,"Familial amyotrophic lateral sclerosis (FALS) is caused, in 20% of cases, by mutations in the Cu/Zn superoxide dismutase gene (SOD1). ",EFO:0001356,6647
+15872021,FALS,Cu/Zn superoxide dismutase gene,Associated,"Familial amyotrophic lateral sclerosis (FALS) is caused, in 20% of cases, by mutations in the Cu/Zn superoxide dismutase gene (SOD1). ",EFO:0001356,6647
+15872021,Familial amyotrophic lateral sclerosis,Cu/Zn superoxide dismutase gene,Associated,"Familial amyotrophic lateral sclerosis (FALS) is caused, in 20% of cases, by mutations in the Cu/Zn superoxide dismutase gene (SOD1). ",EFO:0001356,6647
+15872021,Motor neuron disease,Cu/Zn superoxide dismutase gene,Associated,Preliminary studies on isolated motor neurons from SOD1-associated motor neuron disease cases suggest key genes are also differently expressed in the human disease.,EFO:0003782,6647
+15872021,familial ALS,SOD1,Associated,"Familial amyotrophic lateral sclerosis (FALS) is caused, in 20% of cases, by mutations in the Cu/Zn superoxide dismutase gene (SOD1). ",EFO:0001356,6647
+15872021,FALS,SOD1,Associated,"Familial amyotrophic lateral sclerosis (FALS) is caused, in 20% of cases, by mutations in the Cu/Zn superoxide dismutase gene (SOD1). ",EFO:0001356,6647
+15872021,Familial amyotrophic lateral sclerosis,SOD1,Associated,"Familial amyotrophic lateral sclerosis (FALS) is caused, in 20% of cases, by mutations in the Cu/Zn superoxide dismutase gene (SOD1). ",EFO:0001356,6647
+15872021,Motor neuron disease,SOD1,Associated,Preliminary studies on isolated motor neurons from SOD1-associated motor neuron disease cases suggest key genes are also differently expressed in the human disease.,EFO:0003782,6647
+15872021,familial ALS,NRF2,Not Associated,NA,EFO:0001356,4780
+15872021,FALS,NRF2,Not Associated,NA,EFO:0001356,4780
+15872021,Familial amyotrophic lateral sclerosis,NRF2,Not Associated,NA,EFO:0001356,4780
+15872021,Motor neuron disease,NRF2,Not Associated,NA,EFO:0003782,4780
+15955451,onchocerciasis,GAPDH,Not Associated,NA,EFO:0007402,2597
+15955451,onchocerciasis,glyceraldehyde-3-phosphate dehydrogenase,Not Associated,NA,EFO:0007402,2597
+15955451,onchocerciasis,Ov-GAPDH,Not Associated,NA,EFO:0007402,2597
+16116646,ALS,Bcl-xL,Not Associated,NA,EFO:0000253,NA
+16116646,amyotrophic lateral sclerosis,Bcl-xL,Not Associated,NA,EFO:0000253,NA
+16116646,motor neuron disease,Bcl-xL,Not Associated,NA,EFO:0003782,NA
+16116646,ALS,GFP,Not Associated,NA,EFO:0000253,NA
+16116646,amyotrophic lateral sclerosis,GFP,Not Associated,NA,EFO:0000253,NA
+16116646,motor neuron disease,GFP,Not Associated,NA,EFO:0003782,NA
+16116646,ALS,green fluorescent protein,Not Associated,NA,EFO:0000253,NA
+16116646,amyotrophic lateral sclerosis,green fluorescent protein,Not Associated,NA,EFO:0000253,NA
+16116646,motor neuron disease,green fluorescent protein,Not Associated,NA,EFO:0003782,NA
+16402080,Gilbert's syndrome,N-acetyltransferase 2,Not Associated,NA,EFO:0005556,10
+16402080,GS,N-acetyltransferase 2,Not Associated,NA,EFO:0005556,10
+16402080,Gilbert's syndrome,NAT2,Not Associated,NA,EFO:0005556,10
+16402080,GS,NAT2,Not Associated,NA,EFO:0005556,10
+16402080,Gilbert's syndrome,UGT1A1,Not Associated,NA,EFO:0005556,54658
+16402080,GS,UGT1A1,Not Associated,NA,EFO:0005556,54658
+16959485,liposarcoma,pentraxin,Associated,"Among a panel of analysed genes, only pentraxin related gene (PTX3) demonstrated high expression in liposarcomas as compared to normal tissues.",EFO:0000569,5806
+16959485,Myxoid and roundcell liposarcomas,pentraxin,Not Associated,NA,EFO:0000613,5806
+16959485,Soft tissue liposarcoma,pentraxin,Associated,Overexpression of a member of the pentraxin family (PTX3) in human soft tissue liposarcoma,EFO:1001968,5806
+16959485,liposarcoma,PTX3,Associated,"Among a panel of analysed genes, only pentraxin related gene (PTX3) demonstrated high expression in liposarcomas as compared to normal tissues.",EFO:0000569,5806
+16959485,Myxoid and roundcell liposarcomas,PTX3,Not Associated,NA,EFO:0000613,5806
+16959485,Soft tissue liposarcoma,PTX3,Associated,Overexpression of a member of the pentraxin family (PTX3) in human soft tissue liposarcoma,EFO:1001968,5806
+17043238,ALS,mSOD1,Associated,"The most common inherited form of amyotrophic lateral sclerosis (ALS), a neurodegenerative disease affecting adult motoneurons, is caused by dominant mutations in the ubiquitously expressed Cu(2+)/Zn(2+) superoxide dismutase (SOD1)",EFO:0000253,6647
+17043238,amyotrophic lateral sclerosis,mSOD1,Associated,"The most common inherited form of amyotrophic lateral sclerosis (ALS), a neurodegenerative disease affecting adult motoneurons, is caused by dominant mutations in the ubiquitously expressed Cu(2+)/Zn(2+) superoxide dismutase (SOD1)",EFO:0000253,6647
+17043238,familial amyotrophic lateral sclerosis,mSOD1,Associated,"Donor-derived microglia from mice overexpressing mSOD1(G93A), an animal model of familial ALS,",EFO:0001356,6647
+17043238,familial ALS,mSOD1,Associated,"Donor-derived microglia from mice overexpressing mSOD1(G93A), an animal model of familial ALS,",EFO:0001356,6647
+17043238,motoneuron disease,mSOD1,Associated,"These data demonstrate that the expression of mSOD1(G93A) results in activated and neurotoxic microglia, and suggests that the lack of mSOD1(G93A) expression in microglia may contribute to motoneuron protection.",EFO:0003782,6647
+17043238,ALS,PU.1,Not Associated,NA,EFO:0000253,6688
+17043238,amyotrophic lateral sclerosis,PU.1,Not Associated,NA,EFO:0000253,6688
+17043238,familial amyotrophic lateral sclerosis,PU.1,Not Associated,NA,EFO:0001356,6688
+17043238,familial ALS,PU.1,Not Associated,NA,EFO:0001356,6688
+17043238,motoneuron disease,PU.1,Not Associated,NA,EFO:0003782,6688
+17043238,ALS,Cu(2+)/Zn(2+) superoxide dismutase,Associated,"The most common inherited form of amyotrophic lateral sclerosis (ALS), a neurodegenerative disease affecting adult motoneurons, is caused by dominant mutations in the ubiquitously expressed Cu(2+)/Zn(2+) superoxide dismutase (SOD1)",EFO:0000253,6647
+17043238,amyotrophic lateral sclerosis,Cu(2+)/Zn(2+) superoxide dismutase,Associated,"The most common inherited form of amyotrophic lateral sclerosis (ALS), a neurodegenerative disease affecting adult motoneurons, is caused by dominant mutations in the ubiquitously expressed Cu(2+)/Zn(2+) superoxide dismutase (SOD1)",EFO:0000253,6647
+17043238,familial amyotrophic lateral sclerosis,Cu(2+)/Zn(2+) superoxide dismutase,Associated,"Donor-derived microglia from mice overexpressing mSOD1(G93A), an animal model of familial ALS,",EFO:0001356,6647
+17043238,familial ALS,Cu(2+)/Zn(2+) superoxide dismutase,Associated,"Donor-derived microglia from mice overexpressing mSOD1(G93A), an animal model of familial ALS,",EFO:0001356,6647
+17043238,motoneuron disease,Cu(2+)/Zn(2+) superoxide dismutase,Associated,"These data demonstrate that the expression of mSOD1(G93A) results in activated and neurotoxic microglia, and suggests that the lack of mSOD1(G93A) expression in microglia may contribute to motoneuron protection.",EFO:0003782,6647
+17043238,ALS,SOD1,Associated,"The most common inherited form of amyotrophic lateral sclerosis (ALS), a neurodegenerative disease affecting adult motoneurons, is caused by dominant mutations in the ubiquitously expressed Cu(2+)/Zn(2+) superoxide dismutase (SOD1)",EFO:0000253,6647
+17043238,amyotrophic lateral sclerosis,SOD1,Associated,"The most common inherited form of amyotrophic lateral sclerosis (ALS), a neurodegenerative disease affecting adult motoneurons, is caused by dominant mutations in the ubiquitously expressed Cu(2+)/Zn(2+) superoxide dismutase (SOD1)",EFO:0000253,6647
+17043238,familial amyotrophic lateral sclerosis,SOD1,Associated,"Donor-derived microglia from mice overexpressing mSOD1(G93A), an animal model of familial ALS,",EFO:0001356,6647
+17043238,familial ALS,SOD1,Associated,"Donor-derived microglia from mice overexpressing mSOD1(G93A), an animal model of familial ALS,",EFO:0001356,6647
+17043238,motoneuron disease,SOD1,Associated,"These data demonstrate that the expression of mSOD1(G93A) results in activated and neurotoxic microglia, and suggests that the lack of mSOD1(G93A) expression in microglia may contribute to motoneuron protection.",EFO:0003782,6647
+17065513,adult-onset vitelliform macular dystrophy,hBest1,Not Associated,NA,Orphanet:99000,7439
+17065513,Best vitelliform macular dystrophy,hBest1,Associated,The disease-causing A243V mutation is associated with altered hBest1 Cl(-) channel activity,Orphanet:1243,7439
+17065513,BVMD,hBest1,Associated,The disease-causing A243V mutation is associated with altered hBest1 Cl(-) channel activity,Orphanet:1243,7439
+17065513,adult-onset vitelliform macular dystrophy,human bestrophin-1,Not Associated,NA,Orphanet:99000,7439
+17065513,Best vitelliform macular dystrophy,human bestrophin-1,Associated,The disease-causing A243V mutation is associated with altered hBest1 Cl(-) channel activity,Orphanet:1243,7439
+17065513,BVMD,human bestrophin-1,Associated,The disease-causing A243V mutation is associated with altered hBest1 Cl(-) channel activity,Orphanet:1243,7439
+17065513,adult-onset vitelliform macular dystrophy,bestrophin,Associated,"The bestrophin mutation A243V, linked to adult-onset vitelliform macular dystrophy, impairs its chloride channel function",Orphanet:99000,F176
+17065513,Best vitelliform macular dystrophy,bestrophin,Associated,The disease-causing A243V mutation is associated with altered hBest1 Cl(-) channel activity,Orphanet:1243,F176
+17065513,BVMD,bestrophin,Associated,The disease-causing A243V mutation is associated with altered hBest1 Cl(-) channel activity,Orphanet:1243,F176
+17114818,ALS,MT-III,Not Associated,NA,EFO:0000253,4504
+17114818,amyotrophic lateral sclerosis,MT-III,Not Associated,NA,EFO:0000253,4504
+17114818,motor neuron disease,MT-III,Not Associated,NA,EFO:0003782,4504
+17114818,ALS,metallothionein-I,Associated,"These results indicated that the MT-I isoform, but not the MT-III isoform, is associated with motor neuron death in ALS",EFO:0000253,17748
+17114818,amyotrophic lateral sclerosis,metallothionein-I,Associated,"These results indicated that the MT-I isoform, but not the MT-III isoform, is associated with motor neuron death in ALS",EFO:0000253,17748
+17114818,motor neuron disease,metallothionein-I,Not Associated,NA,EFO:0003782,17748
+17114818,ALS,MT-I,Associated,"These results indicated that the MT-I isoform, but not the MT-III isoform, is associated with motor neuron death in ALS",EFO:0000253,17748
+17114818,amyotrophic lateral sclerosis,MT-I,Associated,"These results indicated that the MT-I isoform, but not the MT-III isoform, is associated with motor neuron death in ALS",EFO:0000253,17748
+17114818,motor neuron disease,MT-I,Not Associated,NA,EFO:0003782,17748
+17114818,ALS,metallothionein,Not Associated,NA,EFO:0000253,F1136
+17114818,amyotrophic lateral sclerosis,metallothionein,Not Associated,NA,EFO:0000253,F1136
+17114818,motor neuron disease,metallothionein,Not Associated,NA,EFO:0003782,F1136
+17114818,ALS,MT,Not Associated,NA,EFO:0000253,F1136
+17114818,amyotrophic lateral sclerosis,MT,Not Associated,NA,EFO:0000253,F1136
+17114818,motor neuron disease,MT,Not Associated,NA,EFO:0003782,F1136
+17114818,ALS,SOD1,Not Associated,NA,EFO:0000253,6647
+17114818,amyotrophic lateral sclerosis,SOD1,Not Associated,NA,EFO:0000253,6647
+17114818,motor neuron disease,SOD1,Not Associated,NA,EFO:0003782,6647
+21275977,epilepsy,adenosine kinase,Associated,gene therapies based on the knock down of ADK might be a feasible approach to control seizures in refractory epilepsy,EFO:0000474,132
+21275977,epilepsy,ADK,Associated,gene therapies based on the knock down of ADK might be a feasible approach to control seizures in refractory epilepsy,EFO:0000474,132
+21275977,refractory epilepsy,adenosine kinase,Associated,gene therapies based on the knock down of ADK might be a feasible approach to control seizures in refractory epilepsy,EFO:0000474,132
+21275977,refractory epilepsy,ADK,Associated,gene therapies based on the knock down of ADK might be a feasible approach to control seizures in refractory epilepsy,EFO:0000474,132
+22966071,diabetes,Sterol regulatory element-binding protein-1c,Associated,"Reduction of postprandial SA is a good candidate for improving IR, and SREBP-1c is potentially a better target to prevent IR and diabetes by decreasing SA.",EFO:0000400,6720
+22966071,diabetes,SREBP-1c,Associated,"Reduction of postprandial SA is a good candidate for improving IR, and SREBP-1c is potentially a better target to prevent IR and diabetes by decreasing SA.",EFO:0000400,6720
+22966071,diabetes,acetyl-CoA carboxylase,Not Associated,NA,EFO:0000400,F2220
+22966071,diabetes,fatty acid synthase,Not Associated,NA,EFO:0000400,2194
+22966071,diabetes,elongation of long-chain fatty acid family member 6,Not Associated,NA,EFO:0000400,79071
+22966071,diabetes,ELOVL6,Not Associated,NA,EFO:0000400,79071
+23956106,ACG1A,TRIP11,Associated,"ACG1A is caused by mutations in the TRIP11 gene, resulting in deficiency of the Golgi microtubule associated protein 210",Orphanet:93299,9321
+23956106,Achondrogenesis 1A,TRIP11,Associated,"ACG1A is caused by mutations in the TRIP11 gene, resulting in deficiency of the Golgi microtubule associated protein 210",Orphanet:93299,9321
+23956106,ACG1A,Golgi microtubule associated protein 210,Associated,"ACG1A is caused by mutations in the TRIP11 gene, resulting in deficiency of the Golgi microtubule associated protein 210",Orphanet:93299,9321
+23956106,Achondrogenesis 1A,Golgi microtubule associated protein 210,Associated,"ACG1A is caused by mutations in the TRIP11 gene, resulting in deficiency of the Golgi microtubule associated protein 210",Orphanet:93299,9321
+25480913,schwannomatosis,LZTR1,Associated,"They indicate that germline mutations in LZTR1 confer an increased risk of vestibular schwannoma, providing further overlap with NF2, and that further causative genes for schwannomatosis remain to be identified.",Orphanet:93921,8216
+25480913,Unilateral vestibular schwannoma,LZTR1,Not Associated,NA,EFO:0000693,8216
+25480913,UVS,LZTR1,Not Associated,NA,EFO:0000693,8216
+25480913,vestibular schwannoma,LZTR1,Associated,"They indicate that germline mutations in LZTR1 confer an increased risk of vestibular schwannoma, providing further overlap with NF2, and that further causative genes for schwannomatosis remain to be identified.",EFO:0000693,8216
+25480913,schwannoma,LZTR1,Not Associated,NA,EFO:0000693,8216
+25480913,schwannomatosis,NF2,Not Associated,NA,Orphanet:93921,4771
+25480913,Unilateral vestibular schwannoma,NF2,Not Associated,NA,EFO:0000693,4771
+25480913,UVS,NF2,Not Associated,NA,EFO:0000693,4771
+25480913,vestibular schwannoma,NF2,Not Associated,NA,EFO:0000693,4771
+25480913,schwannoma,NF2,Not Associated,NA,EFO:0000693,4771
+25480913,schwannomatosis,SMARCB1,Not Associated,NA,Orphanet:93921,6598
+25480913,Unilateral vestibular schwannoma,SMARCB1,Not Associated,NA,EFO:0000693,6598
+25480913,UVS,SMARCB1,Not Associated,NA,EFO:0000693,6598
+25480913,vestibular schwannoma,SMARCB1,Not Associated,NA,EFO:0000693,6598
+25480913,schwannoma,SMARCB1,Not Associated,NA,EFO:0000693,6598
+26853551,Atopic Bronchial Asthma,IgE,Associated,Association with IgE among Egyptian Patients with Atopic and Nonatopic Bronchial Asthma,EFO:0010638,3497
+26853551,Nonatopic Bronchial Asthma,IgE,Associated,Association with IgE among Egyptian Patients with Atopic and Nonatopic Bronchial Asthma,EFO:0000270,3497
+26853551,Bronchial asthma,IgE,Associated,Association with IgE among Egyptian Patients with Atopic and Nonatopic Bronchial Asthma,EFO:0000270,3497
+26853551,Atopic Asthma,IL-31,Associated,SCF and IL-31 play an important role in mediating inflammation and enhancing severity of atopic asthma,EFO:0010638,386653
+26853551,Nonatopic Bronchial Asthma,IL-31,Not Associated,NA,EFO:0000270,386653
+26853551,Bronchial asthma,IL-31,Associated,stem cell factor (SCF) and interleukin-31 (IL-31) may play a major role in bronchial asthma,EFO:0000270,386653
+26853551,Atopic Asthma,Interleukin-31,Associated,SCF and IL-31 play an important role in mediating inflammation and enhancing severity of atopic asthma,EFO:0010638,386653
+26853551,Nonatopic Bronchial Asthma,Interleukin-31,Not Associated,NA,EFO:0000270,386653
+26853551,Bronchial asthma,Interleukin-31,Associated,stem cell factor (SCF) and interleukin-31 (IL-31) may play a major role in bronchial asthma,EFO:0000270,386653
+26853551,Atopic Asthma,SCF,Associated,SCF and IL-31 play an important role in mediating inflammation and enhancing severity of atopic asthma,EFO:0010638,4254
+26853551,Nonatopic Bronchial Asthma,SCF,Not Associated,NA,EFO:0000270,4254
+26853551,Bronchial asthma,SCF,Associated,stem cell factor (SCF) and interleukin-31 (IL-31) may play a major role in bronchial asthma,EFO:0000270,4254
+26853551,Atopic Asthma,Stem cell factor ,Associated,SCF and IL-31 play an important role in mediating inflammation and enhancing severity of atopic asthma,EFO:0010638,4254
+26853551,Nonatopic Bronchial Asthma,Stem cell factor ,Not Associated,NA,EFO:0000270,4254
+26853551,Bronchial asthma,Stem cell factor ,Associated,stem cell factor (SCF) and interleukin-31 (IL-31) may play a major role in bronchial asthma,EFO:0000270,4254
+27993927,Obesity,Activating transcription factor 4,Associated,Our data demonstrate a novel function of ATF4 in AgRP neurons of the hypothalamus in energy balance and lipid metabolism and suggest hypothalamic ATF4 as a potential drug target for treating obesity and its related metabolic disorders.,EFO:0001073,468
+27993927,Obesity,ATF4,Associated,Our data demonstrate a novel function of ATF4 in AgRP neurons of the hypothalamus in energy balance and lipid metabolism and suggest hypothalamic ATF4 as a potential drug target for treating obesity and its related metabolic disorders.,EFO:0001073,468
+27993927,Obesity,FOXO1,Associated,"Foxo1 expression was reduced in the arcuate nucleus (ARC) of the hypothalamus of AgRP-ATF4 KO mice, and adenovirus-mediated overexpression of FOXO1 in ARC increased the fat mass in AgRP-ATF4 KO mice",EFO:0001073,2308
+28011715,Ectodermal dysplasia-9,Hoxc13,Associated,"Ectodermal dysplasia-9 (ED-9) is a congenital condition characterized by hypotrichosis and nail dystrophy without other disorders, and Hoxc13 is a pathogenic gene for ED-9",Orphanet:79373,3229
+28011715,ED-9,Hoxc13,Associated,"Ectodermal dysplasia-9 (ED-9) is a congenital condition characterized by hypotrichosis and nail dystrophy without other disorders, and Hoxc13 is a pathogenic gene for ED-9",Orphanet:79373,3229
+28011715,hypotrichosis,Hoxc13,Associated,"Ectodermal dysplasia-9 (ED-9) is a congenital condition characterized by hypotrichosis and nail dystrophy without other disorders, and Hoxc13 is a pathogenic gene for ED-9",MONDO:0003037,3229
+28011715,Ectodermal dysplasia-9,Krt35,Not Associated,NA,Orphanet:79373,3886
+28011715,ED-9,Krt35,Not Associated,NA,Orphanet:79373,3886
+28011715,hypotrichosis,Krt35,Not Associated,NA,MONDO:0003037,3886
+28011715,Ectodermal dysplasia-9,Foxn1,Not Associated,NA,Orphanet:79373,8456
+28011715,ED-9,Foxn1,Not Associated,NA,Orphanet:79373,8456
+28011715,hypotrichosis,Foxn1,Not Associated,NA,MONDO:0003037,8456
+28011715,Ectodermal dysplasia-9,Krt85,Not Associated,NA,Orphanet:79373,53622
+28011715,ED-9,Krt85,Not Associated,NA,Orphanet:79373,53622
+28011715,hypotrichosis,Krt85,Not Associated,NA,MONDO:0003037,53622
+28386356,Atherosclerosis,alpha-smooth muscle actin,Not Associated,NA,EFO:0003914,F45
+28386356,Stroke,alpha-smooth muscle actin,Not Associated,NA,EFO:0000712,F45
+28386356,Atherosclerosis,calponin,Not Associated,NA,EFO:0003914,F227
+28386356,Stroke,calponin,Not Associated,NA,EFO:0000712,F227
+28386356,Atherosclerosis,mTOR,Not Associated,NA,EFO:0003914,2475
+28386356,Stroke,mTOR,Not Associated,NA,EFO:0000712,2475
+28386356,Atherosclerosis,osteopontin,Not Associated,NA,EFO:0003914,6696
+28386356,Stroke,osteopontin,Not Associated,NA,EFO:0000712,6696
+28386356,Atherosclerosis,p-mTOR,Not Associated,NA,EFO:0003914,2475
+28386356,Stroke,p-mTOR,Not Associated,NA,EFO:0000712,2475
+28386356,Atherosclerosis,p-P70S6K,Not Associated,NA,EFO:0003914,F1518
+28386356,Stroke,p-P70S6K,Not Associated,NA,EFO:0000712,F1518
+28386356,Atherosclerosis,P70S6K,Not Associated,NA,EFO:0003914,F1518
+28386356,Stroke,P70S6K,Not Associated,NA,EFO:0000712,F1518
+28386356,Atherosclerosis,PDGF-BB,Not Associated,NA,EFO:0003914,F1563
+28386356,Stroke,PDGF-BB,Not Associated,NA,EFO:0000712,F1563
+28386356,Atherosclerosis,Platelet derived growth factor,Not Associated,NA,EFO:0003914,F1563
+28386356,Stroke,Platelet derived growth factor,Not Associated,NA,EFO:0000712,F1563
+28386356,Atherosclerosis,α-SM-actin,Not Associated,NA,EFO:0003914,F45
+28386356,Stroke,α-SM-actin,Not Associated,NA,EFO:0000712,F45
+28386356,Atherosclerosis,α-SMA,Not Associated,NA,EFO:0003914,F45
+28386356,Stroke,α-SMA,Not Associated,NA,EFO:0000712,F45
+28588304,Adiposity,FGF21,Associated,"The FGF21 differential changes occur concomitantly with a non-induced ketosis situation (0.66±0.56 mm) in bariatric surgery, and an improvement in adiposity and insulin sensitivity induced by the three therapies",EFO:0001073,26291
+28588304,Adiposity,Fibroblast growth factor 21,Associated,"The FGF21 differential changes occur concomitantly with a non-induced ketosis situation (0.66±0.56 mm) in bariatric surgery, and an improvement in adiposity and insulin sensitivity induced by the three therapies",EFO:0001073,26291
+29455199,macroprolactinomas,Prolactin,Not Associated,NA,NA,5617
+29455199,microprolactinomas,Prolactin,Not Associated,NA,NA,5617
+29455199,normoprolactinemia,Prolactin,Not Associated,NA,NA,5617
+29455199,pituitary adenomas,Prolactin,Not Associated,NA,EFO:1000496,5617
+29455199,Prolactinomas,Prolactin,Not Associated,NA,EFO:1000496,5617
+29777476,infectious diseases,C-reactive protein,Not Associated,NA,EFO:0005741,1401
+29777476,pneumonia,C-reactive protein,Not Associated,NA,EFO:0003106,1401
+29777476,infectious diseases,CRP,Not Associated,NA,EFO:0005741,1401
+29777476,pneumonia,CRP,Not Associated,NA,EFO:0003106,1401
+29777476,infectious diseases,IL-6,Not Associated,NA,EFO:0005741,3569
+29777476,pneumonia,IL-6,Not Associated,NA,EFO:0003106,3569
+29777476,infectious diseases,interleukin-6,Not Associated,NA,EFO:0005741,3569
+29777476,pneumonia,interleukin-6,Not Associated,NA,EFO:0003106,3569
+29777476,infectious diseases,PCT,Associated,"Procalcitonin (PCT) has predictive value for patients with infectious diseases, but has not been studied in frailty",EFO:0005741,F220
+29777476,pneumonia,PCT,Associated,"Procalcitonin (PCT) has predictive value for patients with infectious diseases, but has not been studied in frailty",EFO:0003106,F220
+29777476,infectious diseases,procalcitonin,Associated,"Procalcitonin (PCT) has predictive value for patients with infectious diseases, but has not been studied in frailty",EFO:0005741,F220
+29777476,pneumonia,procalcitonin,Associated,"Procalcitonin (PCT) has predictive value for patients with infectious diseases, but has not been studied in frailty",EFO:0003106,F220
+29880043,ganglioglioma,ABL2-GAB2,Associated,"Amongst the 4 gangliogliomas without canonical MAP kinase pathway alterations identified, one epilepsy-associated tumor in the temporal lobe of a young child was found to harbor a novel ABL2-GAB2 gene fusion",EFO:0003094,NA
+29880043,ganglioglioma,BRAF,Associated,"Thirty-six harbored mutations predicted to activate the MAP kinase signaling pathway, including 18 with BRAF p.V600E mutation, 5 with variant BRAF mutation (including 4 cases with novel in-frame insertions at p.R506 in the beta3-alphaC loop of the kinase domain), 4 with BRAF fusion, 2 with KRAS mutation, 1 with RAF1 fusion, 1 with biallelic NF1 mutation, and 5 with FGFR1/2 alterations.",EFO:0003094,673
+29880043,ganglioglioma,CDKN2A,Associated,Three gangliogliomas with BRAF p.V600E mutation had concurrent CDKN2A homozygous deletion and one additionally harbored a subclonal mutation in PTEN.,EFO:0003094,1029
+29880043,ganglioglioma,FGFR1/2,Associated,"Thirty-six harbored mutations predicted to activate the MAP kinase signaling pathway, including 18 with BRAF p.V600E mutation, 5 with variant BRAF mutation (including 4 cases with novel in-frame insertions at p.R506 in the beta3-alphaC loop of the kinase domain), 4 with BRAF fusion, 2 with KRAS mutation, 1 with RAF1 fusion, 1 with biallelic NF1 mutation, and 5 with FGFR1/2 alterations.",EFO:0003094,2260
+29880043,ganglioglioma,KRAS,Associated,"Thirty-six harbored mutations predicted to activate the MAP kinase signaling pathway, including 18 with BRAF p.V600E mutation, 5 with variant BRAF mutation (including 4 cases with novel in-frame insertions at p.R506 in the beta3-alphaC loop of the kinase domain), 4 with BRAF fusion, 2 with KRAS mutation, 1 with RAF1 fusion, 1 with biallelic NF1 mutation, and 5 with FGFR1/2 alterations.",EFO:0003094,3845
+29880043,ganglioglioma,NF1,Associated,"Thirty-six harbored mutations predicted to activate the MAP kinase signaling pathway, including 18 with BRAF p.V600E mutation, 5 with variant BRAF mutation (including 4 cases with novel in-frame insertions at p.R506 in the beta3-alphaC loop of the kinase domain), 4 with BRAF fusion, 2 with KRAS mutation, 1 with RAF1 fusion, 1 with biallelic NF1 mutation, and 5 with FGFR1/2 alterations.",EFO:0003094,4763
+29880043,ganglioglioma,PTEN,Associated,Three gangliogliomas with BRAF p.V600E mutation had concurrent CDKN2A homozygous deletion and one additionally harbored a subclonal mutation in PTEN.,EFO:0003094,5728
+29880043,ganglioglioma,RAF1,Associated,"Thirty-six harbored mutations predicted to activate the MAP kinase signaling pathway, including 18 with BRAF p.V600E mutation, 5 with variant BRAF mutation (including 4 cases with novel in-frame insertions at p.R506 in the beta3-alphaC loop of the kinase domain), 4 with BRAF fusion, 2 with KRAS mutation, 1 with RAF1 fusion, 1 with biallelic NF1 mutation, and 5 with FGFR1/2 alterations.",EFO:0003094,5894
+29880043,gangliogliomas,ABL2-GAB2,Associated,"Amongst the 4 gangliogliomas without canonical MAP kinase pathway alterations identified, one epilepsy-associated tumor in the temporal lobe of a young child was found to harbor a novel ABL2-GAB2 gene fusion",EFO:0003094,NA
+29880043,gangliogliomas,BRAF,Associated,"Thirty-six harbored mutations predicted to activate the MAP kinase signaling pathway, including 18 with BRAF p.V600E mutation, 5 with variant BRAF mutation (including 4 cases with novel in-frame insertions at p.R506 in the beta3-alphaC loop of the kinase domain), 4 with BRAF fusion, 2 with KRAS mutation, 1 with RAF1 fusion, 1 with biallelic NF1 mutation, and 5 with FGFR1/2 alterations.",EFO:0003094,673
+29880043,gangliogliomas,CDKN2A,Associated,Three gangliogliomas with BRAF p.V600E mutation had concurrent CDKN2A homozygous deletion and one additionally harbored a subclonal mutation in PTEN.,EFO:0003094,1029
+29880043,gangliogliomas,FGFR1/2,Associated,"Thirty-six harbored mutations predicted to activate the MAP kinase signaling pathway, including 18 with BRAF p.V600E mutation, 5 with variant BRAF mutation (including 4 cases with novel in-frame insertions at p.R506 in the beta3-alphaC loop of the kinase domain), 4 with BRAF fusion, 2 with KRAS mutation, 1 with RAF1 fusion, 1 with biallelic NF1 mutation, and 5 with FGFR1/2 alterations.",EFO:0003094,2260
+29880043,gangliogliomas,KRAS,Associated,"Thirty-six harbored mutations predicted to activate the MAP kinase signaling pathway, including 18 with BRAF p.V600E mutation, 5 with variant BRAF mutation (including 4 cases with novel in-frame insertions at p.R506 in the beta3-alphaC loop of the kinase domain), 4 with BRAF fusion, 2 with KRAS mutation, 1 with RAF1 fusion, 1 with biallelic NF1 mutation, and 5 with FGFR1/2 alterations.",EFO:0003094,3845
+29880043,gangliogliomas,NF1,Associated,"Thirty-six harbored mutations predicted to activate the MAP kinase signaling pathway, including 18 with BRAF p.V600E mutation, 5 with variant BRAF mutation (including 4 cases with novel in-frame insertions at p.R506 in the beta3-alphaC loop of the kinase domain), 4 with BRAF fusion, 2 with KRAS mutation, 1 with RAF1 fusion, 1 with biallelic NF1 mutation, and 5 with FGFR1/2 alterations.",EFO:0003094,4763
+29880043,gangliogliomas,PTEN,Associated,Three gangliogliomas with BRAF p.V600E mutation had concurrent CDKN2A homozygous deletion and one additionally harbored a subclonal mutation in PTEN.,EFO:0003094,5728
+29880043,gangliogliomas,RAF1,Associated,"Thirty-six harbored mutations predicted to activate the MAP kinase signaling pathway, including 18 with BRAF p.V600E mutation, 5 with variant BRAF mutation (including 4 cases with novel in-frame insertions at p.R506 in the beta3-alphaC loop of the kinase domain), 4 with BRAF fusion, 2 with KRAS mutation, 1 with RAF1 fusion, 1 with biallelic NF1 mutation, and 5 with FGFR1/2 alterations.",EFO:0003094,5894
+29880043,neoplasm,ABL2-GAB2,Not Associated,NA,EFO:0000616,NA
+29880043,neoplasm,BRAF,Not Associated,NA,EFO:0000616,673
+29880043,neoplasm,CDKN2A,Not Associated,NA,EFO:0000616,1029
+29880043,neoplasm,FGFR1/2,Not Associated,NA,EFO:0000616,2260
+29880043,neoplasm,KRAS,Not Associated,NA,EFO:0000616,3845
+29880043,neoplasm,NF1,Not Associated,NA,EFO:0000616,4763
+29880043,neoplasm,PTEN,Not Associated,NA,EFO:0000616,5728
+29880043,neoplasm,RAF1,Not Associated,NA,EFO:0000616,5894
+29959045,autism,MED13L,Not Associated,NA,EFO:0003758,23389
+29959045,macroglossia,MED13L,Associated,"All 8 individuals had de novo MED13L aberrations, including two intragenic microdeletions, two frameshift, three nonsense variants, and one missense variant. Phenotypically, they all had intellectual disability, speech and motor delay, and features of the mouth (open mouth appearance, macroglossia, and/or macrostomia).",Orphanet:156207,23389
+29959045,macrostomia,MED13L,Associated,"All 8 individuals had de novo MED13L aberrations, including two intragenic microdeletions, two frameshift, three nonsense variants, and one missense variant. Phenotypically, they all had intellectual disability, speech and motor delay, and features of the mouth (open mouth appearance, macroglossia, and/or macrostomia).",Orphanet:141269,23389
+29959045,MED13L-related intellectual disability ,MED13L,Associated,"Even if most clinical features of MED13L-related intellectual disability are rather non-specific, the syndrome may be suspected in some individuals based on the association of developmental delay, speech impairment, bulbous nasal tip, and macroglossia, macrostomia, or open mouth appearance|All 8 individuals had de novo MED13L aberrations, including two intragenic microdeletions, two frameshift, three nonsense variants, and one missense variant.",NA,23389
+29959045,speech and motor delay,MED13L,Associated,"Phenotypically, they all had intellectual disability, speech and motor delay, and features of the mouth (open mouth appearance, macroglossia, and/or macrostomia).",NA,23389
+29959045,speech impairment,MED13L,Associated,"MED13L-related intellectual disability is characterized by moderate intellectual disability (ID), speech impairment, and dysmorphic facial features.",MONDO:0004730,23389
+29959045,complex congenital heart defect,MED13L,Not Associated,NA,EFO:0005207,23389
+30106368,chronic kidney disease,Adenine phosphoribosyltransferase,Associated,"Adenine phosphoribosyltransferase (APRT) deficiency (OMIM #614723) is a rare autosomal recessive defect in the purine salvage pathway that causes excessive production of 2,8-dihydroxyadenine, leading to nephrolithiasis and chronic kidney disease (CKD)",EFO:0003884,353
+30106368,CKD,Adenine phosphoribosyltransferase,Associated,"Adenine phosphoribosyltransferase (APRT) deficiency (OMIM #614723) is a rare autosomal recessive defect in the purine salvage pathway that causes excessive production of 2,8-dihydroxyadenine, leading to nephrolithiasis and chronic kidney disease (CKD)",EFO:0003884,353
+30106368,nephrolithiasis,Adenine phosphoribosyltransferase,Associated,"Adenine phosphoribosyltransferase (APRT) deficiency (OMIM #614723) is a rare autosomal recessive defect in the purine salvage pathway that causes excessive production of 2,8-dihydroxyadenine, leading to nephrolithiasis and chronic kidney disease (CKD)",EFO:0004253,353
+30106368,chronic tubulointerstitial kidney disease,Adenine phosphoribosyltransferase,Not Associated,NA,MONDO:0001085,353
+30106368,adenine phosphoribosyl transferase (APRT) deficiency,Adenine phosphoribosyltransferase,Associated,APRT deficiency,Orphanet:976,353
+30106368,Adenine phosphoribosyltransferase (APRT) deficiency,Adenine phosphoribosyltransferase,Associated,APRT deficiency,Orphanet:976,353
+30106368,APRT deficiency,Adenine phosphoribosyltransferase,Associated,APRT deficiency,Orphanet:976,353
+30106368,kidney failure,Adenine phosphoribosyltransferase,Not Associated,NA,EFO:1002048,353
+30106368,AKI,Adenine phosphoribosyltransferase,Not Associated,NA,MONDO:0002492,353
+30106368,end-stage renal disease,Adenine phosphoribosyltransferase,Not Associated,NA,EFO:0003884,353
+30106368,ESRD,Adenine phosphoribosyltransferase,Not Associated,NA,EFO:0003884,353
+30106368,chronic kidney disease,APRT,Associated,"Adenine phosphoribosyltransferase (APRT) deficiency (OMIM #614723) is a rare autosomal recessive defect in the purine salvage pathway that causes excessive production of 2,8-dihydroxyadenine, leading to nephrolithiasis and chronic kidney disease (CKD)",EFO:0003884,353
+30106368,CKD,APRT,Associated,"Adenine phosphoribosyltransferase (APRT) deficiency (OMIM #614723) is a rare autosomal recessive defect in the purine salvage pathway that causes excessive production of 2,8-dihydroxyadenine, leading to nephrolithiasis and chronic kidney disease (CKD)",EFO:0003884,353
+30106368,nephrolithiasis,APRT,Associated,"Adenine phosphoribosyltransferase (APRT) deficiency (OMIM #614723) is a rare autosomal recessive defect in the purine salvage pathway that causes excessive production of 2,8-dihydroxyadenine, leading to nephrolithiasis and chronic kidney disease (CKD)",EFO:0004253,353
+30106368,chronic tubulointerstitial kidney disease,APRT,Not Associated,NA,MONDO:0001085,353
+30106368,adenine phosphoribosyl transferase (APRT) deficiency,APRT,Associated,APRT deficiency,Orphanet:976,353
+30106368,Adenine phosphoribosyltransferase (APRT) deficiency,APRT,Associated,APRT deficiency,Orphanet:976,353
+30106368,APRT deficiency,APRT,Associated,APRT deficiency,Orphanet:976,353
+30106368,kidney failure,APRT,Not Associated,NA,EFO:1002048,353
+30106368,AKI,APRT,Not Associated,NA,MONDO:0002492,353
+30106368,end-stage renal disease,APRT,Not Associated,NA,EFO:0003884,353
+30106368,ESRD,APRT,Not Associated,NA,EFO:0003884,353
+30569443,adenoma,KCNJ5,Associated,Somatic mutations in KCNJ5 has also been described in aldosterone-producing adenomas,EFO:0000232,3762
+30569443,adenomas,KCNJ5,Associated,Somatic mutations in KCNJ5 has also been described in aldosterone-producing adenomas,EFO:0000232,3762
+30569443,adrenocortical carcinoma,KCNJ5,Not Associated,NA,MONDO:0006639,3762
+30569443,familial hyperaldosteronism,KCNJ5,Not Associated,NA,Orphanet:235936,3762
+30569443,Familial hyperaldosteronism type III,KCNJ5,Associated,"FH III is caused by germline mutations in KCNJ5, encoding the potassium channel Kir3.4.",MONDO:0013359,3762
+30569443,FH I,KCNJ5,Not Associated,NA,Orphanet:403,3762
+30569443,FH III,KCNJ5,Associated,"FH III is caused by germline mutations in KCNJ5, encoding the potassium channel Kir3.4.",MONDO:0013359,3762
+30569443,FH IV,KCNJ5,Not Associated,NA,NA,3762
+30569443,primary adrenal hyperplasia,KCNJ5,Not Associated,NA,EFO:0009148,3762
+30569443,primary hyperaldosteronism,KCNJ5,Not Associated,NA,MONDO:0001422,3762
+30569443,adenoma,Kir3.4,Associated,Somatic mutations in KCNJ5 has also been described in aldosterone-producing adenomas,EFO:0000232,3762
+30569443,adenomas,Kir3.4,Associated,Somatic mutations in KCNJ5 has also been described in aldosterone-producing adenomas,EFO:0000232,3762
+30569443,adrenocortical carcinoma,Kir3.4,Not Associated,NA,MONDO:0006639,3762
+30569443,familial hyperaldosteronism,Kir3.4,Not Associated,NA,Orphanet:235936,3762
+30569443,Familial hyperaldosteronism type III,Kir3.4,Associated,"FH III is caused by germline mutations in KCNJ5, encoding the potassium channel Kir3.4.",MONDO:0013359,3762
+30569443,FH I,Kir3.4,Not Associated,NA,Orphanet:403,3762
+30569443,FH III,Kir3.4,Associated,"FH III is caused by germline mutations in KCNJ5, encoding the potassium channel Kir3.4.",MONDO:0013359,3762
+30569443,FH IV,Kir3.4,Not Associated,NA,NA,3762
+30569443,primary adrenal hyperplasia,Kir3.4,Not Associated,NA,EFO:0009148,3762
+30569443,primary hyperaldosteronism,Kir3.4,Not Associated,NA,MONDO:0001422,3762
+30590418,mastitis,MCPIP1,Associated,MCPIP1 has an enormous potential in regulating the inflammatory response of bovine mammary epithelial cells during infection and may provide an effective therapeutic target for bovine mastitis to reduce the damage caused by inflammatory reactions,EFO:1001034,80149
+30590418,mastitis,Monocyte chemoattractant protein-induced protein 1,Associated,MCPIP1 has an enormous potential in regulating the inflammatory response of bovine mammary epithelial cells during infection and may provide an effective therapeutic target for bovine mastitis to reduce the damage caused by inflammatory reactions,EFO:1001034,80149
+30590418,mastitis,tumor necrosis factor-alpha-alpha,Not Associated,NA,EFO:1001034,7124
+30590418,mastitis,interleukin (IL)-1beta,Not Associated,NA,EFO:1001034,3553
+30590418,mastitis,IL-6,Not Associated,NA,EFO:1001034,3569
+30590418,mastitis,IL-8,Not Associated,NA,EFO:1001034,3576
+30618416,ED,kallikrein-1,Associated,Human tissue kallikrein-1 protects against the development of erectile dysfunction in a rat model of hyperhomocysteinemia.,EFO:0004234,3816
+30618416,Erectile dysfunction,kallikrein-1,Associated,Human tissue kallikrein-1 protects against the development of erectile dysfunction in a rat model of hyperhomocysteinemia.,EFO:0004234,3816
+30618416,ED,KLK1,Associated,"Compared with the 7% Met group, the TGR+7% Met group showed diminished HHcy-induced erectile dysfunction (ED), indicating the improvement caused by hKLK1",EFO:0004234,3816
+30618416,Erectile dysfunction,KLK1,Associated,"Compared with the 7% Met group, the TGR+7% Met group showed diminished HHcy-induced erectile dysfunction (ED), indicating the improvement caused by hKLK1",EFO:0004234,3816
+30618416,ED,hKLK1,Associated,"Compared with the 7% Met group, the TGR+7% Met group showed diminished HHcy-induced erectile dysfunction (ED), indicating the improvement caused by hKLK1",EFO:0004234,3816
+30618416,Erectile dysfunction,hKLK1,Associated,"Compared with the 7% Met group, the TGR+7% Met group showed diminished HHcy-induced erectile dysfunction (ED), indicating the improvement caused by hKLK1",EFO:0004234,3816
+30651794,Ankylosing spondylitis,Maternally expressed gene 3,Associated,"It was concluded that lncRNA MEG3 is downregulated in ankylosing spondylitis patients and is associated with disease activity, time of hospitalization and disease duration",EFO:0003898,55384
+30651794,Osteoporosis,Maternally expressed gene 3,Associated,"Long non-coding (lnc)RNA maternally expressed gene 3 (MEG3) has been proved to participate in osteoporosis, which features inverse pathological changes to those associated with spondylosis",EFO:0003882,55384
+30651794,Spondylosis,Maternally expressed gene 3,Associated,"Long non-coding (lnc)RNA maternally expressed gene 3 (MEG3) has been proved to participate in osteoporosis, which features inverse pathological changes to those associated with spondylosis",EFO:0000706,55384
+30651794,Ankylosing spondylitis,MEG3,Associated,"It was concluded that lncRNA MEG3 is downregulated in ankylosing spondylitis patients and is associated with disease activity, time of hospitalization and disease duration",EFO:0003898,55384
+30651794,Osteoporosis,MEG3,Associated,"Long non-coding (lnc)RNA maternally expressed gene 3 (MEG3) has been proved to participate in osteoporosis, which features inverse pathological changes to those associated with spondylosis",EFO:0003882,55384
+30651794,Spondylosis,MEG3,Associated,"Long non-coding (lnc)RNA maternally expressed gene 3 (MEG3) has been proved to participate in osteoporosis, which features inverse pathological changes to those associated with spondylosis",EFO:0000706,55384
+30673880,Alzheimer's Disease,5-HT2A receptors,Not Associated,NA,EFO:0000249,3356
+30673880,Neurodegenerative Disease,5-HT2A receptors,Not Associated,NA,EFO:0005772,3356
+30673880,NDD,5-HT2A receptors,Not Associated,NA,EFO:0005772,3356
+30673880,Parkinson's Disease,5-HT2A receptors,Associated,"Pimavanserin, a selective-serotonin inverse agonist that preferentially targets 5-HT2A receptors, while avoiding activity at dopamine and other receptors commonly targeted by antipsychotics had recently been approved by FDA to treat hallucinations and delusions in PD.",EFO:0002508,3356
+30673880,Pyschosis,5-HT2A receptors,Associated,NA,EFO:0005407,3356
+30673880,delirium,5-HT2A receptors,Associated,NA,EFO:0009267,3356
+30673880,Alzheimer's Disease,acetylcholinesterase,Associated,"There is a consensus on benefit of initiating any acetylcholinesterase inhibitor (ACHI: donepezil, rivastigmine, and galantamine) as a first line of treatment for psychosis in AD, as it may reduce and/or avoid the need for the use antipsychotics.",EFO:0000249,43
+30673880,Neurodegenerative Disease,acetylcholinesterase,Not Associated,NA,EFO:0005772,43
+30673880,NDD,acetylcholinesterase,Not Associated,NA,EFO:0005772,43
+30673880,Parkinson's Disease,acetylcholinesterase,Not Associated,NA,EFO:0002508,43
+30673880,Pyschosis,acetylcholinesterase,Associated,NA,EFO:0005407,43
+30673880,delirium,acetylcholinesterase,Associated,NA,EFO:0009267,43
+30723247,Intravenous leiomyomatosis,HOXA13,Associated,"Among these dysregulated genes, we found that HOXA13 showed a distinct dysregulated status between IVL and UM.",MONDO:0003295,3209
+30723247,IVL,HOXA13,Associated,"Among these dysregulated genes, we found that HOXA13 showed a distinct dysregulated status between IVL and UM.",MONDO:0003295,3209
+30723247,Uterine myoma,HOXA13,Associated,"Among these dysregulated genes, we found that HOXA13 showed a distinct dysregulated status between IVL and UM.",MONDO:0003061,3209
+30723247,UM,HOXA13,Associated,"Among these dysregulated genes, we found that HOXA13 showed a distinct dysregulated status between IVL and UM.",MONDO:0003061,3209
+30790560,ALT,CCDC180,Associated,"Of the identified proteins, coiled-coil domain-containing protein 180 (CCDC180) and leucine-rich repeat-containing protein 4 (LRRC4) were studied as candidate markers of ALT/WDL.",EFO:1000099,100499483
+30790560,Atypical lipomatous tumor,CCDC180,Associated,"In this study, comparable proteome analysis of FFPE tissues revealed multiple candidate marker molecules for differentiating atypical lipomatous tumor/well-differentiated liposarcoma (ALT/WDL) from lipoma. A total of 181 unique proteins were identified for ALT/WDL. Of the identified proteins, coiled-coil domain-containing protein 180 (CCDC180) and leucine-rich repeat-containing protein 4 (LRRC4) were studied as candidate markers of ALT/WDL. ",EFO:1000099,100499483
+30790560,Dedifferentiated liposarcoma,CCDC180,Associated,CCDC180 and LRRC4 immunohistochemistry clearly stained tumor cells of ALT/WDL and dedifferentiated liposarcoma and could differentiate them from lipoma with high accuracy.,EFO:0003085,100499483
+30790560,Lipoma,CCDC180,Associated,"In this study, comparable proteome analysis of FFPE tissues revealed multiple candidate marker molecules for differentiating atypical lipomatous tumor/well-differentiated liposarcoma (ALT/WDL) from lipoma. A total of 181 unique proteins were identified for ALT/WDL. Of the identified proteins, coiled-coil domain-containing protein 180 (CCDC180) and leucine-rich repeat-containing protein 4 (LRRC4) were studied as candidate markers of ALT/WDL. ",EFO:0000759,100499483
+30790560,WDL,CCDC180,Associated,"Of the identified proteins, coiled-coil domain-containing protein 180 (CCDC180) and leucine-rich repeat-containing protein 4 (LRRC4) were studied as candidate markers of ALT/WDL.",EFO:0000736,100499483
+30790560,WDLs,CCDC180,Associated,"Of the identified proteins, coiled-coil domain-containing protein 180 (CCDC180) and leucine-rich repeat-containing protein 4 (LRRC4) were studied as candidate markers of ALT/WDL.",EFO:0000736,100499483
+30790560,Well-differentiated liposarcoma,CCDC180,Associated,"In this study, comparable proteome analysis of FFPE tissues revealed multiple candidate marker molecules for differentiating atypical lipomatous tumor/well-differentiated liposarcoma (ALT/WDL) from lipoma. A total of 181 unique proteins were identified for ALT/WDL. Of the identified proteins, coiled-coil domain-containing protein 180 (CCDC180) and leucine-rich repeat-containing protein 4 (LRRC4) were studied as candidate markers of ALT/WDL. ",EFO:0000736,100499483
+30790560,liposarcoma,CCDC180,Associated,"Identification of Coiled-Coil Domain-Containing Protein 180 and Leucine-Rich Repeat-Containing Protein 4 as Potential Immunohistochemical Markers for Liposarcoma Based on Proteomic Analysis Using Formalin-Fixed, Paraffin-Embedded Tissue.",EFO:0000569,100499483
+30790560,ALT,Coiled-coil domain-containing protein 180,Associated,"Of the identified proteins, coiled-coil domain-containing protein 180 (CCDC180) and leucine-rich repeat-containing protein 4 (LRRC4) were studied as candidate markers of ALT/WDL.",EFO:1000099,100499483
+30790560,Atypical lipomatous tumor,Coiled-coil domain-containing protein 180,Associated,"In this study, comparable proteome analysis of FFPE tissues revealed multiple candidate marker molecules for differentiating atypical lipomatous tumor/well-differentiated liposarcoma (ALT/WDL) from lipoma. A total of 181 unique proteins were identified for ALT/WDL. Of the identified proteins, coiled-coil domain-containing protein 180 (CCDC180) and leucine-rich repeat-containing protein 4 (LRRC4) were studied as candidate markers of ALT/WDL. ",EFO:1000099,100499483
+30790560,Dedifferentiated liposarcoma,Coiled-coil domain-containing protein 180,Associated,CCDC180 and LRRC4 immunohistochemistry clearly stained tumor cells of ALT/WDL and dedifferentiated liposarcoma and could differentiate them from lipoma with high accuracy.,EFO:0003085,100499483
+30790560,Lipoma,Coiled-coil domain-containing protein 180,Associated,"In this study, comparable proteome analysis of FFPE tissues revealed multiple candidate marker molecules for differentiating atypical lipomatous tumor/well-differentiated liposarcoma (ALT/WDL) from lipoma. A total of 181 unique proteins were identified for ALT/WDL. Of the identified proteins, coiled-coil domain-containing protein 180 (CCDC180) and leucine-rich repeat-containing protein 4 (LRRC4) were studied as candidate markers of ALT/WDL. ",EFO:0000759,100499483
+30790560,WDL,Coiled-coil domain-containing protein 180,Associated,"Of the identified proteins, coiled-coil domain-containing protein 180 (CCDC180) and leucine-rich repeat-containing protein 4 (LRRC4) were studied as candidate markers of ALT/WDL.",EFO:0000736,100499483
+30790560,WDLs,Coiled-coil domain-containing protein 180,Associated,"Of the identified proteins, coiled-coil domain-containing protein 180 (CCDC180) and leucine-rich repeat-containing protein 4 (LRRC4) were studied as candidate markers of ALT/WDL.",EFO:0000736,100499483
+30790560,Well-differentiated liposarcoma,Coiled-coil domain-containing protein 180,Associated,"In this study, comparable proteome analysis of FFPE tissues revealed multiple candidate marker molecules for differentiating atypical lipomatous tumor/well-differentiated liposarcoma (ALT/WDL) from lipoma. A total of 181 unique proteins were identified for ALT/WDL. Of the identified proteins, coiled-coil domain-containing protein 180 (CCDC180) and leucine-rich repeat-containing protein 4 (LRRC4) were studied as candidate markers of ALT/WDL. ",EFO:0000736,100499483
+30790560,liposarcoma,Coiled-coil domain-containing protein 180,Associated,"Identification of Coiled-Coil Domain-Containing Protein 180 and Leucine-Rich Repeat-Containing Protein 4 as Potential Immunohistochemical Markers for Liposarcoma Based on Proteomic Analysis Using Formalin-Fixed, Paraffin-Embedded Tissue.",EFO:0000569,100499483
+30790560,ALT,Leucine-rich repeat-containing protein 4,Associated,"Of the identified proteins, coiled-coil domain-containing protein 180 (CCDC180) and leucine-rich repeat-containing protein 4 (LRRC4) were studied as candidate markers of ALT/WDL.",EFO:1000099,64101
+30790560,Atypical lipomatous tumor,Leucine-rich repeat-containing protein 4,Associated,"In this study, comparable proteome analysis of FFPE tissues revealed multiple candidate marker molecules for differentiating atypical lipomatous tumor/well-differentiated liposarcoma (ALT/WDL) from lipoma. A total of 181 unique proteins were identified for ALT/WDL. Of the identified proteins, coiled-coil domain-containing protein 180 (CCDC180) and leucine-rich repeat-containing protein 4 (LRRC4) were studied as candidate markers of ALT/WDL. ",EFO:1000099,64101
+30790560,Dedifferentiated liposarcoma,Leucine-rich repeat-containing protein 4,Associated,CCDC180 and LRRC4 immunohistochemistry clearly stained tumor cells of ALT/WDL and dedifferentiated liposarcoma and could differentiate them from lipoma with high accuracy.,EFO:0003085,64101
+30790560,Lipoma,Leucine-rich repeat-containing protein 4,Associated,"In this study, comparable proteome analysis of FFPE tissues revealed multiple candidate marker molecules for differentiating atypical lipomatous tumor/well-differentiated liposarcoma (ALT/WDL) from lipoma. A total of 181 unique proteins were identified for ALT/WDL. Of the identified proteins, coiled-coil domain-containing protein 180 (CCDC180) and leucine-rich repeat-containing protein 4 (LRRC4) were studied as candidate markers of ALT/WDL. ",EFO:0000759,64101
+30790560,WDL,Leucine-rich repeat-containing protein 4,Associated,"Of the identified proteins, coiled-coil domain-containing protein 180 (CCDC180) and leucine-rich repeat-containing protein 4 (LRRC4) were studied as candidate markers of ALT/WDL.",EFO:0000736,64101
+30790560,WDLs,Leucine-rich repeat-containing protein 4,Associated,"Of the identified proteins, coiled-coil domain-containing protein 180 (CCDC180) and leucine-rich repeat-containing protein 4 (LRRC4) were studied as candidate markers of ALT/WDL.",EFO:0000736,64101
+30790560,Well-differentiated liposarcoma,Leucine-rich repeat-containing protein 4,Associated,"In this study, comparable proteome analysis of FFPE tissues revealed multiple candidate marker molecules for differentiating atypical lipomatous tumor/well-differentiated liposarcoma (ALT/WDL) from lipoma. A total of 181 unique proteins were identified for ALT/WDL. Of the identified proteins, coiled-coil domain-containing protein 180 (CCDC180) and leucine-rich repeat-containing protein 4 (LRRC4) were studied as candidate markers of ALT/WDL. ",EFO:0000736,64101
+30790560,liposarcoma,Leucine-rich repeat-containing protein 4,Associated,"Identification of Coiled-Coil Domain-Containing Protein 180 and Leucine-Rich Repeat-Containing Protein 4 as Potential Immunohistochemical Markers for Liposarcoma Based on Proteomic Analysis Using Formalin-Fixed, Paraffin-Embedded Tissue.",EFO:0000569,64101
+30790560,ALT,LRRC4,Associated,"Of the identified proteins, coiled-coil domain-containing protein 180 (CCDC180) and leucine-rich repeat-containing protein 4 (LRRC4) were studied as candidate markers of ALT/WDL.",EFO:1000099,64101
+30790560,Atypical lipomatous tumor,LRRC4,Associated,"In this study, comparable proteome analysis of FFPE tissues revealed multiple candidate marker molecules for differentiating atypical lipomatous tumor/well-differentiated liposarcoma (ALT/WDL) from lipoma. A total of 181 unique proteins were identified for ALT/WDL. Of the identified proteins, coiled-coil domain-containing protein 180 (CCDC180) and leucine-rich repeat-containing protein 4 (LRRC4) were studied as candidate markers of ALT/WDL. ",EFO:1000099,64101
+30790560,Dedifferentiated liposarcoma,LRRC4,Associated,CCDC180 and LRRC4 immunohistochemistry clearly stained tumor cells of ALT/WDL and dedifferentiated liposarcoma and could differentiate them from lipoma with high accuracy.,EFO:0003085,64101
+30790560,Lipoma,LRRC4,Associated,"In this study, comparable proteome analysis of FFPE tissues revealed multiple candidate marker molecules for differentiating atypical lipomatous tumor/well-differentiated liposarcoma (ALT/WDL) from lipoma. A total of 181 unique proteins were identified for ALT/WDL. Of the identified proteins, coiled-coil domain-containing protein 180 (CCDC180) and leucine-rich repeat-containing protein 4 (LRRC4) were studied as candidate markers of ALT/WDL. ",EFO:0000759,64101
+30790560,WDL,LRRC4,Associated,"Of the identified proteins, coiled-coil domain-containing protein 180 (CCDC180) and leucine-rich repeat-containing protein 4 (LRRC4) were studied as candidate markers of ALT/WDL.",EFO:0000736,64101
+30790560,WDLs,LRRC4,Associated,"Of the identified proteins, coiled-coil domain-containing protein 180 (CCDC180) and leucine-rich repeat-containing protein 4 (LRRC4) were studied as candidate markers of ALT/WDL.",EFO:0000736,64101
+30790560,Well-differentiated liposarcoma,LRRC4,Associated,"In this study, comparable proteome analysis of FFPE tissues revealed multiple candidate marker molecules for differentiating atypical lipomatous tumor/well-differentiated liposarcoma (ALT/WDL) from lipoma. A total of 181 unique proteins were identified for ALT/WDL. Of the identified proteins, coiled-coil domain-containing protein 180 (CCDC180) and leucine-rich repeat-containing protein 4 (LRRC4) were studied as candidate markers of ALT/WDL. ",EFO:0000736,64101
+30790560,liposarcoma,LRRC4,Associated,"Identification of Coiled-Coil Domain-Containing Protein 180 and Leucine-Rich Repeat-Containing Protein 4 as Potential Immunohistochemical Markers for Liposarcoma Based on Proteomic Analysis Using Formalin-Fixed, Paraffin-Embedded Tissue.",EFO:0000569,64101
+30813413,Vitamin deficiency,let-7a,Not Associated,NA,EFO:0005878,F2221
+30813413,Vitamin deficiency,miR-23a,Associated,"Vitamin deficiency resulted in weaned pups (21 days) in growth retardation, delayed ossification, brain atrophy and cognitive deficits, along with unchanged brain level of let-7a and decreased expression of miR-34a and miR-23a",EFO:0005878,407010
+30813413,Vitamin deficiency,miR-34a,Associated,"Vitamin deficiency resulted in weaned pups (21 days) in growth retardation, delayed ossification, brain atrophy and cognitive deficits, along with unchanged brain level of let-7a and decreased expression of miR-34a and miR-23a",EFO:0005878,407040
+30969784,PCOS,matrix metalloproteinase 9,Associated,"Women with PCOS exhibit (a) increased plasma visfatin concentrations compared with controls with a similar body mass index; (b) increased VEGF production along with chronic, mild inflammation; and (c) increased MMP-9 concentrations",EFO:0000660,4318
+30969784,Polycystic ovary syndrome,matrix metalloproteinase 9,Associated,"Women with PCOS exhibit (a) increased plasma visfatin concentrations compared with controls with a similar body mass index; (b) increased VEGF production along with chronic, mild inflammation; and (c) increased MMP-9 concentrations",EFO:0000660,4318
+30969784,endocrine disorder,matrix metalloproteinase 9,Associated,"Women with PCOS exhibit (a) increased plasma visfatin concentrations compared with controls with a similar body mass index; (b) increased VEGF production along with chronic, mild inflammation; and (c) increased MMP-9 concentrations",EFO:0001379,4318
+30969784,PCOS,MMP-9,Associated,"Women with PCOS exhibit (a) increased plasma visfatin concentrations compared with controls with a similar body mass index; (b) increased VEGF production along with chronic, mild inflammation; and (c) increased MMP-9 concentrations",EFO:0000660,4318
+30969784,Polycystic ovary syndrome,MMP-9,Associated,"Women with PCOS exhibit (a) increased plasma visfatin concentrations compared with controls with a similar body mass index; (b) increased VEGF production along with chronic, mild inflammation; and (c) increased MMP-9 concentrations",EFO:0000660,4318
+30969784,endocrine disorder,MMP-9,Associated,"Women with PCOS exhibit (a) increased plasma visfatin concentrations compared with controls with a similar body mass index; (b) increased VEGF production along with chronic, mild inflammation; and (c) increased MMP-9 concentrations",EFO:0001379,4318
+30969784,PCOS,vascular endothelial growth factor,Associated,"Women with PCOS exhibit (a) increased plasma visfatin concentrations compared with controls with a similar body mass index; (b) increased VEGF production along with chronic, mild inflammation; and (c) increased MMP-9 concentrations",EFO:0000660,F1346
+30969784,Polycystic ovary syndrome,vascular endothelial growth factor,Associated,"Women with PCOS exhibit (a) increased plasma visfatin concentrations compared with controls with a similar body mass index; (b) increased VEGF production along with chronic, mild inflammation; and (c) increased MMP-9 concentrations",EFO:0000660,F1346
+30969784,endocrine disorder,vascular endothelial growth factor,Associated,"Women with PCOS exhibit (a) increased plasma visfatin concentrations compared with controls with a similar body mass index; (b) increased VEGF production along with chronic, mild inflammation; and (c) increased MMP-9 concentrations",EFO:0001379,F1346
+30969784,PCOS,VEGF,Associated,"Women with PCOS exhibit (a) increased plasma visfatin concentrations compared with controls with a similar body mass index; (b) increased VEGF production along with chronic, mild inflammation; and (c) increased MMP-9 concentrations",EFO:0000660,F1346
+30969784,Polycystic ovary syndrome,VEGF,Associated,"Women with PCOS exhibit (a) increased plasma visfatin concentrations compared with controls with a similar body mass index; (b) increased VEGF production along with chronic, mild inflammation; and (c) increased MMP-9 concentrations",EFO:0000660,F1346
+30969784,endocrine disorder,VEGF,Associated,"Women with PCOS exhibit (a) increased plasma visfatin concentrations compared with controls with a similar body mass index; (b) increased VEGF production along with chronic, mild inflammation; and (c) increased MMP-9 concentrations",EFO:0001379,F1346
+30969784,PCOS,visfatin,Associated,"Women with PCOS exhibit (a) increased plasma visfatin concentrations compared with controls with a similar body mass index; (b) increased VEGF production along with chronic, mild inflammation; and (c) increased MMP-9 concentrations",EFO:0000660,10135
+30969784,Polycystic ovary syndrome,visfatin,Associated,"Women with PCOS exhibit (a) increased plasma visfatin concentrations compared with controls with a similar body mass index; (b) increased VEGF production along with chronic, mild inflammation; and (c) increased MMP-9 concentrations",EFO:0000660,10135
+30969784,endocrine disorder,visfatin,Associated,"Women with PCOS exhibit (a) increased plasma visfatin concentrations compared with controls with a similar body mass index; (b) increased VEGF production along with chronic, mild inflammation; and (c) increased MMP-9 concentrations",EFO:0001379,10135
+30972627,schizophrenia,actin,Not Associated,NA,EFO:0000692,F94
+30972627,schizophrenia,CCL-11,Associated,"These dysfunctions in the intestinal paracellular route together with lowered natural IgM, immune activation, and production of CCL-11 and TRYCATs contribute to the phenomenology of deficit schizophrenia",EFO:0000692,6356
+30972627,schizophrenia,E-cadherin,Not Associated,NA,EFO:0000692,999
+30972627,schizophrenia,haptoglobin,Associated,"In 2001, the first author of this paper reported that schizophrenia is associated with an increased frequency of the haptoglobin (Hp)-2 gene.",EFO:0000692,3240
+30972627,schizophrenia,Hp-2,Associated,"In 2001, the first author of this paper reported that schizophrenia is associated with an increased frequency of the haptoglobin (Hp)-2 gene.",EFO:0000692,3240
+30972627,schizophrenia,occludin,Associated,"IgM responses to zonulin were positively associated with schizophrenia (versus controls), while IgM to occludin was significantly associated with deficit schizophrenia (versus non-deficit schizophrenia and controls).",EFO:0000692,100506658
+30972627,schizophrenia,talin,Not Associated,NA,EFO:0000692,F2222
+30972627,schizophrenia,vinculin,Not Associated,NA,EFO:0000692,7414
+30972627,schizophrenia,zonulin,Associated,"IgM responses to zonulin were positively associated with schizophrenia (versus controls), while IgM to occludin was significantly associated with deficit schizophrenia (versus non-deficit schizophrenia and controls).",EFO:0000692,3240
+30973282,adult orbital xanthogranulomatous disease,IFN-gamma,Associated,"IL-17 and IFN-gamma, the classical markers of Th1 and Th17 cells, were increased in AOXGD. CONCLUSION: These data implied that the IL6~JAK2/STAT3-TIMP-1 signalling pathway is activated in AOXGD and that adaptive Th1 and Th17 responses are involved in the development of AOXGD.",MONDO:0024611,3458
+30973282,AOXGD,IFN-gamma,Associated,"IL-17 and IFN-gamma, the classical markers of Th1 and Th17 cells, were increased in AOXGD. CONCLUSION: These data implied that the IL6~JAK2/STAT3-TIMP-1 signalling pathway is activated in AOXGD and that adaptive Th1 and Th17 responses are involved in the development of AOXGD.",MONDO:0024611,3458
+30973282,non-Langerhans histiocytosis,IFN-gamma,Associated,NA,MONDO:0015531,3458
+30973282,adult orbital xanthogranulomatous disease,IL-17,Associated,"IL-17 and IFN-gamma, the classical markers of Th1 and Th17 cells, were increased in AOXGD. CONCLUSION: These data implied that the IL6~JAK2/STAT3-TIMP-1 signalling pathway is activated in AOXGD and that adaptive Th1 and Th17 responses are involved in the development of AOXGD.",MONDO:0024611,F950
+30973282,AOXGD,IL-17,Associated,"IL-17 and IFN-gamma, the classical markers of Th1 and Th17 cells, were increased in AOXGD. CONCLUSION: These data implied that the IL6~JAK2/STAT3-TIMP-1 signalling pathway is activated in AOXGD and that adaptive Th1 and Th17 responses are involved in the development of AOXGD.",MONDO:0024611,F950
+30973282,non-Langerhans histiocytosis,IL-17,Associated,NA,MONDO:0015531,F950
+30973282,adult orbital xanthogranulomatous disease,IL-6,Associated,IL-6 and TIMP-1 were significantly increased in AOXGD tissues,MONDO:0024611,3569
+30973282,AOXGD,IL-6,Associated,IL-6 and TIMP-1 were significantly increased in AOXGD tissues,MONDO:0024611,3569
+30973282,non-Langerhans histiocytosis,IL-6,Associated,NA,MONDO:0015531,3569
+30973282,adult orbital xanthogranulomatous disease,JAK2,Associated,IL-6 and TIMP-1 were significantly increased in AOXGD tissues. IL-6 promoted TIMP-1 production by M1 macrophages by stimulating the phosphorylation of JAK2 and STAT3,MONDO:0024611,3717
+30973282,AOXGD,JAK2,Associated,IL-6 and TIMP-1 were significantly increased in AOXGD tissues. IL-6 promoted TIMP-1 production by M1 macrophages by stimulating the phosphorylation of JAK2 and STAT3,MONDO:0024611,3717
+30973282,non-Langerhans histiocytosis,JAK2,Associated,NA,MONDO:0015531,3717
+30973282,adult orbital xanthogranulomatous disease,STAT3,Associated,IL-6 and TIMP-1 were significantly increased in AOXGD tissues. IL-6 promoted TIMP-1 production by M1 macrophages by stimulating the phosphorylation of JAK2 and STAT3,MONDO:0024611,6774
+30973282,AOXGD,STAT3,Associated,IL-6 and TIMP-1 were significantly increased in AOXGD tissues. IL-6 promoted TIMP-1 production by M1 macrophages by stimulating the phosphorylation of JAK2 and STAT3,MONDO:0024611,6774
+30973282,non-Langerhans histiocytosis,STAT3,Associated,NA,MONDO:0015531,6774
+30973282,adult orbital xanthogranulomatous disease,TIMP-1,Associated,IL-6 and TIMP-1 were significantly increased in AOXGD tissues,MONDO:0024611,7076
+30973282,AOXGD,TIMP-1,Associated,IL-6 and TIMP-1 were significantly increased in AOXGD tissues,MONDO:0024611,7076
+30973282,non-Langerhans histiocytosis,TIMP-1,Associated,NA,MONDO:0015531,7076
+31019001,Cryptococcus neoformans,Gal-3,Associated,The finding that Gal-3 has effects against P. brasiliensis together with previously reported effects against Cryptococcus neoformans suggests that molecule has a general antifungal role in innate defenses against fungal pathogens.,EFO:0007229,3958
+31019001,P. brasiliensis,Gal-3,Associated,"Our results suggest a direct role for Gal-3 in P. brasiliensis infection, with beneficial effects for the mammalian host.",EFO:0007417,3958
+31019001,P. brasiliensis infection,Gal-3,Associated,"Our results suggest a direct role for Gal-3 in P. brasiliensis infection, with beneficial effects for the mammalian host.",EFO:0007417,3958
+31019001,Paracoccidioidomycosis,Gal-3,Associated,"The thermodimorphic pathogenic fungi Paracoccidioides brasiliensis and Paracoccidioides lutzii are the etiologic causes of paracoccidioidomycosis (PCM), the most prevalent systemic mycosis in Latin America. Galectin-3 (Gal-3), an animal β-galactoside-binding protein, modulates important roles during microbial infections, such as triggering a Th2-polarized immune response in PCM. ",EFO:0007417,3958
+31019001,PCM,Gal-3,Associated,"Galectin-3 (Gal-3), an animal β-galactoside-binding protein, modulates important roles during microbial infections, such as triggering a Th2-polarized immune response in PCM.",EFO:0007417,3958
+31019001,systemic mycosis,Gal-3,Not Associated,NA,MONDO:0000256,3958
+31019001,Cryptococcus neoformans,Galectin-3,Associated,The finding that Gal-3 has effects against P. brasiliensis together with previously reported effects against Cryptococcus neoformans suggests that molecule has a general antifungal role in innate defenses against fungal pathogens.,EFO:0007229,3958
+31019001,P. brasiliensis,Galectin-3,Associated,"Our results suggest a direct role for Gal-3 in P. brasiliensis infection, with beneficial effects for the mammalian host.",EFO:0007417,3958
+31019001,P. brasiliensis infection,Galectin-3,Associated,"Our results suggest a direct role for Gal-3 in P. brasiliensis infection, with beneficial effects for the mammalian host.",EFO:0007417,3958
+31019001,Paracoccidioidomycosis,Galectin-3,Associated,"The thermodimorphic pathogenic fungi Paracoccidioides brasiliensis and Paracoccidioides lutzii are the etiologic causes of paracoccidioidomycosis (PCM), the most prevalent systemic mycosis in Latin America. Galectin-3 (Gal-3), an animal β-galactoside-binding protein, modulates important roles during microbial infections, such as triggering a Th2-polarized immune response in PCM. ",EFO:0007417,3958
+31019001,PCM,Galectin-3,Associated,"Galectin-3 (Gal-3), an animal β-galactoside-binding protein, modulates important roles during microbial infections, such as triggering a Th2-polarized immune response in PCM.",EFO:0007417,3958
+31019001,systemic mycosis,Galectin-3,Not Associated,NA,MONDO:0000256,3958
+31062130,OEPLs,BRAF,Not Associated,NA,EFO:0006566,673
+31062130,oral epithelial precursor lesions,BRAF,Not Associated,NA,EFO:0006566,673
+31062130,oral squamous cell carcinoma,BRAF,Not Associated,NA,EFO:0000199,673
+31062130,OSCC,BRAF,Not Associated,NA,EFO:0000199,673
+31062130,leukoplakia,BRAF,Not Associated,NA,MONDO:0043243,673
+31062130,LP,BRAF,Not Associated,NA,MONDO:0043243,673
+31062130,low-grade epithelial dysplasia,BRAF,Not Associated,NA,EFO:0006566,673
+31062130,high-grade epithelial dysplasia,BRAF,Not Associated,NA,EFO:0006566,673
+31062130,HD,BRAF,Not Associated,NA,EFO:0006566,673
+31062130,OEPL,HRAS,Not Associated,NA,EFO:0006566,3265
+31062130,oral epithelial precursor lesions,HRAS,Not Associated,NA,EFO:0006566,3265
+31062130,oral squamous cell carcinoma,HRAS,Not Associated,NA,EFO:0000199,3265
+31062130,OSCC,HRAS,Not Associated,NA,EFO:0000199,3265
+31062130,leukoplakia,HRAS,Not Associated,NA,MONDO:0043243,3265
+31062130,LP,HRAS,Not Associated,NA,MONDO:0043243,3265
+31062130,low-grade epithelial dysplasia,HRAS,Not Associated,NA,EFO:0006566,3265
+31062130,high-grade epithelial dysplasia,HRAS,Not Associated,NA,EFO:0006566,3265
+31062130,HD,HRAS,Not Associated,NA,EFO:0006566,3265
+31062130,OEPL,KRAS,Not Associated,NA,EFO:0006566,3845
+31062130,oral epithelial precursor lesions,KRAS,Not Associated,NA,EFO:0006566,3845
+31062130,oral squamous cell carcinoma,KRAS,Associated,KRAS and NRAS expression was significantly lower in OSCC than in OEPLs,EFO:0000199,3845
+31062130,OSCC,KRAS,Associated,KRAS and NRAS expression was significantly lower in OSCC than in OEPLs,EFO:0000199,3845
+31062130,leukoplakia,KRAS,Not Associated,NA,MONDO:0043243,3845
+31062130,LP,KRAS,Not Associated,NA,MONDO:0043243,3845
+31062130,low-grade epithelial dysplasia,KRAS,Not Associated,NA,EFO:0006566,3845
+31062130,high-grade epithelial dysplasia,KRAS,Not Associated,NA,EFO:0006566,3845
+31062130,HD,KRAS,Not Associated,NA,EFO:0006566,3845
+31062130,OEPL,NRAS,Not Associated,NA,EFO:0006566,4893
+31062130,oral epithelial precursor lesions,NRAS,Not Associated,NA,EFO:0006566,4893
+31062130,oral squamous cell carcinoma,NRAS,Associated,KRAS and NRAS expression was significantly lower in OSCC than in OEPLs,EFO:0000199,4893
+31062130,OSCC,NRAS,Associated,KRAS and NRAS expression was significantly lower in OSCC than in OEPLs,EFO:0000199,4893
+31062130,leukoplakia,NRAS,Not Associated,NA,MONDO:0043243,4893
+31062130,LP,NRAS,Not Associated,NA,MONDO:0043243,4893
+31062130,low-grade epithelial dysplasia,NRAS,Not Associated,NA,EFO:0006566,4893
+31062130,high-grade epithelial dysplasia,NRAS,Not Associated,NA,EFO:0006566,4893
+31062130,HD,NRAS,Not Associated,NA,EFO:0006566,4893
+31062130,OEPL,pAkt,Not Associated,NA,EFO:0006566,F1517
+31062130,oral epithelial precursor lesions,pAkt,Not Associated,NA,EFO:0006566,F1517
+31062130,oral squamous cell carcinoma,pAkt,Associated,pAkt and pmTOR showed higher expression in OSCC than in OEPLs,EFO:0000199,F1517
+31062130,OSCC,pAkt,Associated,pAkt and pmTOR showed higher expression in OSCC than in OEPLs,EFO:0000199,F1517
+31062130,leukoplakia,pAkt,Not Associated,NA,MONDO:0043243,F1517
+31062130,LP,pAkt,Not Associated,NA,MONDO:0043243,F1517
+31062130,low-grade epithelial dysplasia,pAkt,Not Associated,NA,EFO:0006566,F1517
+31062130,high-grade epithelial dysplasia,pAkt,Not Associated,NA,EFO:0006566,F1517
+31062130,HD,pAkt,Not Associated,NA,EFO:0006566,F1517
+31062130,OEPL,pERK1/2,Not Associated,NA,EFO:0006566,F1536
+31062130,oral epithelial precursor lesions,pERK1/2,Not Associated,NA,EFO:0006566,F1536
+31062130,oral squamous cell carcinoma,pERK1/2,Not Associated,NA,EFO:0000199,F1536
+31062130,OSCC,pERK1/2,Not Associated,NA,EFO:0000199,F1536
+31062130,leukoplakia,pERK1/2,Not Associated,NA,MONDO:0043243,F1536
+31062130,LP,pERK1/2,Not Associated,NA,MONDO:0043243,F1536
+31062130,low-grade epithelial dysplasia,pERK1/2,Not Associated,NA,EFO:0006566,F1536
+31062130,high-grade epithelial dysplasia,pERK1/2,Not Associated,NA,EFO:0006566,F1536
+31062130,HD,pERK1/2,Associated,pERK1/2 expression was significantly higher in HD than in LP,EFO:0006566,F1536
+31062130,OEPL,pmTOR,Not Associated,NA,EFO:0006566,2475
+31062130,oral epithelial precursor lesions,pmTOR,Not Associated,NA,EFO:0006566,2475
+31062130,oral squamous cell carcinoma,pmTOR,Associated,pAkt and pmTOR showed higher expression in OSCC than in OEPLs,EFO:0000199,2475
+31062130,OSCC,pmTOR,Associated,pAkt and pmTOR showed higher expression in OSCC than in OEPLs,EFO:0000199,2475
+31062130,leukoplakia,pmTOR,Not Associated,NA,MONDO:0043243,2475
+31062130,LP,pmTOR,Not Associated,NA,MONDO:0043243,2475
+31062130,low-grade epithelial dysplasia,pmTOR,Not Associated,NA,EFO:0006566,2475
+31062130,high-grade epithelial dysplasia,pmTOR,Not Associated,NA,EFO:0006566,2475
+31062130,HD,pmTOR,Not Associated,NA,EFO:0006566,2475
+31062130,OEPL,pSTAT3,Not Associated,NA,EFO:0006566,6774
+31062130,oral epithelial precursor lesions,pSTAT3,Not Associated,NA,EFO:0006566,6774
+31062130,oral squamous cell carcinoma,pSTAT3,Not Associated,NA,EFO:0000199,6774
+31062130,OSCC,pSTAT3,Not Associated,NA,EFO:0000199,6774
+31062130,leukoplakia,pSTAT3,Not Associated,NA,MONDO:0043243,6774
+31062130,LP,pSTAT3,Not Associated,NA,MONDO:0043243,6774
+31062130,low-grade epithelial dysplasia,pSTAT3,Not Associated,NA,EFO:0006566,6774
+31062130,high-grade epithelial dysplasia,pSTAT3,Not Associated,NA,EFO:0006566,6774
+31062130,HD,pSTAT3,Not Associated,NA,EFO:0006566,6774
+31072570,Fibrosis,alpha-smooth muscle actin,Not Associated,NA,EFO:0006890,59
+31072570,Heart failure,alpha-smooth muscle actin,Associated,"Inhibition of TGF-beta1 receptor kinase in HF MyoFb promotes dedifferentiation of MyoFb with loss of alpha-smooth muscle actin and depolymerization of stress fibers, and reduces the expression of profibrotic genes and cytokines levels to non-HF levels.",EFO:0003144,59
+31072570,HF,alpha-smooth muscle actin,Associated,"Inhibition of TGF-beta1 receptor kinase in HF MyoFb promotes dedifferentiation of MyoFb with loss of alpha-smooth muscle actin and depolymerization of stress fibers, and reduces the expression of profibrotic genes and cytokines levels to non-HF levels.",EFO:0003144,59
+31072570,dilated cardiomyopathy,alpha-smooth muscle actin,Not Associated,NA,EFO:0000407,59
+31072570,Fibrosis,lysyl oxidase,Not Associated,NA,EFO:0006890,4015
+31072570,Heart failure,lysyl oxidase,Associated,"Interstitial fibrosis with cross-linked collagen is prominent in HF hearts, with presence of activated MyoFbs. Tissue levels of transforming growth factor (TGF)-beta1, lysyl oxidase, periostin, and osteopontin are elevated.",EFO:0003144,4015
+31072570,HF,lysyl oxidase,Associated,"Interstitial fibrosis with cross-linked collagen is prominent in HF hearts, with presence of activated MyoFbs. Tissue levels of transforming growth factor (TGF)-beta1, lysyl oxidase, periostin, and osteopontin are elevated.",EFO:0003144,4015
+31072570,dilated cardiomyopathy,lysyl oxidase,Not Associated,NA,EFO:0000407,4015
+31072570,Fibrosis,osteopontin,Not Associated,NA,EFO:0006890,6696
+31072570,Heart failure,osteopontin,Associated,"Interstitial fibrosis with cross-linked collagen is prominent in HF hearts, with presence of activated MyoFbs. Tissue levels of transforming growth factor (TGF)-beta1, lysyl oxidase, periostin, and osteopontin are elevated.",EFO:0003144,6696
+31072570,HF,osteopontin,Associated,"Interstitial fibrosis with cross-linked collagen is prominent in HF hearts, with presence of activated MyoFbs. Tissue levels of transforming growth factor (TGF)-beta1, lysyl oxidase, periostin, and osteopontin are elevated.",EFO:0003144,6696
+31072570,dilated cardiomyopathy,osteopontin,Not Associated,NA,EFO:0000407,6696
+31072570,Fibrosis,periostin,Not Associated,NA,EFO:0006890,10631
+31072570,Heart failure,periostin,Associated,"Interstitial fibrosis with cross-linked collagen is prominent in HF hearts, with presence of activated MyoFbs. Tissue levels of transforming growth factor (TGF)-beta1, lysyl oxidase, periostin, and osteopontin are elevated.",EFO:0003144,10631
+31072570,HF,periostin,Associated,"Interstitial fibrosis with cross-linked collagen is prominent in HF hearts, with presence of activated MyoFbs. Tissue levels of transforming growth factor (TGF)-beta1, lysyl oxidase, periostin, and osteopontin are elevated.",EFO:0003144,10631
+31072570,dilated cardiomyopathy,periostin,Not Associated,NA,EFO:0000407,10631
+31072570,Fibrosis,transforming growth factor (TGF)-beta1,Not Associated,NA,EFO:0006890,7040
+31072570,Heart failure,transforming growth factor (TGF)-beta1,Associated,"Inhibition of TGF-beta1 receptor kinase in HF MyoFb promotes dedifferentiation of MyoFb with loss of alpha-smooth muscle actin and depolymerization of stress fibers, and reduces the expression of profibrotic genes and cytokines levels to non-HF levels.",EFO:0003144,7040
+31072570,HF,transforming growth factor (TGF)-beta1,Associated,"Inhibition of TGF-beta1 receptor kinase in HF MyoFb promotes dedifferentiation of MyoFb with loss of alpha-smooth muscle actin and depolymerization of stress fibers, and reduces the expression of profibrotic genes and cytokines levels to non-HF levels.",EFO:0003144,7040
+31072570,dilated cardiomyopathy,transforming growth factor (TGF)-beta1,Not Associated,NA,EFO:0000407,7040
+31072570,Fibrosis,TGF-beta1 receptor kinase,Not Associated,NA,EFO:0006890,F1559
+31072570,Heart failure,TGF-beta1 receptor kinase,Associated,"Inhibition of TGF-beta1 receptor kinase in HF MyoFb promotes dedifferentiation of MyoFb with loss of alpha-smooth muscle actin and depolymerization of stress fibers, and reduces the expression of profibrotic genes and cytokines levels to non-HF levels.",EFO:0003144,F1559
+31072570,HF,TGF-beta1 receptor kinase,Associated,"Inhibition of TGF-beta1 receptor kinase in HF MyoFb promotes dedifferentiation of MyoFb with loss of alpha-smooth muscle actin and depolymerization of stress fibers, and reduces the expression of profibrotic genes and cytokines levels to non-HF levels.",EFO:0003144,F1559
+31072570,dilated cardiomyopathy,TGF-beta1 receptor kinase,Not Associated,NA,EFO:0000407,F1559
+31374059,endometriosis,CA125,Not Associated,NA,EFO:0001065,94025
+31374059,Female infertility,CA125,Not Associated,NA,EFO:0008560,94025
+31520422,asthma,mmu-miR-218-5p,Associated,"Intriguingly, mmu-miR-218-5p overexpression suppressed airway hyperresponsiveness, eosinophilic airway inflammation and Ctnnd2 upregulation in the mouse model.",EFO:0000270,723822
+31520422,asthma,CCL26,Associated,"Epithelial miR-218-5p plays a protective role in eosinophilic airway inflammation via targeting CTNND2, a novel catenin in asthma, and suppressing chemokine CCL26 expression.",EFO:0000270,10344
+31520422,asthma,CTNND2,Associated,"Remarkably, CTNND2 was the most significantly up-regulated catenin compared with the other 11 catenin family members in bronchial brushings of asthma patients, IL-13-stimulated HBE and BEAS-2B cells.",EFO:0000270,1501
+31520422,asthma,delta-catenin,Associated,"MicroRNA-218-5p plays a protective role in eosinophilic airway inflammation via targeting delta-catenin, a novel catenin in asthma.",EFO:0000270,1501
+31520422,asthma,IL-13,Not Associated,NA,EFO:0000270,3596
+31520422,asthma,MicroRNA (miR)-218-5p,Associated,"Epithelial miR-218-5p plays a protective role in eosinophilic airway inflammation via targeting CTNND2, a novel catenin in asthma, and suppressing chemokine CCL26 expression",EFO:0000270,407000
+31520422,asthma,miR-218-5p,Associated,"Epithelial miR-218-5p plays a protective role in eosinophilic airway inflammation via targeting CTNND2, a novel catenin in asthma, and suppressing chemokine CCL26 expression",EFO:0000270,407000
+31520422,asthma,Ctnnd2,Associated,"Intriguingly, mmu-miR-218-5p overexpression suppressed airway hyperresponsiveness, eosinophilic airway inflammation and Ctnnd2 upregulation in the mouse model.",EFO:0000270,1501
+31574230,Brucellosis,Interleukin 2,Not Associated,NA,EFO:0007185,3558
+31574858,gallstones,NTCP,Associated,"In addition, it was determined that the clinical features in the patient with gallstones may have been caused by NTCP deficiency.",EFO:0004210,6554
+31574858,liver dysfunction,NTCP,Associated,"Until now, the recognition of sodium taurocholate cotransporting polypeptide (NTCP) deficiency has been mainly based on sporadic case reports. It was previously believed to be mildly symptomatic and resulting in mild liver dysfunction.",EFO:0001421,6554
+31574858,liver diseases,NTCP,Not Associated,NA,EFO:0001421,6554
+31574858,gallstones,SLC10A1,Not Associated,NA,EFO:0004210,6554
+31574858,liver dysfunction,SLC10A1,Not Associated,NA,EFO:0001421,6554
+31574858,liver diseases,SLC10A1,Not Associated,NA,EFO:0001421,6554
+31589790,SC,Activin receptor 2A,Associated,Synovial chondromatosis (SC) is a rare benign cartilaginous neoplasm in which recurrent fibronectin 1 (FN1) and activin receptor 2A (ACVR2A) gene rearrangements have been recently reported,EFO:1000557,92
+31589790,Synovial chondromatosis,Activin receptor 2A,Associated,Synovial chondromatosis (SC) is a rare benign cartilaginous neoplasm in which recurrent fibronectin 1 (FN1) and activin receptor 2A (ACVR2A) gene rearrangements have been recently reported,EFO:1000557,92
+31589790,synovial chondrosarcoma,Activin receptor 2A,Associated,Synovial chondromatosis (SC) is a rare benign cartilaginous neoplasm in which recurrent fibronectin 1 (FN1) and activin receptor 2A (ACVR2A) gene rearrangements have been recently reported,EFO:1000557,92
+31589790,SC,ACVR2A,Associated,Synovial chondromatosis (SC) is a rare benign cartilaginous neoplasm in which recurrent fibronectin 1 (FN1) and activin receptor 2A (ACVR2A) gene rearrangements have been recently reported,EFO:1000557,92
+31589790,Synovial chondromatosis,ACVR2A,Associated,Synovial chondromatosis (SC) is a rare benign cartilaginous neoplasm in which recurrent fibronectin 1 (FN1) and activin receptor 2A (ACVR2A) gene rearrangements have been recently reported,EFO:1000557,92
+31589790,synovial chondrosarcoma,ACVR2A,Associated,Synovial chondromatosis (SC) is a rare benign cartilaginous neoplasm in which recurrent fibronectin 1 (FN1) and activin receptor 2A (ACVR2A) gene rearrangements have been recently reported,EFO:1000557,92
+31589790,SC,BCOR,Associated,Triggered by a case of malignant transformation in SC (synovial chondrosarcoma) showing a novel KMT2A-BCOR gene fusion by targeted RNA sequencing,EFO:1000557,54880
+31589790,Synovial chondromatosis,BCOR,Associated,Triggered by a case of malignant transformation in SC (synovial chondrosarcoma) showing a novel KMT2A-BCOR gene fusion by targeted RNA sequencing,EFO:1000557,54880
+31589790,synovial chondrosarcoma,BCOR,Associated,Triggered by a case of malignant transformation in SC (synovial chondrosarcoma) showing a novel KMT2A-BCOR gene fusion by targeted RNA sequencing,EFO:1000557,54880
+31589790,SC,Fibronectin 1,Associated,Synovial chondromatosis (SC) is a rare benign cartilaginous neoplasm in which recurrent fibronectin 1 (FN1) and activin receptor 2A (ACVR2A) gene rearrangements have been recently reported,EFO:1000557,2335
+31589790,Synovial chondromatosis,Fibronectin 1,Associated,Synovial chondromatosis (SC) is a rare benign cartilaginous neoplasm in which recurrent fibronectin 1 (FN1) and activin receptor 2A (ACVR2A) gene rearrangements have been recently reported,EFO:1000557,2335
+31589790,synovial chondrosarcoma,Fibronectin 1,Associated,Synovial chondromatosis (SC) is a rare benign cartilaginous neoplasm in which recurrent fibronectin 1 (FN1) and activin receptor 2A (ACVR2A) gene rearrangements have been recently reported,EFO:1000557,2335
+31589790,SC,FN1,Associated,Synovial chondromatosis (SC) is a rare benign cartilaginous neoplasm in which recurrent fibronectin 1 (FN1) and activin receptor 2A (ACVR2A) gene rearrangements have been recently reported,EFO:1000557,2335
+31589790,Synovial chondromatosis,FN1,Associated,Synovial chondromatosis (SC) is a rare benign cartilaginous neoplasm in which recurrent fibronectin 1 (FN1) and activin receptor 2A (ACVR2A) gene rearrangements have been recently reported,EFO:1000557,2335
+31589790,synovial chondrosarcoma,FN1,Associated,Synovial chondromatosis (SC) is a rare benign cartilaginous neoplasm in which recurrent fibronectin 1 (FN1) and activin receptor 2A (ACVR2A) gene rearrangements have been recently reported,EFO:1000557,2335
+31589790,SC,KMT2A,Associated,Triggered by a case of malignant transformation in SC (synovial chondrosarcoma) showing a novel KMT2A-BCOR gene fusion by targeted RNA sequencing,EFO:1000557,4297
+31589790,Synovial chondromatosis,KMT2A,Associated,Triggered by a case of malignant transformation in SC (synovial chondrosarcoma) showing a novel KMT2A-BCOR gene fusion by targeted RNA sequencing,EFO:1000557,4297
+31589790,synovial chondrosarcoma,KMT2A,Associated,Triggered by a case of malignant transformation in SC (synovial chondrosarcoma) showing a novel KMT2A-BCOR gene fusion by targeted RNA sequencing,EFO:1000557,4297
+31608993,Chronic periodontitis,Azurocidin,Associated,The aim of the present study was to evaluate azurocidin as a potential biomarker for chronic periodontitis. Azurocidin in GCF is a promising biomarker for periodontal disease.,EFO:0006343,566
+31608993,CP,Azurocidin,Associated,The aim of the present study was to evaluate azurocidin as a potential biomarker for chronic periodontitis. Azurocidin in GCF is a promising biomarker for periodontal disease.,EFO:0006343,566
+31608993,periodontitis,Azurocidin,Associated,The aim of the present study was to evaluate azurocidin as a potential biomarker for chronic periodontitis. Azurocidin in GCF is a promising biomarker for periodontal disease.,EFO:0000649,566
+31608993,periodontal disease,Azurocidin,Associated,The aim of the present study was to evaluate azurocidin as a potential biomarker for chronic periodontitis. Azurocidin in GCF is a promising biomarker for periodontal disease.,MONDO:0002635,566
+31630434,PHTS,PIK3CA,Associated,AST can be related to either PTEN or PIK3CA mutations and may be multifocal in PHTS,Orphanet:306498,5290
+31630434,PTEN hamartoma tumour syndrome,PIK3CA,Associated,AST can be related to either PTEN or PIK3CA mutations and may be multifocal in PHTS,Orphanet:306498,5290
+31630434,PHTS,PTEN,Associated,AST can be related to either PTEN or PIK3CA mutations and may be multifocal in PHTS,Orphanet:306498,5728
+31630434,PTEN hamartoma tumour syndrome,PTEN,Associated,AST can be related to either PTEN or PIK3CA mutations and may be multifocal in PHTS,Orphanet:306498,5728
+31655933,JIA,sTyro3,Not Associated,NA,EFO:0002609,7301
+31655933,JSLE,sTyro3,Associated,"Tyro3, Axl, and Mer (TAM) receptors and ligands mediate apoptotic bodies engulfment which alteration has been related with juvenile systemic lupus erythematosus (JSLE) pathogenesis.",EFO:0002690,7301
+31655933,juvenile idiopathic arthritis,sTyro3,Not Associated,NA,EFO:0002609,7301
+31655933,Juvenile systemic lupus erythematosus,sTyro3,Associated,"Tyro3, Axl, and Mer (TAM) receptors and ligands mediate apoptotic bodies engulfment which alteration has been related with juvenile systemic lupus erythematosus (JSLE) pathogenesis.",EFO:0002690,7301
+31655933,nephritis,sTyro3,Not Associated,NA,EFO:1002050,7301
+31655933,diffuse proliferative glomerulonephritis,sTyro3,Not Associated,NA,MONDO:0002462,7301
+31655933,JIA,Tyro3,Not Associated,NA,EFO:0002609,7301
+31655933,JSLE,Tyro3,Associated,"Tyro3, Axl, and Mer (TAM) receptors and ligands mediate apoptotic bodies engulfment which alteration has been related with juvenile systemic lupus erythematosus (JSLE) pathogenesis.",EFO:0002690,7301
+31655933,juvenile idiopathic arthritis,Tyro3,Not Associated,NA,EFO:0002609,7301
+31655933,Juvenile systemic lupus erythematosus,Tyro3,Associated,"Tyro3, Axl, and Mer (TAM) receptors and ligands mediate apoptotic bodies engulfment which alteration has been related with juvenile systemic lupus erythematosus (JSLE) pathogenesis.",EFO:0002690,7301
+31655933,nephritis,Tyro3,Not Associated,NA,EFO:1002050,7301
+31655933,diffuse proliferative glomerulonephritis,Tyro3,Not Associated,NA,MONDO:0002462,7301
+31655933,JIA,C3,Not Associated,NA,EFO:0002609,718
+31655933,JSLE,C3,Not Associated,NA,EFO:0002690,718
+31655933,juvenile idiopathic arthritis,C3,Not Associated,NA,EFO:0002609,718
+31655933,Juvenile systemic lupus erythematosus,C3,Not Associated,NA,EFO:0002690,718
+31655933,nephritis,C3,Not Associated,NA,EFO:1002050,718
+31655933,diffuse proliferative glomerulonephritis,C3,Not Associated,NA,MONDO:0002462,718
+31655933,JIA,C4,Not Associated,NA,EFO:0002609,720
+31655933,JSLE,C4,Not Associated,NA,EFO:0002690,720
+31655933,juvenile idiopathic arthritis,C4,Not Associated,NA,EFO:0002609,720
+31655933,Juvenile systemic lupus erythematosus,C4,Not Associated,NA,EFO:0002690,720
+31655933,nephritis,C4,Not Associated,NA,EFO:1002050,720
+31655933,diffuse proliferative glomerulonephritis,C4,Not Associated,NA,MONDO:0002462,720
+31655933,JIA,CRP,Not Associated,NA,EFO:0002609,1401
+31655933,JSLE,CRP,Not Associated,NA,EFO:0002690,1401
+31655933,juvenile idiopathic arthritis,CRP,Not Associated,NA,EFO:0002609,1401
+31655933,Juvenile systemic lupus erythematosus,CRP,Not Associated,NA,EFO:0002690,1401
+31655933,nephritis,CRP,Not Associated,NA,EFO:1002050,1401
+31655933,diffuse proliferative glomerulonephritis,CRP,Not Associated,NA,MONDO:0002462,1401
+31655933,JIA,Gas6,Not Associated,NA,EFO:0002609,2621
+31655933,JSLE,Gas6,Associated,"sTyro3 levels of JSLE patients taking glucocorticoid were decreased, and correlated with Gas6 and sAxl, while Gas6 levels correlated with age upon enrollment.",EFO:0002690,2621
+31655933,juvenile idiopathic arthritis,Gas6,Not Associated,NA,EFO:0002609,2621
+31655933,Juvenile systemic lupus erythematosus,Gas6,Associated,"sTyro3 levels of JSLE patients taking glucocorticoid were decreased, and correlated with Gas6 and sAxl, while Gas6 levels correlated with age upon enrollment.",EFO:0002690,2621
+31655933,nephritis,Gas6,Not Associated,NA,EFO:1002050,2621
+31655933,diffuse proliferative glomerulonephritis,Gas6,Not Associated,NA,MONDO:0002462,2621
+31655933,JIA,sAxl,Not Associated,NA,EFO:0002609,558
+31655933,JSLE,sAxl,Associated,"Tyro3, Axl, and Mer (TAM) receptors and ligands mediate apoptotic bodies engulfment which alteration has been related with juvenile systemic lupus erythematosus (JSLE) pathogenesis.",EFO:0002690,558
+31655933,juvenile idiopathic arthritis,sAxl,Not Associated,NA,EFO:0002609,558
+31655933,Juvenile systemic lupus erythematosus,sAxl,Associated,"Tyro3, Axl, and Mer (TAM) receptors and ligands mediate apoptotic bodies engulfment which alteration has been related with juvenile systemic lupus erythematosus (JSLE) pathogenesis.",EFO:0002690,558
+31655933,nephritis,sAxl,Not Associated,NA,EFO:1002050,558
+31655933,diffuse proliferative glomerulonephritis,sAxl,Not Associated,NA,MONDO:0002462,558
+31655933,JIA,Axl,Not Associated,NA,EFO:0002609,558
+31655933,JSLE,Axl,Associated,"Tyro3, Axl, and Mer (TAM) receptors and ligands mediate apoptotic bodies engulfment which alteration has been related with juvenile systemic lupus erythematosus (JSLE) pathogenesis.",EFO:0002690,558
+31655933,juvenile idiopathic arthritis,Axl,Not Associated,NA,EFO:0002609,558
+31655933,Juvenile systemic lupus erythematosus,Axl,Associated,"Tyro3, Axl, and Mer (TAM) receptors and ligands mediate apoptotic bodies engulfment which alteration has been related with juvenile systemic lupus erythematosus (JSLE) pathogenesis.",EFO:0002690,558
+31655933,nephritis,Axl,Not Associated,NA,EFO:1002050,558
+31655933,diffuse proliferative glomerulonephritis,Axl,Not Associated,NA,MONDO:0002462,558
+31655933,JIA,sMer,Not Associated,NA,EFO:0002609,10461
+31655933,JSLE,sMer,Associated,"Tyro3, Axl, and Mer (TAM) receptors and ligands mediate apoptotic bodies engulfment which alteration has been related with juvenile systemic lupus erythematosus (JSLE) pathogenesis.",EFO:0002690,10461
+31655933,juvenile idiopathic arthritis,sMer,Not Associated,NA,EFO:0002609,10461
+31655933,Juvenile systemic lupus erythematosus,sMer,Associated,"Tyro3, Axl, and Mer (TAM) receptors and ligands mediate apoptotic bodies engulfment which alteration has been related with juvenile systemic lupus erythematosus (JSLE) pathogenesis.",EFO:0002690,10461
+31655933,nephritis,sMer,Not Associated,NA,EFO:1002050,10461
+31655933,diffuse proliferative glomerulonephritis,sMer,Not Associated,NA,MONDO:0002462,10461
+31655933,JIA,Mer,Not Associated,NA,EFO:0002609,10461
+31655933,JSLE,Mer,Associated,"Tyro3, Axl, and Mer (TAM) receptors and ligands mediate apoptotic bodies engulfment which alteration has been related with juvenile systemic lupus erythematosus (JSLE) pathogenesis.",EFO:0002690,10461
+31655933,juvenile idiopathic arthritis,Mer,Not Associated,NA,EFO:0002609,10461
+31655933,Juvenile systemic lupus erythematosus,Mer,Associated,"Tyro3, Axl, and Mer (TAM) receptors and ligands mediate apoptotic bodies engulfment which alteration has been related with juvenile systemic lupus erythematosus (JSLE) pathogenesis.",EFO:0002690,10461
+31655933,nephritis,Mer,Not Associated,NA,EFO:1002050,10461
+31655933,diffuse proliferative glomerulonephritis,Mer,Not Associated,NA,MONDO:0002462,10461
+31677275,PD,CD103,Associated,Significant positive correlation between PD and both CD103 and CD69 epithelial expression was observed in tissue specimens from periodontitis patients (P &lt; .001),EFO:0000649,3682
+31677275,Periodontitis,CD103,Associated,Significant positive correlation between PD and both CD103 and CD69 epithelial expression was observed in tissue specimens from periodontitis patients (P &lt; .001),EFO:0000649,3682
+31677275,periodontal disease,CD103,Not Associated,NA,MONDO:0002635,3682
+31677275,chronic periodontitis,CD103,Not Associated,NA,EFO:0006343,3682
+31677275,viral infection,CD103,Not Associated,NA,EFO:0000763,3682
+31677275,PD,CD69,Associated,Significant positive correlation between PD and both CD103 and CD69 epithelial expression was observed in tissue specimens from periodontitis patients (P &lt; .001),EFO:0000649,969
+31677275,Periodontitis,CD69,Associated,Significant positive correlation between PD and both CD103 and CD69 epithelial expression was observed in tissue specimens from periodontitis patients (P &lt; .001),EFO:0000649,969
+31677275,periodontal disease,CD69,Not Associated,NA,MONDO:0002635,969
+31677275,chronic periodontitis,CD69,Not Associated,NA,EFO:0006343,969
+31677275,viral infection,CD69,Not Associated,NA,EFO:0000763,969
+31677275,PD,CD3,Not Associated,NA,EFO:0000649,F2223
+31677275,Periodontitis,CD3,Not Associated,NA,EFO:0000649,F2223
+31677275,periodontal disease,CD3,Not Associated,NA,MONDO:0002635,F2223
+31677275,chronic periodontitis,CD3,Not Associated,NA,EFO:0006343,F2223
+31677275,viral infection,CD3,Not Associated,NA,EFO:0000763,F2223
+31709256,Cystinosis,IKKa,Not Associated,NA,Orphanet:213,1147
+31709256,renal diseases,IKKa,Not Associated,NA,EFO:0003086,1147
+31709256,Cystinosis,NF-kappaB,Not Associated,NA,Orphanet:213,4790
+31709256,renal diseases,NF-kappaB,Not Associated,NA,EFO:0003086,4790
+31709256,Cystinosis,NLRP2,Associated,"NLRP2 is highly expressed in cystinostic PTEC, but not in PTEC from healthy subjects",Orphanet:213,55655
+31709256,renal diseases,NLRP2,Not Associated,NA,EFO:0003086,55655
+31709256,Cystinosis,NLRPs,Not Associated,NA,Orphanet:213,F1254
+31709256,renal diseases,NLRPs,Associated,Nod-like Receptor Pyrin domain containing proteins (NLRPs) expressed by resident renal cells may contribute to the pathogenesis of multiple renal diseases. Cystinosis is a genetic disorder that affects kidney and particularly proximal tubular epithelial cells (PTEC).,EFO:0003086,F1254
+31709256,Cystinosis,Nod-like Receptor Pyrin domain containing proteins,Not Associated,NA,Orphanet:213,F1254
+31709256,renal diseases,Nod-like Receptor Pyrin domain containing proteins,Associated,Nod-like Receptor Pyrin domain containing proteins (NLRPs) expressed by resident renal cells may contribute to the pathogenesis of multiple renal diseases. Cystinosis is a genetic disorder that affects kidney and particularly proximal tubular epithelial cells (PTEC).,EFO:0003086,F1254
+31709256,Cystinosis,p50,Not Associated,NA,Orphanet:213,4790
+31709256,renal diseases,p50,Not Associated,NA,EFO:0003086,4790
+31709256,Cystinosis,p65 NF-kappaB,Not Associated,NA,Orphanet:213,5970
+31709256,renal diseases,p65 NF-kappaB,Not Associated,NA,EFO:0003086,5970
+31715319,cryptococcosis,IFN-Y,Not Associated,NA,EFO:0007229,3458
+31715319,HIV,IFN-Y,Not Associated,NA,EFO:0000764,3458
+31715319,infection,IFN-Y,Not Associated,NA,EFO:0000544,3458
+31715319,cryptococcosis,IL-10,Not Associated,NA,EFO:0007229,3586
+31715319,HIV,IL-10,Associated,IL-10 and IL-6 were significantly higher in HIV patients.,EFO:0000764,3586
+31715319,infection,IL-10,Not Associated,NA,EFO:0000544,3586
+31715319,cryptococcosis,IL-12,Not Associated,NA,EFO:0007229,F2224
+31715319,HIV,IL-12,Associated,IL-12 levels were increased in patients with infection and was highest in the HIV infected group.,EFO:0000764,F2224
+31715319,infection,IL-12,Associated,IL-12 levels were increased in patients with infection and was highest in the HIV infected group.,EFO:0000544,F2224
+31715319,cryptococcosis,IL-12 p70,Not Associated,NA,EFO:0007229,F2224
+31715319,HIV,IL-12 p70,Not Associated,NA,EFO:0000764,F2224
+31715319,infection,IL-12 p70,Not Associated,NA,EFO:0000544,F2224
+31715319,cryptococcosis,IL-4,Not Associated,NA,EFO:0007229,3565
+31715319,HIV,IL-4,Associated,HIV infected patients showed a significant increase in IL-4 level and it was elevated higher in co-infected patients.,EFO:0000764,3565
+31715319,infection,IL-4,Not Associated,NA,EFO:0000544,3565
+31715319,cryptococcosis,IL-6,Not Associated,NA,EFO:0007229,3569
+31715319,HIV,IL-6,Associated,IL-10 and IL-6 were significantly higher in HIV patients.,EFO:0000764,3569
+31715319,infection,IL-6,Not Associated,NA,EFO:0000544,3569
+31715319,cryptococcosis,TNF-alpha,Associated,TNF-alpha was more or less not dependent on viral load but it was more related to the cryptococcosis,EFO:0007229,7124
+31715319,HIV,TNF-alpha,Not Associated,NA,EFO:0000764,7124
+31715319,infection,TNF-alpha,Not Associated,NA,EFO:0000544,7124
+31722768,Mastitis,IRAK2,Associated,We conclude that miR-15a and miR-15a target genes (IRAK2) constitute potential miRNA-mRNA regulatory pairs for use as biomarkers to predict a mastitis response.,EFO:1001034,3656
+31722768,Mastitis,interleukin-1 receptor-associated kinase-like 2,Associated,We conclude that miR-15a and miR-15a target genes (IRAK2) constitute potential miRNA-mRNA regulatory pairs for use as biomarkers to predict a mastitis response.,EFO:1001034,3656
+31722768,Mastitis,miR-15a,Associated,We conclude that miR-15a and miR-15a target genes (IRAK2) constitute potential miRNA-mRNA regulatory pairs for use as biomarkers to predict a mastitis response.,EFO:1001034,406948
+31734525,agoraphobia,neuropeptide S receptor gene,Associated,The study demonstrates an association of the NPSR1rs324981 genotype and the perception of agoraphobia-specific stimuli,EFO:1001872,387129
+31734525,panic disorder,neuropeptide S receptor gene,Associated,"The functional A/T single nucleotide polymorphism (SNP) rs324981 in the neuropeptide S receptor gene (NPSR1) has repeatedly been associated with panic disorder and might partly drive function respectively dysfunction of the neural ""fear network""",EFO:0004262,387129
+31734525,panic disorder with agoraphobia,neuropeptide S receptor gene,Associated,The study demonstrates an association of the NPSR1rs324981 genotype and the perception of agoraphobia-specific stimuli,EFO:1001906,387129
+31734525,PD/AG,neuropeptide S receptor gene,Associated,The study demonstrates an association of the NPSR1rs324981 genotype and the perception of agoraphobia-specific stimuli,EFO:1001906,387129
+31734525,agoraphobia,NPSR1,Associated,The study demonstrates an association of the NPSR1rs324981 genotype and the perception of agoraphobia-specific stimuli,EFO:1001872,387129
+31734525,panic disorder,NPSR1,Associated,"The functional A/T single nucleotide polymorphism (SNP) rs324981 in the neuropeptide S receptor gene (NPSR1) has repeatedly been associated with panic disorder and might partly drive function respectively dysfunction of the neural ""fear network""",EFO:0004262,387129
+31734525,panic disorder with agoraphobia,NPSR1,Associated,The study demonstrates an association of the NPSR1rs324981 genotype and the perception of agoraphobia-specific stimuli,EFO:1001906,387129
+31734525,PD/AG,NPSR1,Associated,The study demonstrates an association of the NPSR1rs324981 genotype and the perception of agoraphobia-specific stimuli,EFO:1001906,387129
+31808946,galactosemia,GALK,Associated,"GALK inhibitors, UGP up-regulation, uridine supplementation, ER stress reducers, antioxidants and pharmacological chaperones have been studied, showing rescue of biochemical and/or clinical symptoms in galactosemia.",Orphanet:352,F780
+31808946,hereditary galactosemia,GALK,Associated,"GALK inhibitors, UGP up-regulation, uridine supplementation, ER stress reducers, antioxidants and pharmacological chaperones have been studied, showing rescue of biochemical and/or clinical symptoms in galactosemia.",Orphanet:352,F780
+31808946,galactosemia,UGP,Associated,"GALK inhibitors, UGP up-regulation, uridine supplementation, ER stress reducers, antioxidants and pharmacological chaperones have been studied, showing rescue of biochemical and/or clinical symptoms in galactosemia.",Orphanet:352,7360
+31808946,hereditary galactosemia,UGP,Associated,"GALK inhibitors, UGP up-regulation, uridine supplementation, ER stress reducers, antioxidants and pharmacological chaperones have been studied, showing rescue of biochemical and/or clinical symptoms in galactosemia.",Orphanet:352,7360
+31808946,galactosemia,galactokinase,Associated,"GALK inhibitors, UGP up-regulation, uridine supplementation, ER stress reducers, antioxidants and pharmacological chaperones have been studied, showing rescue of biochemical and/or clinical symptoms in galactosemia.",Orphanet:352,F780
+31808946,hereditary galactosemia,galactokinase,Associated,"GALK inhibitors, UGP up-regulation, uridine supplementation, ER stress reducers, antioxidants and pharmacological chaperones have been studied, showing rescue of biochemical and/or clinical symptoms in galactosemia.",Orphanet:352,F780
+31808946,galactosemia,UDP-glucose pyrophosphorylase,Associated,"GALK inhibitors, UGP up-regulation, uridine supplementation, ER stress reducers, antioxidants and pharmacological chaperones have been studied, showing rescue of biochemical and/or clinical symptoms in galactosemia.",Orphanet:352,7360
+31808946,hereditary galactosemia,UDP-glucose pyrophosphorylase,Associated,"GALK inhibitors, UGP up-regulation, uridine supplementation, ER stress reducers, antioxidants and pharmacological chaperones have been studied, showing rescue of biochemical and/or clinical symptoms in galactosemia.",Orphanet:352,7360
+31812646,Benign prostate hyperplasia,5α-reductase,Associated,The results indicate that the use of S. hexaphylla extract in BPH is probably beneficial through 5α-reductase inhibition and α-adrenergic receptor blockade,EFO:0000284,F1861
+31812646,BPH,5α-reductase,Associated,The results indicate that the use of S. hexaphylla extract in BPH is probably beneficial through 5α-reductase inhibition and α-adrenergic receptor blockade,EFO:0000284,F1861
+31812646,Osteoporosis,5α-reductase,Not Associated,NA,EFO:0003882,F1861
+31812646,Benign prostate hyperplasia,5α-reductase type 2,Associated,The therapeutic effects of Stauntonia hexaphylla in benign prostate hyperplasia are mediated by the regulation of androgen receptors and 5α-reductase type 2,EFO:0000284,6716
+31812646,BPH,5α-reductase type 2,Associated,The therapeutic effects of Stauntonia hexaphylla in benign prostate hyperplasia are mediated by the regulation of androgen receptors and 5α-reductase type 2,EFO:0000284,6716
+31812646,Osteoporosis,5α-reductase type 2,Not Associated,NA,EFO:0003882,6716
+31812646,Benign prostate hyperplasia,Androgen receptors,Associated,The therapeutic effects of Stauntonia hexaphylla in benign prostate hyperplasia are mediated by the regulation of androgen receptors and 5α-reductase type 2,EFO:0000284,367
+31812646,BPH,Androgen receptors,Associated,The therapeutic effects of Stauntonia hexaphylla in benign prostate hyperplasia are mediated by the regulation of androgen receptors and 5α-reductase type 2,EFO:0000284,367
+31812646,Osteoporosis,Androgen receptors,Not Associated,NA,EFO:0003882,367
+31812646,Benign prostate hyperplasia,ARs,Associated,The therapeutic effects of Stauntonia hexaphylla in benign prostate hyperplasia are mediated by the regulation of androgen receptors and 5α-reductase type 2,EFO:0000284,367
+31812646,BPH,ARs,Associated,The therapeutic effects of Stauntonia hexaphylla in benign prostate hyperplasia are mediated by the regulation of androgen receptors and 5α-reductase type 2,EFO:0000284,367
+31812646,Osteoporosis,ARs,Not Associated,NA,EFO:0003882,367
+31812646,Benign prostate hyperplasia,PCNA,Associated,"In addition, apoptosis and autophagy were induced, and PCNA was downregulated after S. hexaphylla treatment. Therefore, it can be concluded that S. hexaphylla has a therapeutic effect on BPH.",EFO:0000284,5111
+31812646,BPH,PCNA,Associated,"In addition, apoptosis and autophagy were induced, and PCNA was downregulated after S. hexaphylla treatment. Therefore, it can be concluded that S. hexaphylla has a therapeutic effect on BPH.",EFO:0000284,5111
+31812646,Osteoporosis,PCNA,Not Associated,NA,EFO:0003882,5111
+31812646,Benign prostate hyperplasia,Proliferating cell nuclear antigen,Associated,"In addition, apoptosis and autophagy were induced, and PCNA was downregulated after S. hexaphylla treatment. Therefore, it can be concluded that S. hexaphylla has a therapeutic effect on BPH.",EFO:0000284,5111
+31812646,BPH,Proliferating cell nuclear antigen,Associated,"In addition, apoptosis and autophagy were induced, and PCNA was downregulated after S. hexaphylla treatment. Therefore, it can be concluded that S. hexaphylla has a therapeutic effect on BPH.",EFO:0000284,5111
+31812646,Osteoporosis,Proliferating cell nuclear antigen,Not Associated,NA,EFO:0003882,5111
+31812646,Benign prostate hyperplasia,prostate-specific antigens,Associated,"Androgen receptors (ARs) and prostate-specific antigens (PSA), which are typical BPH-related proteins,",EFO:0000284,354
+31812646,BPH,prostate-specific antigens,Associated,"Androgen receptors (ARs) and prostate-specific antigens (PSA), which are typical BPH-related proteins,",EFO:0000284,354
+31812646,Osteoporosis,prostate-specific antigens,Not Associated,NA,EFO:0003882,354
+31812646,Benign prostate hyperplasia,PSA,Associated,"Androgen receptors (ARs) and prostate-specific antigens (PSA), which are typical BPH-related proteins,",EFO:0000284,354
+31812646,BPH,PSA,Associated,"Androgen receptors (ARs) and prostate-specific antigens (PSA), which are typical BPH-related proteins,",EFO:0000284,354
+31812646,Osteoporosis,PSA,Not Associated,NA,EFO:0003882,354
+31812646,Benign prostate hyperplasia,α-adrenergic receptor,Associated,The results indicate that the use of S. hexaphylla extract in BPH is probably beneficial through 5α-reductase inhibition and α-adrenergic receptor blockade,EFO:0000284,F2226
+31812646,BPH,α-adrenergic receptor,Associated,The results indicate that the use of S. hexaphylla extract in BPH is probably beneficial through 5α-reductase inhibition and α-adrenergic receptor blockade,EFO:0000284,F2226
+31812646,Osteoporosis,α-adrenergic receptor,Not Associated,NA,EFO:0003882,F2226
+31819770,caSLE,A-albumin,Associated,"In the caSLE group, 8 proteins were expressed differenty compared with the control group: C-reactive protein, hemoglobin subunit beta, VAP-1, A-albumin (AFAM), enolase and immunoglobulin heavy constant mu were upregulated; interferon regulatory factor-1 and serum amyloid A2 protein were downregulated.",EFO:0002690,213
+31819770,Conjunctivitis associated systemic lupus erythematosus,A-albumin,Associated,"In the caSLE group, 8 proteins were expressed differenty compared with the control group: C-reactive protein, hemoglobin subunit beta, VAP-1, A-albumin (AFAM), enolase and immunoglobulin heavy constant mu were upregulated; interferon regulatory factor-1 and serum amyloid A2 protein were downregulated.",EFO:0002690,213
+31819770,connective tissue autoimmune disease,A-albumin,Not Associated,NA,MONDO:0017841,213
+31819770,caSLE,AFAM,Associated,"In the caSLE group, 8 proteins were expressed differenty compared with the control group: C-reactive protein, hemoglobin subunit beta, VAP-1, A-albumin (AFAM), enolase and immunoglobulin heavy constant mu were upregulated; interferon regulatory factor-1 and serum amyloid A2 protein were downregulated.",EFO:0002690,213
+31819770,Conjunctivitis associated systemic lupus erythematosus,AFAM,Associated,"In the caSLE group, 8 proteins were expressed differenty compared with the control group: C-reactive protein, hemoglobin subunit beta, VAP-1, A-albumin (AFAM), enolase and immunoglobulin heavy constant mu were upregulated; interferon regulatory factor-1 and serum amyloid A2 protein were downregulated.",EFO:0002690,213
+31819770,connective tissue autoimmune disease,AFAM,Not Associated,NA,MONDO:0017841,213
+31819770,caSLE,C-reactive protein,Associated,"In the caSLE group, 8 proteins were expressed differenty compared with the control group: C-reactive protein, hemoglobin subunit beta, VAP-1, A-albumin (AFAM), enolase and immunoglobulin heavy constant mu were upregulated; interferon regulatory factor-1 and serum amyloid A2 protein were downregulated.",EFO:0002690,1401
+31819770,Conjunctivitis associated systemic lupus erythematosus,C-reactive protein,Associated,"In the caSLE group, 8 proteins were expressed differenty compared with the control group: C-reactive protein, hemoglobin subunit beta, VAP-1, A-albumin (AFAM), enolase and immunoglobulin heavy constant mu were upregulated; interferon regulatory factor-1 and serum amyloid A2 protein were downregulated.",EFO:0002690,1401
+31819770,connective tissue autoimmune disease,C-reactive protein,Not Associated,NA,MONDO:0017841,1401
+31819770,caSLE,enolase,Associated,"In the caSLE group, 8 proteins were expressed differenty compared with the control group: C-reactive protein, hemoglobin subunit beta, VAP-1, A-albumin (AFAM), enolase and immunoglobulin heavy constant mu were upregulated; interferon regulatory factor-1 and serum amyloid A2 protein were downregulated.",EFO:0002690,F551
+31819770,Conjunctivitis associated systemic lupus erythematosus,enolase,Associated,"In the caSLE group, 8 proteins were expressed differenty compared with the control group: C-reactive protein, hemoglobin subunit beta, VAP-1, A-albumin (AFAM), enolase and immunoglobulin heavy constant mu were upregulated; interferon regulatory factor-1 and serum amyloid A2 protein were downregulated.",EFO:0002690,F551
+31819770,connective tissue autoimmune disease,enolase,Not Associated,NA,MONDO:0017841,F551
+31819770,caSLE,hemoglobin subunit beta,Associated,"In the caSLE group, 8 proteins were expressed differenty compared with the control group: C-reactive protein, hemoglobin subunit beta, VAP-1, A-albumin (AFAM), enolase and immunoglobulin heavy constant mu were upregulated; interferon regulatory factor-1 and serum amyloid A2 protein were downregulated.",EFO:0002690,3043
+31819770,Conjunctivitis associated systemic lupus erythematosus,hemoglobin subunit beta,Associated,"In the caSLE group, 8 proteins were expressed differenty compared with the control group: C-reactive protein, hemoglobin subunit beta, VAP-1, A-albumin (AFAM), enolase and immunoglobulin heavy constant mu were upregulated; interferon regulatory factor-1 and serum amyloid A2 protein were downregulated.",EFO:0002690,3043
+31819770,connective tissue autoimmune disease,hemoglobin subunit beta,Not Associated,NA,MONDO:0017841,3043
+31819770,caSLE,immunoglobulin heavy constant mu,Associated,"In the caSLE group, 8 proteins were expressed differenty compared with the control group: C-reactive protein, hemoglobin subunit beta, VAP-1, A-albumin (AFAM), enolase and immunoglobulin heavy constant mu were upregulated; interferon regulatory factor-1 and serum amyloid A2 protein were downregulated.",EFO:0002690,3507
+31819770,Conjunctivitis associated systemic lupus erythematosus,immunoglobulin heavy constant mu,Associated,"In the caSLE group, 8 proteins were expressed differenty compared with the control group: C-reactive protein, hemoglobin subunit beta, VAP-1, A-albumin (AFAM), enolase and immunoglobulin heavy constant mu were upregulated; interferon regulatory factor-1 and serum amyloid A2 protein were downregulated.",EFO:0002690,3507
+31819770,connective tissue autoimmune disease,immunoglobulin heavy constant mu,Not Associated,NA,MONDO:0017841,3507
+31819770,caSLE,interferon regulatory factor-1,Associated,"In the caSLE group, 8 proteins were expressed differenty compared with the control group: C-reactive protein, hemoglobin subunit beta, VAP-1, A-albumin (AFAM), enolase and immunoglobulin heavy constant mu were upregulated; interferon regulatory factor-1 and serum amyloid A2 protein were downregulated.",EFO:0002690,3659
+31819770,Conjunctivitis associated systemic lupus erythematosus,interferon regulatory factor-1,Associated,"In the caSLE group, 8 proteins were expressed differenty compared with the control group: C-reactive protein, hemoglobin subunit beta, VAP-1, A-albumin (AFAM), enolase and immunoglobulin heavy constant mu were upregulated; interferon regulatory factor-1 and serum amyloid A2 protein were downregulated.",EFO:0002690,3659
+31819770,connective tissue autoimmune disease,interferon regulatory factor-1,Not Associated,NA,MONDO:0017841,3659
+31819770,caSLE,serum amyloid A2 protein,Associated,"In the caSLE group, 8 proteins were expressed differenty compared with the control group: C-reactive protein, hemoglobin subunit beta, VAP-1, A-albumin (AFAM), enolase and immunoglobulin heavy constant mu were upregulated; interferon regulatory factor-1 and serum amyloid A2 protein were downregulated.",EFO:0002690,6289
+31819770,Conjunctivitis associated systemic lupus erythematosus,serum amyloid A2 protein,Associated,"In the caSLE group, 8 proteins were expressed differenty compared with the control group: C-reactive protein, hemoglobin subunit beta, VAP-1, A-albumin (AFAM), enolase and immunoglobulin heavy constant mu were upregulated; interferon regulatory factor-1 and serum amyloid A2 protein were downregulated.",EFO:0002690,6289
+31819770,connective tissue autoimmune disease,serum amyloid A2 protein,Not Associated,NA,MONDO:0017841,6289
+31819770,caSLE,VAP-1 ,Associated,Showing that in caSLE group VAP-1 expression is increased in comparison to the control group,EFO:0002690,8639
+31819770,Conjunctivitis associated systemic lupus erythematosus,VAP-1 ,Associated,Showing that in caSLE group VAP-1 expression is increased in comparison to the control group,EFO:0002690,8639
+31819770,connective tissue autoimmune disease,VAP-1 ,Not Associated,NA,MONDO:0017841,8639
+31819770,caSLE,vascular adhesion protein-1,Associated,Showing that in caSLE group VAP-1 expression is increased in comparison to the control group,EFO:0002690,8639
+31819770,Conjunctivitis associated systemic lupus erythematosus,vascular adhesion protein-1,Associated,Showing that in caSLE group VAP-1 expression is increased in comparison to the control group,EFO:0002690,8639
+31819770,connective tissue autoimmune disease,vascular adhesion protein-1,Not Associated,NA,MONDO:0017841,8639
+31819770,caSLE,"amine oxidase, copper containing 3",Associated,"VAP-1 protein participates in the inflammatory reaction in the form of amine oxidase, copper containing 3",EFO:0002690,8639
+31819770,Conjunctivitis associated systemic lupus erythematosus,"amine oxidase, copper containing 3",Associated,"VAP-1 protein participates in the inflammatory reaction in the form of amine oxidase, copper containing 3",EFO:0002690,8639
+31819770,connective tissue autoimmune disease,"amine oxidase, copper containing 3",Not Associated,NA,MONDO:0017841,8639
+31825161,Anhidrosis,COH1,Associated," In addition, the parents observed congenital alacrima and anhidrosis persisting until onset of puberty. We conclude that transient, prepubertal alacrima and anhidrosis are part of the phenotypic spectrum of CS associated with a novel homozygous nonsense mutation in the VPS13B gene.",EFO:1000670,157680
+31825161,Cohen syndrome,COH1,Associated,Cohen syndrome (CS) is a rare autosomal recessive disorder associated with mutations in the vacuolar protein sorting 13 homolog B (VPS13B; formerly COH1) gene.,Orphanet:193,157680
+31825161,Congenital alacrima,COH1,Associated," In addition, the parents observed congenital alacrima and anhidrosis persisting until onset of puberty. We conclude that transient, prepubertal alacrima and anhidrosis are part of the phenotypic spectrum of CS associated with a novel homozygous nonsense mutation in the VPS13B gene.",Orphanet:98604,157680
+31825161,alacrima,COH1,Associated," In addition, the parents observed congenital alacrima and anhidrosis persisting until onset of puberty. We conclude that transient, prepubertal alacrima and anhidrosis are part of the phenotypic spectrum of CS associated with a novel homozygous nonsense mutation in the VPS13B gene.",Orphanet:98604,157680
+31825161,CS,COH1,Associated,Cohen syndrome (CS) is a rare autosomal recessive disorder associated with mutations in the vacuolar protein sorting 13 homolog B (VPS13B; formerly COH1) gene.,Orphanet:193,157680
+31825161,Neutropenia,COH1,Not Associated,NA,MONDO:0001475,157680
+31825161,Obesity,COH1,Not Associated,NA,EFO:0001073,157680
+31825161,Retinopathy,COH1,Not Associated,NA,EFO:0003839,157680
+31825161,Scoliosis,COH1,Not Associated,NA,EFO:0004273,157680
+31825161,Anhidrosis,Vacuolar protein sorting 13 homolog B,Associated," In addition, the parents observed congenital alacrima and anhidrosis persisting until onset of puberty. We conclude that transient, prepubertal alacrima and anhidrosis are part of the phenotypic spectrum of CS associated with a novel homozygous nonsense mutation in the VPS13B gene.",EFO:1000670,157680
+31825161,Cohen syndrome,Vacuolar protein sorting 13 homolog B,Associated,Cohen syndrome (CS) is a rare autosomal recessive disorder associated with mutations in the vacuolar protein sorting 13 homolog B (VPS13B; formerly COH1) gene.,Orphanet:193,157680
+31825161,Congenital alacrima,Vacuolar protein sorting 13 homolog B,Associated," In addition, the parents observed congenital alacrima and anhidrosis persisting until onset of puberty. We conclude that transient, prepubertal alacrima and anhidrosis are part of the phenotypic spectrum of CS associated with a novel homozygous nonsense mutation in the VPS13B gene.",Orphanet:98604,157680
+31825161,alacrima,Vacuolar protein sorting 13 homolog B,Associated," In addition, the parents observed congenital alacrima and anhidrosis persisting until onset of puberty. We conclude that transient, prepubertal alacrima and anhidrosis are part of the phenotypic spectrum of CS associated with a novel homozygous nonsense mutation in the VPS13B gene.",Orphanet:98604,157680
+31825161,CS,Vacuolar protein sorting 13 homolog B,Associated,Cohen syndrome (CS) is a rare autosomal recessive disorder associated with mutations in the vacuolar protein sorting 13 homolog B (VPS13B; formerly COH1) gene.,Orphanet:193,157680
+31825161,Neutropenia,Vacuolar protein sorting 13 homolog B,Not Associated,NA,MONDO:0001475,157680
+31825161,Obesity,Vacuolar protein sorting 13 homolog B,Not Associated,NA,EFO:0001073,157680
+31825161,Retinopathy,Vacuolar protein sorting 13 homolog B,Not Associated,NA,EFO:0003839,157680
+31825161,Scoliosis,Vacuolar protein sorting 13 homolog B,Not Associated,NA,EFO:0004273,157680
+31825161,Anhidrosis,VPS13B,Associated," In addition, the parents observed congenital alacrima and anhidrosis persisting until onset of puberty. We conclude that transient, prepubertal alacrima and anhidrosis are part of the phenotypic spectrum of CS associated with a novel homozygous nonsense mutation in the VPS13B gene.",EFO:1000670,157680
+31825161,Cohen syndrome,VPS13B,Associated,Cohen syndrome (CS) is a rare autosomal recessive disorder associated with mutations in the vacuolar protein sorting 13 homolog B (VPS13B; formerly COH1) gene.,Orphanet:193,157680
+31825161,Congenital alacrima,VPS13B,Associated," In addition, the parents observed congenital alacrima and anhidrosis persisting until onset of puberty. We conclude that transient, prepubertal alacrima and anhidrosis are part of the phenotypic spectrum of CS associated with a novel homozygous nonsense mutation in the VPS13B gene.",Orphanet:98604,157680
+31825161,alacrima,VPS13B,Associated," In addition, the parents observed congenital alacrima and anhidrosis persisting until onset of puberty. We conclude that transient, prepubertal alacrima and anhidrosis are part of the phenotypic spectrum of CS associated with a novel homozygous nonsense mutation in the VPS13B gene.",Orphanet:98604,157680
+31825161,CS,VPS13B,Associated,Cohen syndrome (CS) is a rare autosomal recessive disorder associated with mutations in the vacuolar protein sorting 13 homolog B (VPS13B; formerly COH1) gene.,Orphanet:193,157680
+31825161,Neutropenia,VPS13B,Not Associated,NA,MONDO:0001475,157680
+31825161,Obesity,VPS13B,Not Associated,NA,EFO:0001073,157680
+31825161,Retinopathy,VPS13B,Not Associated,NA,EFO:0003839,157680
+31825161,Scoliosis,VPS13B,Not Associated,NA,EFO:0004273,157680
+31843680,ARHR1,ABCC6,Not Associated,NA,Orphanet:289176,368
+31843680,"autosomal recessive hypophosphatemic rickets, type 1",ABCC6,Not Associated,NA,Orphanet:289176,368
+31843680,Enthesopathy,ABCC6,Not Associated,NA,EFO:0009666,368
+31843680,Hyperostosis,ABCC6,Not Associated,NA,MONDO:0002185,368
+31843680,Hypophosphatemic osteosclerosis,ABCC6,Not Associated,NA,MONDO:0002933,368
+31843680,autosomal dominant dysplasias of dentin,ABCC6,Not Associated,NA,Orphanet:1653,368
+31843680,"vitamin D dependent rickets, type 1",ABCC6,Not Associated,NA,Orphanet:289157,368
+31843680,"generalized arterial calcification of infancy, type 2",ABCC6,Associated,"The man alone also carried novel heterozygous missense variants within two additional genes that condition mineral homeostasis and are the basis for autosomal recessive disorders: CYP27B1 underlying vitamin D dependent rickets, type 1, and ABCC6 underlying both generalized arterial calcification of infancy, type 2 and pseudoxanthoma elasticum (PXE). ",Orphanet:51608,368
+31843680,pseudoxanthoma elasticum,ABCC6,Associated,"The man alone also carried novel heterozygous missense variants within two additional genes that condition mineral homeostasis and are the basis for autosomal recessive disorders: CYP27B1 underlying vitamin D dependent rickets, type 1, and ABCC6 underlying both generalized arterial calcification of infancy, type 2 and pseudoxanthoma elasticum (PXE). ",Orphanet:758,368
+31843680,PXE,ABCC6,Associated,"The man alone also carried novel heterozygous missense variants within two additional genes that condition mineral homeostasis and are the basis for autosomal recessive disorders: CYP27B1 underlying vitamin D dependent rickets, type 1, and ABCC6 underlying both generalized arterial calcification of infancy, type 2 and pseudoxanthoma elasticum (PXE). ",Orphanet:758,368
+31843680,ARHR1,CYP27B1,Not Associated,NA,Orphanet:289176,1594
+31843680,"autosomal recessive hypophosphatemic rickets, type 1",CYP27B1,Not Associated,NA,Orphanet:289176,1594
+31843680,Enthesopathy,CYP27B1,Not Associated,NA,EFO:0009666,1594
+31843680,Hyperostosis,CYP27B1,Not Associated,NA,MONDO:0002185,1594
+31843680,Hypophosphatemic osteosclerosis,CYP27B1,Not Associated,NA,MONDO:0002933,1594
+31843680,autosomal dominant dysplasias of dentin,CYP27B1,Not Associated,NA,Orphanet:1653,1594
+31843680,"vitamin D dependent rickets, type 1",CYP27B1,Associated,"The man alone also carried novel heterozygous missense variants within two additional genes that condition mineral homeostasis and are the basis for autosomal recessive disorders: CYP27B1 underlying vitamin D dependent rickets, type 1",Orphanet:289157,1594
+31843680,"generalized arterial calcification of infancy, type 2",CYP27B1,Not Associated,NA,Orphanet:51608,1594
+31843680,pseudoxanthoma elasticum,CYP27B1,Not Associated,NA,Orphanet:758,1594
+31843680,PXE,CYP27B1,Not Associated,NA,Orphanet:758,1594
+31843680,ARHR1,DMP1,Associated,"Mendelian disorders from loss-of-function mutation(s) of the genes that encode the SIBLINGs thus far involve DSPP causing various autosomal dominant dysplasias of dentin but without skeletal disease, and DMP1 causing autosomal recessive hypophosphatemic rickets, type 1 (ARHR1).",Orphanet:289176,1758
+31843680,"autosomal recessive hypophosphatemic rickets, type 1",DMP1,Associated,"Mendelian disorders from loss-of-function mutation(s) of the genes that encode the SIBLINGs thus far involve DSPP causing various autosomal dominant dysplasias of dentin but without skeletal disease, and DMP1 causing autosomal recessive hypophosphatemic rickets, type 1 (ARHR1).",Orphanet:289176,1758
+31843680,Enthesopathy,DMP1,Associated,"Herein, we describe severe hypophosphatemic osteosclerosis and hyperostosis associated with skeletal deformity, short stature, enthesopathy, tooth loss, and high circulating FGF23 levels in a middle-aged man and young woman from an endogamous family living in southern India. Both shared novel homozygous mutations within two genes that encode a SIBLING protein: stop-gain (""nonsense"") DMP1 (c.556G>T,p.Glu186Ter) and missense SPP1 (c.769C>T,p.Leu266Phe). ",EFO:0009666,1758
+31843680,Hyperostosis,DMP1,Associated,"Herein, we describe severe hypophosphatemic osteosclerosis and hyperostosis associated with skeletal deformity, short stature, enthesopathy, tooth loss, and high circulating FGF23 levels in a middle-aged man and young woman from an endogamous family living in southern India. Both shared novel homozygous mutations within two genes that encode a SIBLING protein: stop-gain (""nonsense"") DMP1 (c.556G>T,p.Glu186Ter) and missense SPP1 (c.769C>T,p.Leu266Phe). ",MONDO:0002185,1758
+31843680,Hypophosphatemic osteosclerosis,DMP1,Associated,"Herein, we describe severe hypophosphatemic osteosclerosis and hyperostosis associated with skeletal deformity, short stature, enthesopathy, tooth loss, and high circulating FGF23 levels in a middle-aged man and young woman from an endogamous family living in southern India. Both shared novel homozygous mutations within two genes that encode a SIBLING protein: stop-gain (""nonsense"") DMP1 (c.556G>T,p.Glu186Ter) and missense SPP1 (c.769C>T,p.Leu266Phe). ",MONDO:0002933,1758
+31843680,autosomal dominant dysplasias of dentin,DMP1,Not Associated,NA,Orphanet:1653,1758
+31843680,"vitamin D dependent rickets, type 1",DMP1,Not Associated,NA,Orphanet:289157,1758
+31843680,"generalized arterial calcification of infancy, type 2",DMP1,Not Associated,NA,Orphanet:51608,1758
+31843680,pseudoxanthoma elasticum,DMP1,Not Associated,NA,Orphanet:758,1758
+31843680,PXE,DMP1,Not Associated,NA,Orphanet:758,1758
+31843680,ARHR1,Dentin matrix protein 1,Associated,"Mendelian disorders from loss-of-function mutation(s) of the genes that encode the SIBLINGs thus far involve DSPP causing various autosomal dominant dysplasias of dentin but without skeletal disease, and DMP1 causing autosomal recessive hypophosphatemic rickets, type 1 (ARHR1).",Orphanet:289176,1758
+31843680,"autosomal recessive hypophosphatemic rickets, type 1",Dentin matrix protein 1,Associated,"Mendelian disorders from loss-of-function mutation(s) of the genes that encode the SIBLINGs thus far involve DSPP causing various autosomal dominant dysplasias of dentin but without skeletal disease, and DMP1 causing autosomal recessive hypophosphatemic rickets, type 1 (ARHR1).",Orphanet:289176,1758
+31843680,Enthesopathy,Dentin matrix protein 1,Associated,"Herein, we describe severe hypophosphatemic osteosclerosis and hyperostosis associated with skeletal deformity, short stature, enthesopathy, tooth loss, and high circulating FGF23 levels in a middle-aged man and young woman from an endogamous family living in southern India. Both shared novel homozygous mutations within two genes that encode a SIBLING protein: stop-gain (""nonsense"") DMP1 (c.556G>T,p.Glu186Ter) and missense SPP1 (c.769C>T,p.Leu266Phe). ",EFO:0009666,1758
+31843680,Hyperostosis,Dentin matrix protein 1,Associated,"Herein, we describe severe hypophosphatemic osteosclerosis and hyperostosis associated with skeletal deformity, short stature, enthesopathy, tooth loss, and high circulating FGF23 levels in a middle-aged man and young woman from an endogamous family living in southern India. Both shared novel homozygous mutations within two genes that encode a SIBLING protein: stop-gain (""nonsense"") DMP1 (c.556G>T,p.Glu186Ter) and missense SPP1 (c.769C>T,p.Leu266Phe). ",MONDO:0002185,1758
+31843680,Hypophosphatemic osteosclerosis,Dentin matrix protein 1,Associated,"Herein, we describe severe hypophosphatemic osteosclerosis and hyperostosis associated with skeletal deformity, short stature, enthesopathy, tooth loss, and high circulating FGF23 levels in a middle-aged man and young woman from an endogamous family living in southern India. Both shared novel homozygous mutations within two genes that encode a SIBLING protein: stop-gain (""nonsense"") DMP1 (c.556G>T,p.Glu186Ter) and missense SPP1 (c.769C>T,p.Leu266Phe). ",MONDO:0002933,1758
+31843680,autosomal dominant dysplasias of dentin,Dentin matrix protein 1,Not Associated,NA,Orphanet:1653,1758
+31843680,"vitamin D dependent rickets, type 1",Dentin matrix protein 1,Not Associated,NA,Orphanet:289157,1758
+31843680,"generalized arterial calcification of infancy, type 2",Dentin matrix protein 1,Not Associated,NA,Orphanet:51608,1758
+31843680,pseudoxanthoma elasticum,Dentin matrix protein 1,Not Associated,NA,Orphanet:758,1758
+31843680,PXE,Dentin matrix protein 1,Not Associated,NA,Orphanet:758,1758
+31843680,ARHR1,Dentin matrix protein-1,Associated,"Mendelian disorders from loss-of-function mutation(s) of the genes that encode the SIBLINGs thus far involve DSPP causing various autosomal dominant dysplasias of dentin but without skeletal disease, and DMP1 causing autosomal recessive hypophosphatemic rickets, type 1 (ARHR1).",Orphanet:289176,1758
+31843680,"autosomal recessive hypophosphatemic rickets, type 1",Dentin matrix protein-1,Associated,"Mendelian disorders from loss-of-function mutation(s) of the genes that encode the SIBLINGs thus far involve DSPP causing various autosomal dominant dysplasias of dentin but without skeletal disease, and DMP1 causing autosomal recessive hypophosphatemic rickets, type 1 (ARHR1).",Orphanet:289176,1758
+31843680,Enthesopathy,Dentin matrix protein-1,Associated,"Herein, we describe severe hypophosphatemic osteosclerosis and hyperostosis associated with skeletal deformity, short stature, enthesopathy, tooth loss, and high circulating FGF23 levels in a middle-aged man and young woman from an endogamous family living in southern India. Both shared novel homozygous mutations within two genes that encode a SIBLING protein: stop-gain (""nonsense"") DMP1 (c.556G>T,p.Glu186Ter) and missense SPP1 (c.769C>T,p.Leu266Phe). ",EFO:0009666,1758
+31843680,Hyperostosis,Dentin matrix protein-1,Associated,"Herein, we describe severe hypophosphatemic osteosclerosis and hyperostosis associated with skeletal deformity, short stature, enthesopathy, tooth loss, and high circulating FGF23 levels in a middle-aged man and young woman from an endogamous family living in southern India. Both shared novel homozygous mutations within two genes that encode a SIBLING protein: stop-gain (""nonsense"") DMP1 (c.556G>T,p.Glu186Ter) and missense SPP1 (c.769C>T,p.Leu266Phe). ",MONDO:0002185,1758
+31843680,Hypophosphatemic osteosclerosis,Dentin matrix protein-1,Associated,"Herein, we describe severe hypophosphatemic osteosclerosis and hyperostosis associated with skeletal deformity, short stature, enthesopathy, tooth loss, and high circulating FGF23 levels in a middle-aged man and young woman from an endogamous family living in southern India. Both shared novel homozygous mutations within two genes that encode a SIBLING protein: stop-gain (""nonsense"") DMP1 (c.556G>T,p.Glu186Ter) and missense SPP1 (c.769C>T,p.Leu266Phe). ",MONDO:0002933,1758
+31843680,autosomal dominant dysplasias of dentin,Dentin matrix protein-1,Not Associated,NA,Orphanet:1653,1758
+31843680,"vitamin D dependent rickets, type 1",Dentin matrix protein-1,Not Associated,NA,Orphanet:289157,1758
+31843680,"generalized arterial calcification of infancy, type 2",Dentin matrix protein-1,Not Associated,NA,Orphanet:51608,1758
+31843680,pseudoxanthoma elasticum,Dentin matrix protein-1,Not Associated,NA,Orphanet:758,1758
+31843680,PXE,Dentin matrix protein-1,Not Associated,NA,Orphanet:758,1758
+31843680,ARHR1,Dentin sialophosphoprotein,Not Associated,NA,Orphanet:289176,1834
+31843680,"autosomal recessive hypophosphatemic rickets, type 1",Dentin sialophosphoprotein,Not Associated,NA,Orphanet:289176,1834
+31843680,Enthesopathy,Dentin sialophosphoprotein,Not Associated,NA,EFO:0009666,1834
+31843680,Hyperostosis,Dentin sialophosphoprotein,Not Associated,NA,MONDO:0002185,1834
+31843680,Hypophosphatemic osteosclerosis,Dentin sialophosphoprotein,Not Associated,NA,MONDO:0002933,1834
+31843680,autosomal dominant dysplasias of dentin,Dentin sialophosphoprotein,Associated,"Mendelian disorders from loss-of-function mutation(s) of the genes that encode the SIBLINGs thus far involve DSPP causing various autosomal dominant dysplasias of dentin but without skeletal disease, and DMP1 causing autosomal recessive hypophosphatemic rickets, type 1 (ARHR1).",Orphanet:1653,1834
+31843680,"vitamin D dependent rickets, type 1",Dentin sialophosphoprotein,Not Associated,NA,Orphanet:289157,1834
+31843680,"generalized arterial calcification of infancy, type 2",Dentin sialophosphoprotein,Not Associated,NA,Orphanet:51608,1834
+31843680,pseudoxanthoma elasticum,Dentin sialophosphoprotein,Not Associated,NA,Orphanet:758,1834
+31843680,PXE,Dentin sialophosphoprotein,Not Associated,NA,Orphanet:758,1834
+31843680,ARHR1,DSPP,Not Associated,NA,Orphanet:289176,1834
+31843680,"autosomal recessive hypophosphatemic rickets, type 1",DSPP,Not Associated,NA,Orphanet:289176,1834
+31843680,Enthesopathy,DSPP,Not Associated,NA,EFO:0009666,1834
+31843680,Hyperostosis,DSPP,Not Associated,NA,MONDO:0002185,1834
+31843680,Hypophosphatemic osteosclerosis,DSPP,Not Associated,NA,MONDO:0002933,1834
+31843680,autosomal dominant dysplasias of dentin,DSPP,Associated,"Mendelian disorders from loss-of-function mutation(s) of the genes that encode the SIBLINGs thus far involve DSPP causing various autosomal dominant dysplasias of dentin but without skeletal disease, and DMP1 causing autosomal recessive hypophosphatemic rickets, type 1 (ARHR1).",Orphanet:1653,1834
+31843680,"vitamin D dependent rickets, type 1",DSPP,Not Associated,NA,Orphanet:289157,1834
+31843680,"generalized arterial calcification of infancy, type 2",DSPP,Not Associated,NA,Orphanet:51608,1834
+31843680,pseudoxanthoma elasticum,DSPP,Not Associated,NA,Orphanet:758,1834
+31843680,PXE,DSPP,Not Associated,NA,Orphanet:758,1834
+31843680,ARHR1,OPN,Not Associated,NA,Orphanet:289176,6696
+31843680,"autosomal recessive hypophosphatemic rickets, type 1",OPN,Not Associated,NA,Orphanet:289176,6696
+31843680,Enthesopathy,OPN,Associated,"Herein, we describe severe hypophosphatemic osteosclerosis and hyperostosis associated with skeletal deformity, short stature, enthesopathy, tooth loss, and high circulating FGF23 levels in a middle-aged man and young woman from an endogamous family living in southern India. Both shared novel homozygous mutations within two genes that encode a SIBLING protein: stop-gain (""nonsense"") DMP1 (c.556G>T,p.Glu186Ter) and missense SPP1 (c.769C>T,p.Leu266Phe). ",EFO:0009666,6696
+31843680,Hyperostosis,OPN,Associated,"Herein, we describe severe hypophosphatemic osteosclerosis and hyperostosis associated with skeletal deformity, short stature, enthesopathy, tooth loss, and high circulating FGF23 levels in a middle-aged man and young woman from an endogamous family living in southern India. Both shared novel homozygous mutations within two genes that encode a SIBLING protein: stop-gain (""nonsense"") DMP1 (c.556G>T,p.Glu186Ter) and missense SPP1 (c.769C>T,p.Leu266Phe). ",MONDO:0002185,6696
+31843680,Hypophosphatemic osteosclerosis,OPN,Associated,"Herein, we describe severe hypophosphatemic osteosclerosis and hyperostosis associated with skeletal deformity, short stature, enthesopathy, tooth loss, and high circulating FGF23 levels in a middle-aged man and young woman from an endogamous family living in southern India. Both shared novel homozygous mutations within two genes that encode a SIBLING protein: stop-gain (""nonsense"") DMP1 (c.556G>T,p.Glu186Ter) and missense SPP1 (c.769C>T,p.Leu266Phe). ",MONDO:0002933,6696
+31843680,autosomal dominant dysplasias of dentin,OPN,Not Associated,NA,Orphanet:1653,6696
+31843680,"vitamin D dependent rickets, type 1",OPN,Not Associated,NA,Orphanet:289157,6696
+31843680,"generalized arterial calcification of infancy, type 2",OPN,Not Associated,NA,Orphanet:51608,6696
+31843680,pseudoxanthoma elasticum,OPN,Not Associated,NA,Orphanet:758,6696
+31843680,PXE,OPN,Not Associated,NA,Orphanet:758,6696
+31843680,ARHR1,osteopontin,Not Associated,NA,Orphanet:289176,6696
+31843680,"autosomal recessive hypophosphatemic rickets, type 1",osteopontin,Not Associated,NA,Orphanet:289176,6696
+31843680,Enthesopathy,osteopontin,Associated,"Herein, we describe severe hypophosphatemic osteosclerosis and hyperostosis associated with skeletal deformity, short stature, enthesopathy, tooth loss, and high circulating FGF23 levels in a middle-aged man and young woman from an endogamous family living in southern India. Both shared novel homozygous mutations within two genes that encode a SIBLING protein: stop-gain (""nonsense"") DMP1 (c.556G>T,p.Glu186Ter) and missense SPP1 (c.769C>T,p.Leu266Phe). ",EFO:0009666,6696
+31843680,Hyperostosis,osteopontin,Associated,"Herein, we describe severe hypophosphatemic osteosclerosis and hyperostosis associated with skeletal deformity, short stature, enthesopathy, tooth loss, and high circulating FGF23 levels in a middle-aged man and young woman from an endogamous family living in southern India. Both shared novel homozygous mutations within two genes that encode a SIBLING protein: stop-gain (""nonsense"") DMP1 (c.556G>T,p.Glu186Ter) and missense SPP1 (c.769C>T,p.Leu266Phe). ",MONDO:0002185,6696
+31843680,Hypophosphatemic osteosclerosis,osteopontin,Associated,"Herein, we describe severe hypophosphatemic osteosclerosis and hyperostosis associated with skeletal deformity, short stature, enthesopathy, tooth loss, and high circulating FGF23 levels in a middle-aged man and young woman from an endogamous family living in southern India. Both shared novel homozygous mutations within two genes that encode a SIBLING protein: stop-gain (""nonsense"") DMP1 (c.556G>T,p.Glu186Ter) and missense SPP1 (c.769C>T,p.Leu266Phe). ",MONDO:0002933,6696
+31843680,autosomal dominant dysplasias of dentin,osteopontin,Not Associated,NA,Orphanet:1653,6696
+31843680,"vitamin D dependent rickets, type 1",osteopontin,Not Associated,NA,Orphanet:289157,6696
+31843680,"generalized arterial calcification of infancy, type 2",osteopontin,Not Associated,NA,Orphanet:51608,6696
+31843680,pseudoxanthoma elasticum,osteopontin,Not Associated,NA,Orphanet:758,6696
+31843680,PXE,osteopontin,Not Associated,NA,Orphanet:758,6696
+31843680,ARHR1,secreted phosphoprotein-1,Not Associated,NA,Orphanet:289176,6696
+31843680,"autosomal recessive hypophosphatemic rickets, type 1",secreted phosphoprotein-1,Not Associated,NA,Orphanet:289176,6696
+31843680,Enthesopathy,secreted phosphoprotein-1,Associated,"Herein, we describe severe hypophosphatemic osteosclerosis and hyperostosis associated with skeletal deformity, short stature, enthesopathy, tooth loss, and high circulating FGF23 levels in a middle-aged man and young woman from an endogamous family living in southern India. Both shared novel homozygous mutations within two genes that encode a SIBLING protein: stop-gain (""nonsense"") DMP1 (c.556G>T,p.Glu186Ter) and missense SPP1 (c.769C>T,p.Leu266Phe). ",EFO:0009666,6696
+31843680,Hyperostosis,secreted phosphoprotein-1,Associated,"Herein, we describe severe hypophosphatemic osteosclerosis and hyperostosis associated with skeletal deformity, short stature, enthesopathy, tooth loss, and high circulating FGF23 levels in a middle-aged man and young woman from an endogamous family living in southern India. Both shared novel homozygous mutations within two genes that encode a SIBLING protein: stop-gain (""nonsense"") DMP1 (c.556G>T,p.Glu186Ter) and missense SPP1 (c.769C>T,p.Leu266Phe). ",MONDO:0002185,6696
+31843680,Hypophosphatemic osteosclerosis,secreted phosphoprotein-1,Associated,"Herein, we describe severe hypophosphatemic osteosclerosis and hyperostosis associated with skeletal deformity, short stature, enthesopathy, tooth loss, and high circulating FGF23 levels in a middle-aged man and young woman from an endogamous family living in southern India. Both shared novel homozygous mutations within two genes that encode a SIBLING protein: stop-gain (""nonsense"") DMP1 (c.556G>T,p.Glu186Ter) and missense SPP1 (c.769C>T,p.Leu266Phe). ",MONDO:0002933,6696
+31843680,autosomal dominant dysplasias of dentin,secreted phosphoprotein-1,Not Associated,NA,Orphanet:1653,6696
+31843680,"vitamin D dependent rickets, type 1",secreted phosphoprotein-1,Not Associated,NA,Orphanet:289157,6696
+31843680,"generalized arterial calcification of infancy, type 2",secreted phosphoprotein-1,Not Associated,NA,Orphanet:51608,6696
+31843680,pseudoxanthoma elasticum,secreted phosphoprotein-1,Not Associated,NA,Orphanet:758,6696
+31843680,PXE,secreted phosphoprotein-1,Not Associated,NA,Orphanet:758,6696
+31843680,ARHR1,SPP1,Not Associated,NA,Orphanet:289176,6696
+31843680,"autosomal recessive hypophosphatemic rickets, type 1",SPP1,Not Associated,NA,Orphanet:289176,6696
+31843680,Enthesopathy,SPP1,Associated,"Herein, we describe severe hypophosphatemic osteosclerosis and hyperostosis associated with skeletal deformity, short stature, enthesopathy, tooth loss, and high circulating FGF23 levels in a middle-aged man and young woman from an endogamous family living in southern India. Both shared novel homozygous mutations within two genes that encode a SIBLING protein: stop-gain (""nonsense"") DMP1 (c.556G>T,p.Glu186Ter) and missense SPP1 (c.769C>T,p.Leu266Phe). ",EFO:0009666,6696
+31843680,Hyperostosis,SPP1,Associated,"Herein, we describe severe hypophosphatemic osteosclerosis and hyperostosis associated with skeletal deformity, short stature, enthesopathy, tooth loss, and high circulating FGF23 levels in a middle-aged man and young woman from an endogamous family living in southern India. Both shared novel homozygous mutations within two genes that encode a SIBLING protein: stop-gain (""nonsense"") DMP1 (c.556G>T,p.Glu186Ter) and missense SPP1 (c.769C>T,p.Leu266Phe). ",MONDO:0002185,6696
+31843680,Hypophosphatemic osteosclerosis,SPP1,Associated,"Herein, we describe severe hypophosphatemic osteosclerosis and hyperostosis associated with skeletal deformity, short stature, enthesopathy, tooth loss, and high circulating FGF23 levels in a middle-aged man and young woman from an endogamous family living in southern India. Both shared novel homozygous mutations within two genes that encode a SIBLING protein: stop-gain (""nonsense"") DMP1 (c.556G>T,p.Glu186Ter) and missense SPP1 (c.769C>T,p.Leu266Phe). ",MONDO:0002933,6696
+31843680,autosomal dominant dysplasias of dentin,SPP1,Not Associated,NA,Orphanet:1653,6696
+31843680,"vitamin D dependent rickets, type 1",SPP1,Not Associated,NA,Orphanet:289157,6696
+31843680,"generalized arterial calcification of infancy, type 2",SPP1,Not Associated,NA,Orphanet:51608,6696
+31843680,pseudoxanthoma elasticum,SPP1,Not Associated,NA,Orphanet:758,6696
+31843680,PXE,SPP1,Not Associated,NA,Orphanet:758,6696
+31843680,ARHR1,integrin-binding sialoprotein,Not Associated,NA,Orphanet:289176,3381
+31843680,"autosomal recessive hypophosphatemic rickets, type 1",integrin-binding sialoprotein,Not Associated,NA,Orphanet:289176,3381
+31843680,Enthesopathy,integrin-binding sialoprotein,Not Associated,NA,EFO:0009666,3381
+31843680,Hyperostosis,integrin-binding sialoprotein,Not Associated,NA,MONDO:0002185,3381
+31843680,Hypophosphatemic osteosclerosis,integrin-binding sialoprotein,Not Associated,NA,MONDO:0002933,3381
+31843680,autosomal dominant dysplasias of dentin,integrin-binding sialoprotein,Not Associated,NA,Orphanet:1653,3381
+31843680,"vitamin D dependent rickets, type 1",integrin-binding sialoprotein,Not Associated,NA,Orphanet:289157,3381
+31843680,"generalized arterial calcification of infancy, type 2",integrin-binding sialoprotein,Not Associated,NA,Orphanet:51608,3381
+31843680,pseudoxanthoma elasticum,integrin-binding sialoprotein,Not Associated,NA,Orphanet:758,3381
+31843680,PXE,integrin-binding sialoprotein,Not Associated,NA,Orphanet:758,3381
+31843680,ARHR1,IBSP,Not Associated,NA,Orphanet:289176,3381
+31843680,"autosomal recessive hypophosphatemic rickets, type 1",IBSP,Not Associated,NA,Orphanet:289176,3381
+31843680,Enthesopathy,IBSP,Not Associated,NA,EFO:0009666,3381
+31843680,Hyperostosis,IBSP,Not Associated,NA,MONDO:0002185,3381
+31843680,Hypophosphatemic osteosclerosis,IBSP,Not Associated,NA,MONDO:0002933,3381
+31843680,autosomal dominant dysplasias of dentin,IBSP,Not Associated,NA,Orphanet:1653,3381
+31843680,"vitamin D dependent rickets, type 1",IBSP,Not Associated,NA,Orphanet:289157,3381
+31843680,"generalized arterial calcification of infancy, type 2",IBSP,Not Associated,NA,Orphanet:51608,3381
+31843680,pseudoxanthoma elasticum,IBSP,Not Associated,NA,Orphanet:758,3381
+31843680,PXE,IBSP,Not Associated,NA,Orphanet:758,3381
+31843680,ARHR1,bone sialoprotein,Not Associated,NA,Orphanet:289176,3381
+31843680,"autosomal recessive hypophosphatemic rickets, type 1",bone sialoprotein,Not Associated,NA,Orphanet:289176,3381
+31843680,Enthesopathy,bone sialoprotein,Not Associated,NA,EFO:0009666,3381
+31843680,Hyperostosis,bone sialoprotein,Not Associated,NA,MONDO:0002185,3381
+31843680,Hypophosphatemic osteosclerosis,bone sialoprotein,Not Associated,NA,MONDO:0002933,3381
+31843680,autosomal dominant dysplasias of dentin,bone sialoprotein,Not Associated,NA,Orphanet:1653,3381
+31843680,"vitamin D dependent rickets, type 1",bone sialoprotein,Not Associated,NA,Orphanet:289157,3381
+31843680,"generalized arterial calcification of infancy, type 2",bone sialoprotein,Not Associated,NA,Orphanet:51608,3381
+31843680,pseudoxanthoma elasticum,bone sialoprotein,Not Associated,NA,Orphanet:758,3381
+31843680,PXE,bone sialoprotein,Not Associated,NA,Orphanet:758,3381
+31843680,ARHR1,BSP,Not Associated,NA,Orphanet:289176,3381
+31843680,"autosomal recessive hypophosphatemic rickets, type 1",BSP,Not Associated,NA,Orphanet:289176,3381
+31843680,Enthesopathy,BSP,Not Associated,NA,EFO:0009666,3381
+31843680,Hyperostosis,BSP,Not Associated,NA,MONDO:0002185,3381
+31843680,Hypophosphatemic osteosclerosis,BSP,Not Associated,NA,MONDO:0002933,3381
+31843680,autosomal dominant dysplasias of dentin,BSP,Not Associated,NA,Orphanet:1653,3381
+31843680,"vitamin D dependent rickets, type 1",BSP,Not Associated,NA,Orphanet:289157,3381
+31843680,"generalized arterial calcification of infancy, type 2",BSP,Not Associated,NA,Orphanet:51608,3381
+31843680,pseudoxanthoma elasticum,BSP,Not Associated,NA,Orphanet:758,3381
+31843680,PXE,BSP,Not Associated,NA,Orphanet:758,3381
+31843680,ARHR1,matrix extracellular phosphoglycoprotein,Not Associated,NA,Orphanet:289176,56955
+31843680,"autosomal recessive hypophosphatemic rickets, type 1",matrix extracellular phosphoglycoprotein,Not Associated,NA,Orphanet:289176,56955
+31843680,Enthesopathy,matrix extracellular phosphoglycoprotein,Not Associated,NA,EFO:0009666,56955
+31843680,Hyperostosis,matrix extracellular phosphoglycoprotein,Not Associated,NA,MONDO:0002185,56955
+31843680,Hypophosphatemic osteosclerosis,matrix extracellular phosphoglycoprotein,Not Associated,NA,MONDO:0002933,56955
+31843680,autosomal dominant dysplasias of dentin,matrix extracellular phosphoglycoprotein,Not Associated,NA,Orphanet:1653,56955
+31843680,"vitamin D dependent rickets, type 1",matrix extracellular phosphoglycoprotein,Not Associated,NA,Orphanet:289157,56955
+31843680,"generalized arterial calcification of infancy, type 2",matrix extracellular phosphoglycoprotein,Not Associated,NA,Orphanet:51608,56955
+31843680,pseudoxanthoma elasticum,matrix extracellular phosphoglycoprotein,Not Associated,NA,Orphanet:758,56955
+31843680,PXE,matrix extracellular phosphoglycoprotein,Not Associated,NA,Orphanet:758,56955
+31843680,ARHR1,MEPE,Not Associated,NA,Orphanet:289176,56955
+31843680,"autosomal recessive hypophosphatemic rickets, type 1",MEPE,Not Associated,NA,Orphanet:289176,56955
+31843680,Enthesopathy,MEPE,Not Associated,NA,EFO:0009666,56955
+31843680,Hyperostosis,MEPE,Not Associated,NA,MONDO:0002185,56955
+31843680,Hypophosphatemic osteosclerosis,MEPE,Not Associated,NA,MONDO:0002933,56955
+31843680,autosomal dominant dysplasias of dentin,MEPE,Not Associated,NA,Orphanet:1653,56955
+31843680,"vitamin D dependent rickets, type 1",MEPE,Not Associated,NA,Orphanet:289157,56955
+31843680,"generalized arterial calcification of infancy, type 2",MEPE,Not Associated,NA,Orphanet:51608,56955
+31843680,pseudoxanthoma elasticum,MEPE,Not Associated,NA,Orphanet:758,56955
+31843680,PXE,MEPE,Not Associated,NA,Orphanet:758,56955
